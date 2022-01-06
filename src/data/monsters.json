@@ -1,0 +1,3332 @@
+[
+	{
+		"id" : 1,
+		"imgFileName" : "1.png",
+		"name" : {
+			"en" : "Slime",
+			"fr" : "Gluant"
+		},
+		"hp" : 8,
+		"mp" : 0,
+		"attack" : 9,
+		"defense" : 5,
+		"speed" : 5,
+		"xp" : 1,
+		"gold" : 2,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Région de Bastione",
+					"Grotte Bastione-Strattbourg",
+					"Région de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Lakanaba",
+					"Grotte de Lakanaba"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia",
+					"Tour des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 2,
+		"imgFileName" : "2.png",
+		"name" : {
+			"en" : "Wiggly",
+			"fr" : "Londuleux"
+		},
+		"hp" : 11,
+		"mp" : 0,
+		"attack" : 10,
+		"defense" : 6,
+		"speed" : 2,
+		"xp" : 3,
+		"gold" : 6,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Région de Bastione",
+					"Grotte Bastione-Strattbourg",
+					"Région de Strattbourg"
+				],
+				"chapter2" : [
+					"Région de Zalenagrad"
+				],
+				"chapter3" : [
+					"Région de Lakanaba",
+					"Grotte de Lakanaba",
+					"Région de Chandor",
+					"Région du village des animaux",
+					"Région de Ballimore"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Casabranca"
+				]
+			}
+		]
+	},
+	{
+		"id" : 3,
+		"imgFileName" : "3.png",
+		"name" : {
+			"en" : "Air rat",
+			"fr" : "Rat volant"
+		},
+		"hp" : 14,
+		"mp" : 0,
+		"attack" : 11,
+		"defense" : 2,
+		"speed" : 7,
+		"xp" : 3,
+		"gold" : 7,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Région de Bastione",
+					"Grotte Bastione-Strattbourg",
+					"Région de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 4,
+		"imgFileName" : "4.png",
+		"name" : {
+			"en" : "Scissor beatle",
+			"fr" : "Scarapince"
+		},
+		"hp" : 9,
+		"mp" : 0,
+		"attack" : 9,
+		"defense" : 5,
+		"speed" : 3,
+		"xp" : 1,
+		"gold" : 4,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Région de Bastione",
+					"Grotte Bastione-Strattbourg",
+					"Région de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 5,
+		"imgFileName" : "5.png",
+		"name" : {
+			"en" : "Bubble Slime",
+			"fr" : "Gluanbulle"
+		},
+		"hp" : 12,
+		"mp" : 0,
+		"attack" : 11,
+		"defense" : 9,
+		"speed" : 8,
+		"xp" : 6,
+		"gold" : 8,
+		"items" : [
+			"Herbe curative"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Région de Bastione",
+					"Région de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Grotte de Lakanaba",
+					"Région de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 6,
+		"imgFileName" : "6.png",
+		"name" : {
+			"en" : "Mischievous mole",
+			"fr" : "Pataupe"
+		},
+		"hp" : 10,
+		"mp" : 0,
+		"attack" : 10,
+		"defense" : 6,
+		"speed" : 5,
+		"xp" : 2,
+		"gold" : 4,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Zalenagrad"
+				],
+				"chapter3" : [
+					"Région de Lakanaba",
+					"Grotte de Lakanaba",
+					"Région du village des animaux"
+				],
+				"chapter4" : [],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 7,
+		"imgFileName" : "7.png",
+		"name" : {
+			"en" : "Stump chump",
+			"fr" : "Souche louche"
+		},
+		"hp" : 21,
+		"mp" : 0,
+		"attack" : 18,
+		"defense" : 8,
+		"speed" : 1,
+		"xp" : 7,
+		"gold" : 13,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Région de Strattbourg",
+					"Grotte aire de jeu de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Lakanaba",
+					"Grotte de Lakanaba",
+					"Région de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 8,
+		"imgFileName" : "8.png",
+		"name" : {
+			"en" : "Healslime",
+			"fr" : "Médigluant"
+		},
+		"hp" : 16,
+		"mp" : 0,
+		"attack" : 13,
+		"defense" : 8,
+		"speed" : 12,
+		"xp" : 7,
+		"gold" : 11,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grotte aire de jeu de Strattbourg",
+					"Grande tour de Strattbourg"
+				],
+				"chapter2" : [
+					"Région de Chandor"
+				],
+				"chapter3" : [
+					"Région de Lakanaba"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grand désert de l'est",
+					"Région de Port-Carène",
+					"Phare de Port-Carène",
+					"Grotte de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 9,
+		"imgFileName" : "9.png",
+		"name" : {
+			"en" : "Mad mole",
+			"fr" : "Taupelle"
+		},
+		"hp" : 16,
+		"mp" : 0,
+		"attack" : 19,
+		"defense" : 15,
+		"speed" : 10,
+		"xp" : 9,
+		"gold" : 10,
+		"items" : [
+			"Graine de force"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grotte aire de jeu de Strattbourg",
+					"Grande tour de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Ballimore",
+					"Région de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Ballimore"
+				]
+			}
+		]
+	},
+	{
+		"id" : 10,
+		"imgFileName" : "10.png",
+		"name" : {
+			"en" : "Winkster",
+			"fr" : "Fée tide"
+		},
+		"hp" : 17,
+		"mp" : 2,
+		"attack" : 16,
+		"defense" : 10,
+		"speed" : 7,
+		"xp" : 11,
+		"gold" : 13,
+		"items" : [
+			"Bâton de cyprès"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grotte aire de jeu de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région grotte de Chandor"
+				],
+				"chapter4" : [
+					"Région de Deadend",
+					"Grotte de Deadend"
+				],
+				"chapter5" : [
+					"Région grotte de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 11,
+		"imgFileName" : "11.png",
+		"name" : {
+			"en" : "Bodkin archer",
+			"fr" : "Archer vert"
+		},
+		"hp" : 21,
+		"mp" : 3,
+		"attack" : 26,
+		"defense" : 20,
+		"speed" : 20,
+		"xp" : 13,
+		"gold" : 15,
+		"items" : [
+			"Vêtement simple"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grande tour de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région grotte du symbole de la foi"
+				]
+			}
+		]
+	},
+	{
+		"id" : 12,
+		"imgFileName" : "12.png",
+		"name" : {
+			"en" : "Splatypunk",
+			"fr" : "Ornitro"
+		},
+		"hp" : 22,
+		"mp" : 3,
+		"attack" : 25,
+		"defense" : 18,
+		"speed" : 12,
+		"xp" : 14,
+		"gold" : 10,
+		"items" : [
+			"Bouclier de cuir"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grande tour de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Ballimore",
+					"Grotte de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 13,
+		"imgFileName" : "13.png",
+		"name" : {
+			"en" : "Blinkster",
+			"fr" : "Fée brile"
+		},
+		"hp" : 33,
+		"mp" : 2,
+		"attack" : 17,
+		"defense" : 24,
+		"speed" : 14,
+		"xp" : 18,
+		"gold" : 20,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grande tour de Strattbourg"
+				],
+				"chapter2" : [
+					"Grotte de Vrenor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 14,
+		"imgFileName" : "14.png",
+		"name" : {
+			"en" : "Picksy",
+			"fr" : "Chérubus"
+		},
+		"hp" : 29,
+		"mp" : 3,
+		"attack" : 26,
+		"defense" : 22,
+		"speed" : 15,
+		"xp" : 16,
+		"gold" : 20,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grande tour de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région grotte du symbole de la foi"
+				]
+			}
+		]
+	},
+	{
+		"id" : 15,
+		"imgFileName" : "15.png",
+		"name" : {
+			"en" : "Bantamweight",
+			"fr" : "Poids-coq"
+		},
+		"hp" : 31,
+		"mp" : 0,
+		"attack" : 28,
+		"defense" : 22,
+		"speed" : 18,
+		"xp" : 20,
+		"gold" : 9,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grande tour de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [
+					"Grotte de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grande tour de Strattbourg",
+					"Région grotte du symbole de la foi"
+				]
+			}
+		]
+	},
+	{
+		"id" : 16,
+		"imgFileName" : "16.png",
+		"name" : {
+			"en" : "Winky",
+			"fr" : "Clindœil"
+		},
+		"hp" : 42,
+		"mp" : 0,
+		"attack" : 29,
+		"defense" : 32,
+		"speed" : 20,
+		"xp" : 27,
+		"gold" : 40,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Grande tour de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Bourg-les-Bains"
+				]
+			}
+		]
+	},
+	{
+		"id" : 17,
+		"imgFileName" : "17.png",
+		"name" : {
+			"en" : "Walking stick",
+			"fr" : "Fourmiasme"
+		},
+		"hp" : 8,
+		"mp" : 0,
+		"attack" : 8,
+		"defense" : 5,
+		"speed" : 8,
+		"xp" : 1,
+		"gold" : 2,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Zalenagrad",
+					"Région de Vrenor"
+				],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Teafortwo",
+					"Région de Deadend"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 18,
+		"imgFileName" : "18.png",
+		"name" : {
+			"en" : "She-slime",
+			"fr" : "Gluante"
+		},
+		"hp" : 10,
+		"mp" : 0,
+		"attack" : 9,
+		"defense" : 5,
+		"speed" : 3,
+		"xp" : 2,
+		"gold" : 5,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Zalenagrad"
+				],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Teafortwo",
+					"Région de Deadend"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 19,
+		"imgFileName" : "19.png",
+		"name" : {
+			"en" : "Lickspittle",
+			"fr" : "Glair de lune"
+		},
+		"hp" : 13,
+		"mp" : 0,
+		"attack" : 13,
+		"defense" : 8,
+		"speed" : 5,
+		"xp" : 4,
+		"gold" : 10,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Zalenagrad",
+					"Région de Vrenor"
+				],
+				"chapter3" : [
+					"Région de Chandor"
+				],
+				"chapter4" : [
+					"Région de Deadend",
+					"Grotte de Deadend"
+				],
+				"chapter5" : [
+					"Région de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 20,
+		"imgFileName" : "20.png",
+		"name" : {
+			"en" : "Mouseflap",
+			"fr" : "Chauve-sourat"
+		},
+		"hp" : 11,
+		"mp" : 0,
+		"attack" : 11,
+		"defense" : 6,
+		"speed" : 9,
+		"xp" : 3,
+		"gold" : 5,
+		"items" : [
+			"Casque de cuir"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Zalenagrad",
+					"Région de Taborov"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Casabranca"
+				]
+			}
+		]
+	},
+	{
+		"id" : 21,
+		"imgFileName" : "21.png",
+		"name" : {
+			"en" : "Foo dog",
+			"fr" : "Chienfernal"
+		},
+		"hp" : 23,
+		"mp" : 0,
+		"attack" : 19,
+		"defense" : 18,
+		"speed" : 7,
+		"xp" : 7,
+		"gold" : 20,
+		"items" : [
+			"Aile de chimère"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Zalenagrad",
+					"Région de Taborov",
+					"Autel du sacrifice de Taborov"
+				],
+				"chapter3" : [
+					"Région de Ballimore"
+				],
+				"chapter4" : [
+					"Région de Teafortwo",
+					"Région de Deadend"
+				],
+				"chapter5" : [
+					"Région de Ballimore"
+				]
+			}
+		]
+	},
+	{
+		"id" : 22,
+		"imgFileName" : "22.png",
+		"name" : {
+			"en" : "Bagworm",
+			"fr" : "Sacaver"
+		},
+		"hp" : 16,
+		"mp" : 0,
+		"attack" : 8,
+		"defense" : 22,
+		"speed" : 8,
+		"xp" : 5,
+		"gold" : 18,
+		"items" : [
+			"Aile de chimère"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Zalenagrad"
+				],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Deadend"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 23,
+		"imgFileName" : "23.png",
+		"name" : {
+			"en" : "Funghoul",
+			"fr" : "Champigoule"
+		},
+		"hp" : 19,
+		"mp" : 0,
+		"attack" : 19,
+		"defense" : 15,
+		"speed" : 10,
+		"xp" : 6,
+		"gold" : 15,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Vrenor",
+					"Grotte de Vrenor"
+				],
+				"chapter3" : [],
+				"chapter4" : [
+					"Grotte de Deadend"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 24,
+		"imgFileName" : "24.png",
+		"name" : {
+			"en" : "Bullfinch",
+			"fr" : "Taurapace"
+		},
+		"hp" : 20,
+		"mp" : 0,
+		"attack" : 22,
+		"defense" : 12,
+		"speed" : 10,
+		"xp" : 7,
+		"gold" : 17,
+		"items" : [
+			"Graine de force"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Vrenor",
+					"Région de la grotte de Vrenor",
+					"Région du bazar du désert"
+				],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région du palais de Lord Lionel"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 25,
+		"imgFileName" : "25.png",
+		"name" : {
+			"en" : "Carnivine",
+			"fr" : "Morchidée"
+		},
+		"hp" : 17,
+		"mp" : 0,
+		"attack" : 21,
+		"defense" : 16,
+		"speed" : 4,
+		"xp" : 7,
+		"gold" : 18,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Vrenor",
+					"Région de Chandor"
+				],
+				"chapter3" : [
+					"Région de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 26,
+		"imgFileName" : "26.png",
+		"name" : {
+			"en" : "Firespirit",
+			"fr" : "Feu follet"
+		},
+		"hp" : 12,
+		"mp" : 2,
+		"attack" : 11,
+		"defense" : 12,
+		"speed" : 8,
+		"xp" : 6,
+		"gold" : 18,
+		"items" : [
+			"Fiole d'eau sacrée"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Vrenor",
+					"Grotte de Vrenor",
+					"Région de Chandor"
+				],
+				"chapter3" : [
+					"Région de Chandor"
+				],
+				"chapter4" : [
+					"Grotte de Deadend"
+				],
+				"chapter5" : [
+					"Région de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 27,
+		"imgFileName" : "27.png",
+		"name" : {
+			"en" : "Thorny devil",
+			"fr" : "Démon piquant"
+		},
+		"hp" : 25,
+		"mp" : 0,
+		"attack" : 21,
+		"defense" : 20,
+		"speed" : 15,
+		"xp" : 15,
+		"gold" : 25,
+		"items" : [
+			"Bouclier de cuir"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Grotte de Vrenor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Phare de Port-Carène",
+					"Grotte de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 28,
+		"imgFileName" : "28.png",
+		"name" : {
+			"en" : "Lugworm",
+			"fr" : "Tortilleux"
+		},
+		"hp" : 30,
+		"mp" : 0,
+		"attack" : 30,
+		"defense" : 3,
+		"speed" : 24,
+		"xp" : 22,
+		"gold" : 27,
+		"items" : [
+			"Vêtement simple"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région du bazar du désert"
+				],
+				"chapter3" : [
+					"Grotte de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région du phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 29,
+		"imgFileName" : "29.png",
+		"name" : {
+			"en" : "Bedbug",
+			"fr" : "Scarasomniaque"
+		},
+		"hp" : 23,
+		"mp" : 6,
+		"attack" : 22,
+		"defense" : 18,
+		"speed" : 10,
+		"xp" : 12,
+		"gold" : 15,
+		"items" : [
+			"Fiole d'eau magique"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de la grotte de Vrenor",
+					"Grotte de Vrenor"
+				],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Deadend"
+				],
+				"chapter5" : [
+					"Grotte de Vrenor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 30,
+		"imgFileName" : "30.png",
+		"name" : {
+			"en" : "Komodo",
+			"fr" : "Komodor"
+		},
+		"hp" : 32,
+		"mp" : 0,
+		"attack" : 30,
+		"defense" : 33,
+		"speed" : 25,
+		"xp" : 25,
+		"gold" : 39,
+		"items" : [
+			"Lance sacrée"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de la grotte de Vrenor",
+					"Région du bazar du désert"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 31,
+		"imgFileName" : "31.png",
+		"name" : {
+			"en" : "Pickayune",
+			"fr" : "Démonius"
+		},
+		"hp" : 25,
+		"mp" : 3,
+		"attack" : 26,
+		"defense" : 24,
+		"speed" : 21,
+		"xp" : 18,
+		"gold" : 36,
+		"items" : [
+			"Fiole d'eau sacrée"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Grotte de Vrenor",
+					"Région du bazar du désert",
+					"Tour elfique"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour elfique"
+				]
+			}
+		]
+	},
+	{
+		"id" : 32,
+		"imgFileName" : "32.png",
+		"name" : {
+			"en" : "Crested viper",
+			"fr" : "Vipère à crête"
+		},
+		"hp" : 31,
+		"mp" : 4,
+		"attack" : 31,
+		"defense" : 28,
+		"speed" : 18,
+		"xp" : 18,
+		"gold" : 25,
+		"items" : [
+			"Chapeau à plumes"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Grotte de Vrenor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grand désert de l'est",
+					"Région de Bourg-les-Bains",
+					"Phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 33,
+		"imgFileName" : "33.png",
+		"name" : {
+			"en" : "Armoured scorpion",
+			"fr" : "Scorpion blindé"
+		},
+		"hp" : 40,
+		"mp" : 0,
+		"attack" : 33,
+		"defense" : 42,
+		"speed" : 9,
+		"xp" : 38,
+		"gold" : 44,
+		"items" : [
+			"Armure de cuir"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région du bazar du désert",
+					"Région de Chandor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grand désert de l'est"
+				]
+			}
+		]
+	},
+	{
+		"id" : 34,
+		"imgFileName" : "34.png",
+		"name" : {
+			"en" : "Vampire bat",
+			"fr" : "Vampierre"
+		},
+		"hp" : 25,
+		"mp" : 3,
+		"attack" : 25,
+		"defense" : 22,
+		"speed" : 14,
+		"xp" : 11,
+		"gold" : 23,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Grotte de Vrenor"
+				],
+				"chapter3" : [
+					"Région de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte du symbole de la foi",
+					"Région de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 35,
+		"imgFileName" : "35.png",
+		"name" : {
+			"en" : "Cyclown",
+			"fr" : "Cyclown"
+		},
+		"hp" : 41,
+		"mp" : 4,
+		"attack" : 29,
+		"defense" : 31,
+		"speed" : 40,
+		"xp" : 32,
+		"gold" : 34,
+		"items" : [
+			"Arc de chasseur"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Tour elfique",
+					"Région de Chandor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Bourg-les-Bains",
+					"Région du phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 36,
+		"imgFileName" : "36.png",
+		"name" : {
+			"en" : "Killer gila",
+			"fr" : "Batratueur"
+		},
+		"hp" : 34,
+		"mp" : 0,
+		"attack" : 32,
+		"defense" : 32,
+		"speed" : 15,
+		"xp" : 18,
+		"gold" : 21,
+		"items" : [
+			"Herbe curative"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Tour elfique"
+				],
+				"chapter3" : [
+					"Grotte de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 37,
+		"imgFileName" : "37.png",
+		"name" : {
+			"en" : "Flyguy",
+			"fr" : "Mouchomme"
+		},
+		"hp" : 34,
+		"mp" : 3,
+		"attack" : 31,
+		"defense" : 34,
+		"speed" : 17,
+		"xp" : 35,
+		"gold" : 47,
+		"items" : [
+			"Fiole d'eau magique"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Tour elfique"
+				],
+				"chapter3" : [
+					"Grotte de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Chandor",
+					"Région de Bourg-les-Bains"
+				]
+			}
+		]
+	},
+	{
+		"id" : 38,
+		"imgFileName" : "38.png",
+		"name" : {
+			"en" : "Erazor blade",
+			"fr" : "Cimetueur"
+		},
+		"hp" : 29,
+		"mp" : 0,
+		"attack" : 35,
+		"defense" : 30,
+		"speed" : 17,
+		"xp" : 30,
+		"gold" : 46,
+		"items" : [
+			"Épée de cuivre"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Tour elfique"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 39,
+		"imgFileName" : "39.png",
+		"name" : {
+			"en" : "Pteranodon",
+			"fr" : "Ptéranodon"
+		},
+		"hp" : 41,
+		"mp" : 8,
+		"attack" : 28,
+		"defense" : 24,
+		"speed" : 19,
+		"xp" : 36,
+		"gold" : 50,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Tour elfique",
+					"Région de Chandor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour elfique",
+					"Grand désert de l'est",
+					"Région de Port-Carène",
+					"Région du phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 40,
+		"imgFileName" : "40.png",
+		"name" : {
+			"en" : "Flying doctor",
+			"fr" : "Dragonlule"
+		},
+		"hp" : 47,
+		"mp" : 3,
+		"attack" : 36,
+		"defense" : 20,
+		"speed" : 25,
+		"xp" : 38,
+		"gold" : 60,
+		"items" : [
+			"Aile de chimère"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Tour elfique"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour elfique"
+				]
+			}
+		]
+	},
+	{
+		"id" : 41,
+		"imgFileName" : "41.png",
+		"name" : {
+			"en" : "Peeper",
+			"fr" : "Matœil"
+		},
+		"hp" : 35,
+		"mp" : 6,
+		"attack" : 30,
+		"defense" : 30,
+		"speed" : 21,
+		"xp" : 31,
+		"gold" : 62,
+		"items" : [
+			"Casque de cuir"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Tour elfique"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour elfique"
+				]
+			}
+		]
+	},
+	{
+		"id" : 42,
+		"imgFileName" : "42.png",
+		"name" : {
+			"en" : "Skeleton swordsman",
+			"fr" : "Squelépéiste"
+		},
+		"hp" : 52,
+		"mp" : 8,
+		"attack" : 49,
+		"defense" : 45,
+		"speed" : 27,
+		"xp" : 53,
+		"gold" : 54,
+		"items" : [
+			"Griffe de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Chandor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Phare de Port-Carène",
+					"Région de Ringys",
+					"Désert d'El Forado"
+				]
+			}
+		]
+	},
+	{
+		"id" : 43,
+		"imgFileName" : "43.png",
+		"name" : {
+			"en" : "Restless armour",
+			"fr" : "Armure errante"
+		},
+		"hp" : 54,
+		"mp" : 0,
+		"attack" : 45,
+		"defense" : 43,
+		"speed" : 25,
+		"xp" : 55,
+		"gold" : 49,
+		"items" : [
+			"Cottes de mailles"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Chandor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grand désert de l'est",
+					"Région de Port-Carène",
+					"Phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 44,
+		"imgFileName" : "44.png",
+		"name" : {
+			"en" : "Metal slime",
+			"fr" : "Gluant de métal"
+		},
+		"hp" : 4,
+		"mp" : 12,
+		"attack" : 20,
+		"defense" : 1023,
+		"speed" : 50,
+		"xp" : 1350,
+		"gold" : 5,
+		"items" : [
+			"Tiare d'or"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Région de Chandor"
+				],
+				"chapter3" : [
+					"Grotte de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Chandor",
+					"Région du phare de Port-Carène",
+					"Phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 45,
+		"imgFileName" : "45.png",
+		"name" : {
+			"en" : "Elepus",
+			"fr" : "Elépieuvre"
+		},
+		"hp" : 28,
+		"mp" : 0,
+		"attack" : 22,
+		"defense" : 16,
+		"speed" : 10,
+		"xp" : 14,
+		"gold" : 18,
+		"items" : [
+			"Costume de danseuse"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [
+					"Grotte de Chandor"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Chandor"
+				]
+			}
+		]
+	},
+	{
+		"id" : 46,
+		"imgFileName" : "46.png",
+		"name" : {
+			"en" : "Platypunk",
+			"fr" : "Ornithox"
+		},
+		"hp" : 10,
+		"mp" : 0,
+		"attack" : 10,
+		"defense" : 6,
+		"speed" : 5,
+		"xp" : 3,
+		"gold" : 8,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Chandor"
+				],
+				"chapter4" : [
+					"Région de Teafortwo",
+					"Région de Deadend"
+				],
+				"chapter5" : [
+					"Région de Casabranca",
+					"Grand désert de l'est"
+				]
+			}
+		]
+	},
+	{
+		"id" : 47,
+		"imgFileName" : "47.png",
+		"name" : {
+			"en" : "Horny devil",
+			"fr" : "Démon cornu"
+		},
+		"hp" : 14,
+		"mp" : 0,
+		"attack" : 13,
+		"defense" : 13,
+		"speed" : 7,
+		"xp" : 7,
+		"gold" : 11,
+		"items" : [
+			"Herbe curative"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Teafortwo",
+					"Région de Deadend"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 47,
+		"imgFileName" : "47.png",
+		"name" : {
+			"en" : "Horny devil",
+			"fr" : "Démon cornu"
+		},
+		"hp" : 14,
+		"mp" : 0,
+		"attack" : 13,
+		"defense" : 13,
+		"speed" : 7,
+		"xp" : 7,
+		"gold" : 11,
+		"items" : [
+			"Herbe curative"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Teafortwo",
+					"Région de Deadend"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 48,
+		"imgFileName" : "48.png",
+		"name" : {
+			"en" : "Dirty dogu",
+			"fr" : "Gris-gris"
+		},
+		"hp" : 15,
+		"mp" : 3,
+		"attack" : 17,
+		"defense" : 15,
+		"speed" : 5,
+		"xp" : 12,
+		"gold" : 17,
+		"items" : [
+			"Fiole d'eau magique"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Grotte de Deadend",
+					"Région de Port Lionel"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 49,
+		"imgFileName" : "49.png",
+		"name" : {
+			"en" : "Wimp",
+			"fr" : "Diablutin"
+		},
+		"hp" : 20,
+		"mp" : 3,
+		"attack" : 20,
+		"defense" : 17,
+		"speed" : 12,
+		"xp" : 15,
+		"gold" : 28,
+		"items" : [
+			"Casque de bois"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Deadend",
+					"Grotte de Deadend",
+					"Région du palais de Lord Lionel",
+					"Région de Port Lionel"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 50,
+		"imgFileName" : "50.png",
+		"name" : {
+			"en" : "Crack-billed platypunk",
+			"fr" : "Ornicryo"
+		},
+		"hp" : 25,
+		"mp" : 3,
+		"attack" : 30,
+		"defense" : 30,
+		"speed" : 17,
+		"xp" : 18,
+		"gold" : 30,
+		"items" : [
+			"Casque de cuir"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Deadend",
+					"Grotte de Deadend",
+					"Région du palais de Lord Lionel",
+					"Région de Port Lionel"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 51,
+		"imgFileName" : "51.png",
+		"name" : {
+			"en" : "Fire beatle",
+			"fr" : "Pyroblatte"
+		},
+		"hp" : 20,
+		"mp" : 0,
+		"attack" : 27,
+		"defense" : 29,
+		"speed" : 10,
+		"xp" : 16,
+		"gold" : 21,
+		"items" : [
+			"Massue de chêne"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Deadend",
+					"Région de Port Lionel"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 52,
+		"imgFileName" : "52.png",
+		"name" : {
+			"en" : "Slimification",
+			"fr" : "Gluantification"
+		},
+		"hp" : 40,
+		"mp" : 0,
+		"attack" : 0,
+		"defense" : 30,
+		"speed" : 15,
+		"xp" : 3,
+		"gold" : 1,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région du palais de Lord Lionel",
+					"Région de Port Lionel"
+				],
+				"chapter5" : [
+					"Région du palais de Lord Lionel",
+					"Région de Port Lionel"
+				]
+			}
+		]
+	},
+	{
+		"id" : 53,
+		"imgFileName" : "53.png",
+		"name" : {
+			"en" : "King slime",
+			"fr" : "Roi gluant"
+		},
+		"hp" : 150,
+		"mp" : 2,
+		"attack" : 40,
+		"defense" : 24,
+		"speed" : 17,
+		"xp" : 100,
+		"gold" : 150,
+		"items" : [
+			"Graine de magie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région du palais de Lord Lionel",
+					"Région de Port Lionel"
+				],
+				"chapter5" : [
+					"Région du palais de Lord Lionel",
+					"Région de Port Lionel"
+				]
+			}
+		]
+	},
+	{
+		"id" : 54,
+		"imgFileName" : "54.png",
+		"name" : {
+			"en" : "Ratatattack",
+			"fr" : "Ratatattaque"
+		},
+		"hp" : 35,
+		"mp" : 0,
+		"attack" : 38,
+		"defense" : 28,
+		"speed" : 30,
+		"xp" : 43,
+		"gold" : 18,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Deadend"
+				],
+				"chapter5" : [
+					"Région de Ringys",
+					"Désert d'El Forado"
+				]
+			}
+		]
+	},
+	{
+		"id" : 55,
+		"imgFileName" : "55.png",
+		"name" : {
+			"en" : "Frolicker",
+			"fr" : "Salivard"
+		},
+		"hp" : 43,
+		"mp" : 4,
+		"attack" : 32,
+		"defense" : 30,
+		"speed" : 15,
+		"xp" : 28,
+		"gold" : 61,
+		"items" : [
+			"Bâton de cyprès"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Deadend",
+					"Région du Port Lionel",
+					"Mine d'Alpion"
+				],
+				"chapter5" : [
+					"Région de Deadend",
+					"Région du Port Lionel",
+					"Mine d'Alpion"
+				]
+			}
+		]
+	},
+	{
+		"id" : 56,
+		"imgFileName" : "56.png",
+		"name" : {
+			"en" : "Stump grump",
+			"fr" : "Cyclotronc"
+		},
+		"hp" : 28,
+		"mp" : 5,
+		"attack" : 28,
+		"defense" : 38,
+		"speed" : 18,
+		"xp" : 25,
+		"gold" : 30,
+		"items" : [
+			"Casque de bois"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grand désert de l'est"
+				]
+			}
+		]
+	},
+	{
+		"id" : 57,
+		"imgFileName" : "57.png",
+		"name" : {
+			"en" : "Weartiger",
+			"fr" : "Tigriff"
+		},
+		"hp" : 50,
+		"mp" : 0,
+		"attack" : 54,
+		"defense" : 32,
+		"speed" : 20,
+		"xp" : 30,
+		"gold" : 50,
+		"items" : [
+			"Tenue de voyageur"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Mine d'Alpion"
+				],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"Région de Bourg-les-Bains",
+					"Région du phare de Port-Carène",
+					"Région de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 58,
+		"imgFileName" : "58.png",
+		"name" : {
+			"en" : "Jinkster",
+			"fr" : "Fée lée"
+		},
+		"hp" : 36,
+		"mp" : 3,
+		"attack" : 31,
+		"defense" : 30,
+		"speed" : 16,
+		"xp" : 27,
+		"gold" : 52,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Mine d'Alpion"
+				],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"Région grotte du symbole de la foi",
+					"Phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 59,
+		"imgFileName" : "59.png",
+		"name" : {
+			"en" : "Paralyslicer",
+			"fr" : "Paralysabre"
+		},
+		"hp" : 30,
+		"mp" : 0,
+		"attack" : 40,
+		"defense" : 30,
+		"speed" : 16,
+		"xp" : 25,
+		"gold" : 18,
+		"items" : [
+			"Botryche lunaire"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Région de Port Lionel",
+					"Région des mines d'Alpion"
+				],
+				"chapter5" : [
+					"Région de Port Lionel",
+					"Région des mines d'Alpion",
+					"Forêt de Strattbourg"
+				]
+			}
+		]
+	},
+	{
+		"id" : 60,
+		"imgFileName" : "60.png",
+		"name" : {
+			"en" : "Lost soul",
+			"fr" : "Flammerolle"
+		},
+		"hp" : 40,
+		"mp" : 0,
+		"attack" : 20,
+		"defense" : 35,
+		"speed" : 1,
+		"xp" : 20,
+		"gold" : 28,
+		"items" : [
+			"Fiole d'eau sacrée"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Mine d'Alpion"
+				],
+				"chapter5" : [
+					"Mine d'Alpion"
+				]
+			}
+		]
+	},
+	{
+		"id" : 61,
+		"imgFileName" : "61.png",
+		"name" : {
+			"en" : "Vampire battler",
+			"fr" : "Vampaul"
+		},
+		"hp" : 38,
+		"mp" : 6,
+		"attack" : 40,
+		"defense" : 29,
+		"speed" : 28,
+		"xp" : 36,
+		"gold" : 24,
+		"items" : [
+			"Dague divine"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Mine d'Alpion"
+				],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"Région de Ringys",
+					"Grotte de Pathénia",
+					"Désert d'El Forado"
+				]
+			}
+		]
+	},
+	{
+		"id" : 62,
+		"imgFileName" : "62.png",
+		"name" : {
+			"en" : "Metal scorpion",
+			"fr" : "Scorpion d'assaut"
+		},
+		"hp" : 42,
+		"mp" : 0,
+		"attack" : 50,
+		"defense" : 50,
+		"speed" : 25,
+		"xp" : 59,
+		"gold" : 38,
+		"items" : [
+			"Bouclier d'écailles"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Bourg-les-Bains",
+					"Région de Ringys",
+					"Désert d'El Forado"
+				]
+			}
+		]
+	},
+	{
+		"id" : 63,
+		"imgFileName" : "63.png",
+		"name" : {
+			"en" : "Featherweight",
+			"fr" : "Poids-plume"
+		},
+		"hp" : 52,
+		"mp" : 0,
+		"attack" : 47,
+		"defense" : 40,
+		"speed" : 26,
+		"xp" : 50,
+		"gold" : 51,
+		"items" : [
+			"Chapeau à plumes"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Mine d'Alpion"
+				],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"Région de Bourg-les-Bains",
+					"Région de Port-Carène",
+					"Phare de Port-Carène",
+					"Région de Parthénia",
+					"Région de Ringys",
+					"Désert d'El Forado"
+				]
+			}
+		]
+	},
+	{
+		"id" : 64,
+		"imgFileName" : "64.png",
+		"name" : {
+			"en" : "Salamander fry",
+			"fr" : "Geckorrosif"
+		},
+		"hp" : 40,
+		"mp" : 0,
+		"attack" : 42,
+		"defense" : 26,
+		"speed" : 27,
+		"xp" : 59,
+		"gold" : 58,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Mine d'Alpion"
+				],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"Région de Parthénia",
+					"Grotte de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 65,
+		"imgFileName" : "65.png",
+		"name" : {
+			"en" : "Venus guytrap",
+			"fr" : "Dionéneuse"
+		},
+		"hp" : 37,
+		"mp" : 3,
+		"attack" : 39,
+		"defense" : 40,
+		"speed" : 15,
+		"xp" : 40,
+		"gold" : 34,
+		"items" : [
+			"Graine de vitalité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Mine d'Alpion"
+				],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"Phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 66,
+		"imgFileName" : "66.png",
+		"name" : {
+			"en" : "Bodkin fletcher",
+			"fr" : "Dardeur"
+		},
+		"hp" : 17,
+		"mp" : 0,
+		"attack" : 21,
+		"defense" : 18,
+		"speed" : 10,
+		"xp" : 18,
+		"gold" : 16,
+		"items" : [
+			"Herbe curative"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [
+					"Région de Ballimore"
+				],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Ballimore"
+				]
+			}
+		]
+	},
+	{
+		"id" : 67,
+		"imgFileName" : "67.png",
+		"name" : {
+			"en" : "Mandragore",
+			"fr" : "Mandragore"
+		},
+		"hp" : 30,
+		"mp" : 0,
+		"attack" : 44,
+		"defense" : 34,
+		"speed" : 15,
+		"xp" : 26,
+		"gold" : 17,
+		"items" : [
+			"Graine de magie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région grotte du symbole de la foi"
+				]
+			}
+		]
+	},
+	{
+		"id" : 68,
+		"imgFileName" : "68.png",
+		"name" : {
+			"en" : "Bodkin bawyer",
+			"fr" : "Tire-flèches"
+		},
+		"hp" : 27,
+		"mp" : 0,
+		"attack" : 46,
+		"defense" : 36,
+		"speed" : 21,
+		"xp" : 47,
+		"gold" : 16,
+		"items" : [
+			"Tenue de voyageur"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grand désert de l'est",
+					"Région de Bourg-les-Bains",
+					"Région de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 69,
+		"imgFileName" : "69.png",
+		"name" : {
+			"en" : "Sweaty yeti",
+			"fr" : "Yeti des sables"
+		},
+		"hp" : 55,
+		"mp" : 0,
+		"attack" : 45,
+		"defense" : 30,
+		"speed" : 25,
+		"xp" : 70,
+		"gold" : 68,
+		"items" : [
+			"Pelisse"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grand désert de l'est"
+				]
+			}
+		]
+	},
+	{
+		"id" : 69,
+		"imgFileName" : "69.png",
+		"name" : {
+			"en" : "Sweaty yeti",
+			"fr" : "Yeti des sables"
+		},
+		"hp" : 55,
+		"mp" : 0,
+		"attack" : 45,
+		"defense" : 30,
+		"speed" : 25,
+		"xp" : 70,
+		"gold" : 68,
+		"items" : [
+			"Pelisse"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grand désert de l'est"
+				]
+			}
+		]
+	},
+	{
+		"id" : 70,
+		"imgFileName" : "70.png",
+		"name" : {
+			"en" : "Flamethrower",
+			"fr" : "Tizon"
+		},
+		"hp" : 75,
+		"mp" : 8,
+		"attack" : 65,
+		"defense" : 60,
+		"speed" : 36,
+		"xp" : 110,
+		"gold" : 52,
+		"items" : [
+			"Lance sacrée"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Sommet du phare de Port-Carène",
+					"Grotte de Deadend",
+					"Région du palais de Lord Lionel",
+					"Région de Canalot"
+				]
+			}
+		]
+	},
+	{
+		"id" : 71,
+		"imgFileName" : "71.png",
+		"name" : {
+			"en" : "Murshroom mage",
+			"fr" : "Champimage"
+		},
+		"hp" : 43,
+		"mp" : 10,
+		"attack" : 40,
+		"defense" : 53,
+		"speed" : 20,
+		"xp" : 45,
+		"gold" : 30,
+		"items" : [
+			"Fiole d'eau sacrée"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Bourg-les-Bains",
+					"Région de Parthénia",
+					"Grotte de Parthénia",
+					"Désert d'El Forado"
+				]
+			}
+		]
+	},
+	{
+		"id" : 72,
+		"imgFileName" : "72.png",
+		"name" : {
+			"en" : "Buffalo wing",
+			"fr" : "Bovipare"
+		},
+		"hp" : 52,
+		"mp" : 6,
+		"attack" : 43,
+		"defense" : 55,
+		"speed" : 26,
+		"xp" : 49,
+		"gold" : 39,
+		"items" : [
+			"Lance de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Parthénia",
+					"Région du palais de Lord Lionel"
+				]
+			}
+		]
+	},
+	{
+		"id" : 73,
+		"imgFileName" : "73.png",
+		"name" : {
+			"en" : "Imp",
+			"fr" : "Diablotin"
+		},
+		"hp" : 40,
+		"mp" : 0,
+		"attack" : 55,
+		"defense" : 33,
+		"speed" : 23,
+		"xp" : 80,
+		"gold" : 75,
+		"items" : [
+			"Graine de vitalité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Deadend",
+					"Région de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 74,
+		"imgFileName" : "74.png",
+		"name" : {
+			"en" : "Whizzard",
+			"fr" : "Marcagicien"
+		},
+		"hp" : 38,
+		"mp" : 8,
+		"attack" : 40,
+		"defense" : 49,
+		"speed" : 30,
+		"xp" : 70,
+		"gold" : 31,
+		"items" : [
+			"Graine de vitalité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 75,
+		"imgFileName" : "75.png",
+		"name" : {
+			"en" : "Infernal armour",
+			"fr" : "Armure infernale"
+		},
+		"hp" : 58,
+		"mp" : 0,
+		"attack" : 63,
+		"defense" : 63,
+		"speed" : 24,
+		"xp" : 77,
+		"gold" : 76,
+		"items" : [
+			"Armure de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Grotte de Deadend",
+					"Région du palais de Lord Lionel"
+				],
+				"chapter5" : [
+					"Grotte de Deadend",
+					"Région du palais de Lord Lionel",
+					"Grotte de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 76,
+		"imgFileName" : "76.png",
+		"name" : {
+			"en" : "Powie yowie",
+			"fr" : "Yéti yétu"
+		},
+		"hp" : 75,
+		"mp" : 0,
+		"attack" : 65,
+		"defense" : 35,
+		"speed" : 25,
+		"xp" : 85,
+		"gold" : 38,
+		"items" : [
+			"Pelisse"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 77,
+		"imgFileName" : "77.png",
+		"name" : {
+			"en" : "Skeleton soldier",
+			"fr" : "Soldat squelette"
+		},
+		"hp" : 80,
+		"mp" : 10,
+		"attack" : 82,
+		"defense" : 59,
+		"speed" : 40,
+		"xp" : 106,
+		"gold" : 47,
+		"items" : [
+			"Épée large d'acier"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région du palais de Lord Lionel",
+					"Château de Zamoksva",
+					"Région de Fémiscyra",
+					"Grotte de Fémiscyra",
+					"Crypte royale"
+				]
+			}
+		]
+	},
+	{
+		"id" : 78,
+		"imgFileName" : "78.png",
+		"name" : {
+			"en" : "Pocus poppet",
+			"fr" : "Talismaboule"
+		},
+		"hp" : 40,
+		"mp" : 0,
+		"attack" : 42,
+		"defense" : 40,
+		"speed" : 30,
+		"xp" : 37,
+		"gold" : 300,
+		"items" : [
+			"Tiare d'or"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Deadend",
+					"Région du palais de Lord Lionel"
+				]
+			}
+		]
+	},
+	{
+		"id" : 79,
+		"imgFileName" : "79.png",
+		"name" : {
+			"en" : "Wild beast",
+			"fr" : "Bête sauvage"
+		},
+		"hp" : 80,
+		"mp" : 0,
+		"attack" : 60,
+		"defense" : 45,
+		"speed" : 33,
+		"xp" : 89,
+		"gold" : 49,
+		"items" : [
+			"Tablier de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Deadend",
+					"Région du palais de Lord Lionel"
+				]
+			}
+		]
+	},
+	{
+		"id" : 80,
+		"imgFileName" : "80.png",
+		"name" : {
+			"en" : "Dragon pup",
+			"fr" : "Dragonnet"
+		},
+		"hp" : 67,
+		"mp" : 0,
+		"attack" : 64,
+		"defense" : 40,
+		"speed" : 34,
+		"xp" : 96,
+		"gold" : 50,
+		"items" : [
+			"Faucille à chaîne"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Deadend"
+				]
+			}
+		]
+	},
+	{
+		"id" : 81,
+		"imgFileName" : "81.png",
+		"name" : {
+			"en" : "Hoodoo gooroo",
+			"fr" : "Gourou coucou"
+		},
+		"hp" : 100,
+		"mp" : 10,
+		"attack" : 54,
+		"defense" : 30,
+		"speed" : 55,
+		"xp" : 200,
+		"gold" : 54,
+		"items" : [
+			"Griffe de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Deadend",
+					"Château de Zamoksva"
+				]
+			}
+		]
+	},
+	{
+		"id" : 82,
+		"imgFileName" : "82.png",
+		"name" : {
+			"en" : "Cocoon goon",
+			"fr" : "Asticocon"
+		},
+		"hp" : 25,
+		"mp" : 5,
+		"attack" : 60,
+		"defense" : 130,
+		"speed" : 5,
+		"xp" : 80,
+		"gold" : 10,
+		"items" : [
+			"Cottes de mailles"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région du palais de Lord Lionel",
+					"Grotte de Deadend",
+					"Château de Zamoksva"
+				]
+			}
+		]
+	},
+	{
+		"id" : 83,
+		"imgFileName" : "83.png",
+		"name" : {
+			"en" : "Cureslime",
+			"fr" : "Guérigluant"
+		},
+		"hp" : 60,
+		"mp" : 0,
+		"attack" : 60,
+		"defense" : 50,
+		"speed" : 28,
+		"xp" : 68,
+		"gold" : 43,
+		"items" : [
+			"Graine de magie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Château de Zamoksva",
+					"Tour des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 84,
+		"imgFileName" : "84.png",
+		"name" : {
+			"en" : "Abracadabrador",
+			"fr" : "Abracadabraque"
+		},
+		"hp" : 80,
+		"mp" : 8,
+		"attack" : 80,
+		"defense" : 55,
+		"speed" : 38,
+		"xp" : 125,
+		"gold" : 81,
+		"items" : [
+			"Herbe curative"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Château de Zamoksva",
+					"Région de Fémiscyra"
+				]
+			}
+		]
+	},
+	{
+		"id" : 85,
+		"imgFileName" : "85.png",
+		"name" : {
+			"en" : "Cheater cheetah",
+			"fr" : "Tigrrr"
+		},
+		"hp" : 100,
+		"mp" : 4,
+		"attack" : 73,
+		"defense" : 32,
+		"speed" : 36,
+		"xp" : 115,
+		"gold" : 62,
+		"items" : [
+			"Pelisse"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Château de Zamoksva",
+					"Région de Canalot",
+					"Palais du démon"
+				]
+			}
+		]
+	},
+	{
+		"id" : 86,
+		"imgFileName" : "86.png",
+		"name" : {
+			"en" : "Rhinothrope",
+			"fr" : "Rhinocérosse"
+		},
+		"hp" : 70,
+		"mp" : 0,
+		"attack" : 88,
+		"defense" : 100,
+		"speed" : 22,
+		"xp" : 126,
+		"gold" : 39,
+		"items" : [
+			"Hache de guerre"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Canalot",
+					"Château de Zamoksva"
+				]
+			}
+		]
+	},
+	{
+		"id" : 87,
+		"imgFileName" : "87.png",
+		"name" : {
+			"en" : "Minidemon",
+			"fr" : "Mini démon"
+		},
+		"hp" : 95,
+		"mp" : 24,
+		"attack" : 103,
+		"defense" : 62,
+		"speed" : 54,
+		"xp" : 193,
+		"gold" : 43,
+		"items" : [
+			"Masque d'Hadès"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte Rosecolline",
+					"Région d'Estuaria",
+					"Colosse de pierre",
+					"Région du palais du démon",
+					"Palais du démon",
+					"Château de Zamoksva"
+				]
+			}
+		]
+	},
+	{
+		"id" : 88,
+		"imgFileName" : "88.png",
+		"name" : {
+			"en" : "Chillanodon",
+			"fr" : "Glacianodon"
+		},
+		"hp" : 85,
+		"mp" : 0,
+		"attack" : 66,
+		"defense" : 40,
+		"speed" : 37,
+		"xp" : 104,
+		"gold" : 33,
+		"items" : [
+			"Graine de force"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Canalot",
+					"Région de Fémiscyra",
+					"Grotte de Fémiscyra",
+					"Tour de Rosecolline"
+				]
+			}
+		]
+	},
+	{
+		"id" : 89,
+		"imgFileName" : "89.png",
+		"name" : {
+			"en" : "Lethal armour",
+			"fr" : "Armure fatale"
+		},
+		"hp" : 64,
+		"mp" : 5,
+		"attack" : 80,
+		"defense" : 75,
+		"speed" : 30,
+		"xp" : 120,
+		"gold" : 58,
+		"items" : [
+			"Armure de plates"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Canalot",
+					"Havre céleste"
+				]
+			}
+		]
+	},
+	{
+		"id" : 90,
+		"imgFileName" : "90.png",
+		"name" : {
+			"en" : "Rockbomb",
+			"fr" : "Rochexplosif"
+		},
+		"hp" : 300,
+		"mp" : 1,
+		"attack" : 0,
+		"defense" : 0,
+		"speed" : 0,
+		"xp" : 150,
+		"gold" : 40,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Canalot"
+				]
+			}
+		]
+	},
+	{
+		"id" : 91,
+		"imgFileName" : "91.png",
+		"name" : {
+			"en" : "Eoraptor",
+			"fr" : "Radiaptor"
+		},
+		"hp" : 90,
+		"mp" : 10,
+		"attack" : 85,
+		"defense" : 75,
+		"speed" : 40,
+		"xp" : 116,
+		"gold" : 45,
+		"items" : [
+			"Armure de bronze"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Rosecolline",
+					"Région de Fémiscyra",
+					"Grotte de Fémiscyra"
+				]
+			}
+		]
+	},
+	{
+		"id" : 92,
+		"imgFileName" : "92.png",
+		"name" : {
+			"en" : "Beleth",
+			"fr" : "Byleth"
+		},
+		"hp" : 125,
+		"mp" : 20,
+		"attack" : 90,
+		"defense" : 80,
+		"speed" : 57,
+		"xp" : 132,
+		"gold" : 70,
+		"items" : [
+			"Bâton somatique"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Rosecolline",
+					"Région de Fémiscyra"
+				]
+			}
+		]
+	},
+	{
+		"id" : 93,
+		"imgFileName" : "93.png",
+		"name" : {
+			"en" : "Grim rider",
+			"fr" : "Cavalier fantôme"
+		},
+		"hp" : 180,
+		"mp" : 8,
+		"attack" : 110,
+		"defense" : 65,
+		"speed" : 40,
+		"xp" : 216,
+		"gold" : 82,
+		"items" : [
+			"Lance de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Rosecolline",
+					"Région de Fémiscyra",
+					"Région de Strattbourg"
+				]
+			}
+		]
+	},
+	{
+		"id" : 94,
+		"imgFileName" : "94.png",
+		"name" : {
+			"en" : "Bulldozer",
+			"fr" : "Ronflicorne"
+		},
+		"hp" : 90,
+		"mp" : 0,
+		"attack" : 95,
+		"defense" : 85,
+		"speed" : 39,
+		"xp" : 121,
+		"gold" : 72,
+		"items" : [
+			"Graine de force"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Fémiscyra",
+					"Grotte de Fémiscyra",
+					"Région de Bastione"
+				]
+			}
+		]
+	},
+	{
+		"id" : 95,
+		"imgFileName" : "95.png",
+		"name" : {
+			"en" : "Chicken poxer",
+			"fr" : "Coq-toc"
+		},
+		"hp" : 85,
+		"mp" : 0,
+		"attack" : 81,
+		"defense" : 80,
+		"speed" : 61,
+		"xp" : 108,
+		"gold" : 40,
+		"items" : [
+			"Aile de chimère"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Fémiscyra",
+					"Grotte de Fémiscyra"
+				]
+			}
+		]
+	},
+	{
+		"id" : 96,
+		"imgFileName" : "96.png",
+		"name" : {
+			"en" : "War-rus",
+			"fr" : "Toréamorse"
+		},
+		"hp" : 120,
+		"mp" : 0,
+		"attack" : 112,
+		"defense" : 75,
+		"speed" : 40,
+		"xp" : 120,
+		"gold" : 54,
+		"items" : [
+			"Boulier d'astrae"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Rosecolline",
+					"Grotte de Fémiscyra"
+				]
+			}
+		]
+	},
+	{
+		"id" : 97,
+		"imgFileName" : "97.png",
+		"name" : {
+			"en" : "Liquid metal slime",
+			"fr" : "Gluant de mercure"
+		},
+		"hp" : 5,
+		"mp" : 0,
+		"attack" : 65,
+		"defense" : 1023,
+		"speed" : 150,
+		"xp" : 10050,
+		"gold" : 10,
+		"items" : [
+			"Chapeau de félicité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Crypte royale",
+					"Tour Zénithia",
+					"Tour des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 98,
+		"imgFileName" : "98.png",
+		"name" : {
+			"en" : "Humbaba",
+			"fr" : "Humbaba"
+		},
+		"hp" : 90,
+		"mp" : 0,
+		"attack" : 109,
+		"defense" : 79,
+		"speed" : 30,
+		"xp" : 144,
+		"gold" : 76,
+		"items" : [
+			"Botryche lunaire"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Rosecolline",
+					"Grotte de Fémiscyra",
+					"Crypte royale"
+				]
+			}
+		]
+	},
+	{
+		"id" : 99,
+		"imgFileName" : "99.png",
+		"name" : {
+			"en" : "Spitfire",
+			"fr" : "Libellugon"
+		},
+		"hp" : 105,
+		"mp" : 0,
+		"attack" : 84,
+		"defense" : 110,
+		"speed" : 41,
+		"xp" : 180,
+		"gold" : 100,
+		"items" : [
+			"Manteau d'esquive"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Rosecolline",
+					"Grotte de Fémiscyra",
+					"Crypte royale"
+				]
+			}
+		]
+	},
+	{
+		"id" : 100,
+		"imgFileName" : "100.png",
+		"name" : {
+			"en" : "Terminonatator",
+			"fr" : "Terminataure"
+		},
+		"hp" : 380,
+		"mp" : 0,
+		"attack" : 125,
+		"defense" : 50,
+		"speed" : 30,
+		"xp" : 135,
+		"gold" : 57,
+		"items" : [
+			"Robe de soie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de l'armure zénithienne",
+					"Océan",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 101,
+		"imgFileName" : "101.png",
+		"name" : {
+			"en" : "Skerleton",
+			"fr" : "Berserkerlette"
+		},
+		"hp" : 130,
+		"mp" : 0,
+		"attack" : 140,
+		"defense" : 85,
+		"speed" : 53,
+		"xp" : 315,
+		"gold" : 50,
+		"items" : [
+			"Cuirasse de zombie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de l'armure zénithienne",
+					"Colosse de pierre",
+					"Région du palais du démon",
+					"Palais du démon",
+					"Mine d'Alpion"
+				]
+			}
+		]
+	},
+]
