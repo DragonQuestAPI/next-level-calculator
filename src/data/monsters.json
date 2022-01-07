@@ -6,6 +6,7 @@
 			"en" : "Slime",
 			"fr" : "Gluant"
 		},
+		"type" : "enemy",
 		"hp" : 8,
 		"mp" : 0,
 		"attack" : 9,
@@ -43,6 +44,7 @@
 			"en" : "Wiggly",
 			"fr" : "Londuleux"
 		},
+		"type" : "enemy",
 		"hp" : 11,
 		"mp" : 0,
 		"attack" : 10,
@@ -84,6 +86,7 @@
 			"en" : "Air rat",
 			"fr" : "Rat volant"
 		},
+		"type" : "enemy",
 		"hp" : 14,
 		"mp" : 0,
 		"attack" : 11,
@@ -119,6 +122,7 @@
 			"en" : "Scissor beatle",
 			"fr" : "Scarapince"
 		},
+		"type" : "enemy",
 		"hp" : 9,
 		"mp" : 0,
 		"attack" : 9,
@@ -154,6 +158,7 @@
 			"en" : "Bubble Slime",
 			"fr" : "Gluanbulle"
 		},
+		"type" : "enemy",
 		"hp" : 12,
 		"mp" : 0,
 		"attack" : 11,
@@ -189,6 +194,7 @@
 			"en" : "Mischievous mole",
 			"fr" : "Pataupe"
 		},
+		"type" : "enemy",
 		"hp" : 10,
 		"mp" : 0,
 		"attack" : 10,
@@ -222,6 +228,7 @@
 			"en" : "Stump chump",
 			"fr" : "Souche louche"
 		},
+		"type" : "enemy",
 		"hp" : 21,
 		"mp" : 0,
 		"attack" : 18,
@@ -258,6 +265,7 @@
 			"en" : "Healslime",
 			"fr" : "Médigluant"
 		},
+		"type" : "enemy",
 		"hp" : 16,
 		"mp" : 0,
 		"attack" : 13,
@@ -297,6 +305,7 @@
 			"en" : "Mad mole",
 			"fr" : "Taupelle"
 		},
+		"type" : "enemy",
 		"hp" : 16,
 		"mp" : 0,
 		"attack" : 19,
@@ -332,6 +341,7 @@
 			"en" : "Winkster",
 			"fr" : "Fée tide"
 		},
+		"type" : "enemy",
 		"hp" : 17,
 		"mp" : 2,
 		"attack" : 16,
@@ -368,6 +378,7 @@
 			"en" : "Bodkin archer",
 			"fr" : "Archer vert"
 		},
+		"type" : "enemy",
 		"hp" : 21,
 		"mp" : 3,
 		"attack" : 26,
@@ -401,6 +412,7 @@
 			"en" : "Splatypunk",
 			"fr" : "Ornitro"
 		},
+		"type" : "enemy",
 		"hp" : 22,
 		"mp" : 3,
 		"attack" : 25,
@@ -435,6 +447,7 @@
 			"en" : "Blinkster",
 			"fr" : "Fée brile"
 		},
+		"type" : "enemy",
 		"hp" : 33,
 		"mp" : 2,
 		"attack" : 17,
@@ -466,6 +479,7 @@
 			"en" : "Picksy",
 			"fr" : "Chérubus"
 		},
+		"type" : "enemy",
 		"hp" : 29,
 		"mp" : 3,
 		"attack" : 26,
@@ -497,6 +511,7 @@
 			"en" : "Bantamweight",
 			"fr" : "Poids-coq"
 		},
+		"type" : "enemy",
 		"hp" : 31,
 		"mp" : 0,
 		"attack" : 28,
@@ -531,6 +546,7 @@
 			"en" : "Winky",
 			"fr" : "Clindœil"
 		},
+		"type" : "enemy",
 		"hp" : 42,
 		"mp" : 0,
 		"attack" : 29,
@@ -562,6 +578,7 @@
 			"en" : "Walking stick",
 			"fr" : "Fourmiasme"
 		},
+		"type" : "enemy",
 		"hp" : 8,
 		"mp" : 0,
 		"attack" : 8,
@@ -595,6 +612,7 @@
 			"en" : "She-slime",
 			"fr" : "Gluante"
 		},
+		"type" : "enemy",
 		"hp" : 10,
 		"mp" : 0,
 		"attack" : 9,
@@ -627,6 +645,7 @@
 			"en" : "Lickspittle",
 			"fr" : "Glair de lune"
 		},
+		"type" : "enemy",
 		"hp" : 13,
 		"mp" : 0,
 		"attack" : 13,
@@ -664,6 +683,7 @@
 			"en" : "Mouseflap",
 			"fr" : "Chauve-sourat"
 		},
+		"type" : "enemy",
 		"hp" : 11,
 		"mp" : 0,
 		"attack" : 11,
@@ -696,6 +716,7 @@
 			"en" : "Foo dog",
 			"fr" : "Chienfernal"
 		},
+		"type" : "enemy",
 		"hp" : 23,
 		"mp" : 0,
 		"attack" : 19,
@@ -734,6 +755,7 @@
 			"en" : "Bagworm",
 			"fr" : "Sacaver"
 		},
+		"type" : "enemy",
 		"hp" : 16,
 		"mp" : 0,
 		"attack" : 8,
@@ -765,6 +787,7 @@
 			"en" : "Funghoul",
 			"fr" : "Champigoule"
 		},
+		"type" : "enemy",
 		"hp" : 19,
 		"mp" : 0,
 		"attack" : 19,
@@ -797,6 +820,7 @@
 			"en" : "Bullfinch",
 			"fr" : "Taurapace"
 		},
+		"type" : "enemy",
 		"hp" : 20,
 		"mp" : 0,
 		"attack" : 22,
@@ -830,6 +854,7 @@
 			"en" : "Carnivine",
 			"fr" : "Morchidée"
 		},
+		"type" : "enemy",
 		"hp" : 17,
 		"mp" : 0,
 		"attack" : 21,
@@ -864,6 +889,7 @@
 			"en" : "Firespirit",
 			"fr" : "Feu follet"
 		},
+		"type" : "enemy",
 		"hp" : 12,
 		"mp" : 2,
 		"attack" : 11,
@@ -901,6 +927,7 @@
 			"en" : "Thorny devil",
 			"fr" : "Démon piquant"
 		},
+		"type" : "enemy",
 		"hp" : 25,
 		"mp" : 0,
 		"attack" : 21,
@@ -933,6 +960,7 @@
 			"en" : "Lugworm",
 			"fr" : "Tortilleux"
 		},
+		"type" : "enemy",
 		"hp" : 30,
 		"mp" : 0,
 		"attack" : 30,
@@ -966,6 +994,7 @@
 			"en" : "Bedbug",
 			"fr" : "Scarasomniaque"
 		},
+		"type" : "enemy",
 		"hp" : 23,
 		"mp" : 6,
 		"attack" : 22,
@@ -1000,6 +1029,7 @@
 			"en" : "Komodo",
 			"fr" : "Komodor"
 		},
+		"type" : "enemy",
 		"hp" : 32,
 		"mp" : 0,
 		"attack" : 30,
@@ -1030,6 +1060,7 @@
 			"en" : "Pickayune",
 			"fr" : "Démonius"
 		},
+		"type" : "enemy",
 		"hp" : 25,
 		"mp" : 3,
 		"attack" : 26,
@@ -1063,6 +1094,7 @@
 			"en" : "Crested viper",
 			"fr" : "Vipère à crête"
 		},
+		"type" : "enemy",
 		"hp" : 31,
 		"mp" : 4,
 		"attack" : 31,
@@ -1096,6 +1128,7 @@
 			"en" : "Armoured scorpion",
 			"fr" : "Scorpion blindé"
 		},
+		"type" : "enemy",
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 33,
@@ -1128,6 +1161,7 @@
 			"en" : "Vampire bat",
 			"fr" : "Vampierre"
 		},
+		"type" : "enemy",
 		"hp" : 25,
 		"mp" : 3,
 		"attack" : 25,
@@ -1162,6 +1196,7 @@
 			"en" : "Cyclown",
 			"fr" : "Cyclown"
 		},
+		"type" : "enemy",
 		"hp" : 41,
 		"mp" : 4,
 		"attack" : 29,
@@ -1195,6 +1230,7 @@
 			"en" : "Killer gila",
 			"fr" : "Batratueur"
 		},
+		"type" : "enemy",
 		"hp" : 34,
 		"mp" : 0,
 		"attack" : 32,
@@ -1228,6 +1264,7 @@
 			"en" : "Flyguy",
 			"fr" : "Mouchomme"
 		},
+		"type" : "enemy",
 		"hp" : 34,
 		"mp" : 3,
 		"attack" : 31,
@@ -1262,6 +1299,7 @@
 			"en" : "Erazor blade",
 			"fr" : "Cimetueur"
 		},
+		"type" : "enemy",
 		"hp" : 29,
 		"mp" : 0,
 		"attack" : 35,
@@ -1293,6 +1331,7 @@
 			"en" : "Pteranodon",
 			"fr" : "Ptéranodon"
 		},
+		"type" : "enemy",
 		"hp" : 41,
 		"mp" : 8,
 		"attack" : 28,
@@ -1328,6 +1367,7 @@
 			"en" : "Flying doctor",
 			"fr" : "Dragonlule"
 		},
+		"type" : "enemy",
 		"hp" : 47,
 		"mp" : 3,
 		"attack" : 36,
@@ -1359,6 +1399,7 @@
 			"en" : "Peeper",
 			"fr" : "Matœil"
 		},
+		"type" : "enemy",
 		"hp" : 35,
 		"mp" : 6,
 		"attack" : 30,
@@ -1390,6 +1431,7 @@
 			"en" : "Skeleton swordsman",
 			"fr" : "Squelépéiste"
 		},
+		"type" : "enemy",
 		"hp" : 52,
 		"mp" : 8,
 		"attack" : 49,
@@ -1423,6 +1465,7 @@
 			"en" : "Restless armour",
 			"fr" : "Armure errante"
 		},
+		"type" : "enemy",
 		"hp" : 54,
 		"mp" : 0,
 		"attack" : 45,
@@ -1456,6 +1499,7 @@
 			"en" : "Metal slime",
 			"fr" : "Gluant de métal"
 		},
+		"type" : "enemy",
 		"hp" : 4,
 		"mp" : 12,
 		"attack" : 20,
@@ -1491,6 +1535,7 @@
 			"en" : "Elepus",
 			"fr" : "Elépieuvre"
 		},
+		"type" : "enemy",
 		"hp" : 28,
 		"mp" : 0,
 		"attack" : 22,
@@ -1522,6 +1567,7 @@
 			"en" : "Platypunk",
 			"fr" : "Ornithox"
 		},
+		"type" : "enemy",
 		"hp" : 10,
 		"mp" : 0,
 		"attack" : 10,
@@ -1557,6 +1603,7 @@
 			"en" : "Horny devil",
 			"fr" : "Démon cornu"
 		},
+		"type" : "enemy",
 		"hp" : 14,
 		"mp" : 0,
 		"attack" : 13,
@@ -1587,6 +1634,7 @@
 			"en" : "Horny devil",
 			"fr" : "Démon cornu"
 		},
+		"type" : "enemy",
 		"hp" : 14,
 		"mp" : 0,
 		"attack" : 13,
@@ -1617,6 +1665,7 @@
 			"en" : "Dirty dogu",
 			"fr" : "Gris-gris"
 		},
+		"type" : "enemy",
 		"hp" : 15,
 		"mp" : 3,
 		"attack" : 17,
@@ -1647,6 +1696,7 @@
 			"en" : "Wimp",
 			"fr" : "Diablutin"
 		},
+		"type" : "enemy",
 		"hp" : 20,
 		"mp" : 3,
 		"attack" : 20,
@@ -1679,6 +1729,7 @@
 			"en" : "Crack-billed platypunk",
 			"fr" : "Ornicryo"
 		},
+		"type" : "enemy",
 		"hp" : 25,
 		"mp" : 3,
 		"attack" : 30,
@@ -1711,6 +1762,7 @@
 			"en" : "Fire beatle",
 			"fr" : "Pyroblatte"
 		},
+		"type" : "enemy",
 		"hp" : 20,
 		"mp" : 0,
 		"attack" : 27,
@@ -1741,6 +1793,7 @@
 			"en" : "Slimification",
 			"fr" : "Gluantification"
 		},
+		"type" : "enemy",
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 0,
@@ -1774,6 +1827,7 @@
 			"en" : "King slime",
 			"fr" : "Roi gluant"
 		},
+		"type" : "enemy",
 		"hp" : 150,
 		"mp" : 2,
 		"attack" : 40,
@@ -1807,6 +1861,7 @@
 			"en" : "Ratatattack",
 			"fr" : "Ratatattaque"
 		},
+		"type" : "enemy",
 		"hp" : 35,
 		"mp" : 0,
 		"attack" : 38,
@@ -1839,6 +1894,7 @@
 			"en" : "Frolicker",
 			"fr" : "Salivard"
 		},
+		"type" : "enemy",
 		"hp" : 43,
 		"mp" : 4,
 		"attack" : 32,
@@ -1874,6 +1930,7 @@
 			"en" : "Stump grump",
 			"fr" : "Cyclotronc"
 		},
+		"type" : "enemy",
 		"hp" : 28,
 		"mp" : 5,
 		"attack" : 28,
@@ -1903,6 +1960,7 @@
 			"en" : "Weartiger",
 			"fr" : "Tigriff"
 		},
+		"type" : "enemy",
 		"hp" : 50,
 		"mp" : 0,
 		"attack" : 54,
@@ -1937,6 +1995,7 @@
 			"en" : "Jinkster",
 			"fr" : "Fée lée"
 		},
+		"type" : "enemy",
 		"hp" : 36,
 		"mp" : 3,
 		"attack" : 31,
@@ -1970,6 +2029,7 @@
 			"en" : "Paralyslicer",
 			"fr" : "Paralysabre"
 		},
+		"type" : "enemy",
 		"hp" : 30,
 		"mp" : 0,
 		"attack" : 40,
@@ -2004,6 +2064,7 @@
 			"en" : "Lost soul",
 			"fr" : "Flammerolle"
 		},
+		"type" : "enemy",
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 20,
@@ -2035,6 +2096,7 @@
 			"en" : "Vampire battler",
 			"fr" : "Vampaul"
 		},
+		"type" : "enemy",
 		"hp" : 38,
 		"mp" : 6,
 		"attack" : 40,
@@ -2069,6 +2131,7 @@
 			"en" : "Metal scorpion",
 			"fr" : "Scorpion d'assaut"
 		},
+		"type" : "enemy",
 		"hp" : 42,
 		"mp" : 0,
 		"attack" : 50,
@@ -2100,6 +2163,7 @@
 			"en" : "Featherweight",
 			"fr" : "Poids-plume"
 		},
+		"type" : "enemy",
 		"hp" : 52,
 		"mp" : 0,
 		"attack" : 47,
@@ -2137,6 +2201,7 @@
 			"en" : "Salamander fry",
 			"fr" : "Geckorrosif"
 		},
+		"type" : "enemy",
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 42,
@@ -2170,6 +2235,7 @@
 			"en" : "Venus guytrap",
 			"fr" : "Dionéneuse"
 		},
+		"type" : "enemy",
 		"hp" : 37,
 		"mp" : 3,
 		"attack" : 39,
@@ -2202,6 +2268,7 @@
 			"en" : "Bodkin fletcher",
 			"fr" : "Dardeur"
 		},
+		"type" : "enemy",
 		"hp" : 17,
 		"mp" : 0,
 		"attack" : 21,
@@ -2233,6 +2300,7 @@
 			"en" : "Mandragore",
 			"fr" : "Mandragore"
 		},
+		"type" : "enemy",
 		"hp" : 30,
 		"mp" : 0,
 		"attack" : 44,
@@ -2262,6 +2330,7 @@
 			"en" : "Bodkin bawyer",
 			"fr" : "Tire-flèches"
 		},
+		"type" : "enemy",
 		"hp" : 27,
 		"mp" : 0,
 		"attack" : 46,
@@ -2293,6 +2362,7 @@
 			"en" : "Sweaty yeti",
 			"fr" : "Yeti des sables"
 		},
+		"type" : "enemy",
 		"hp" : 55,
 		"mp" : 0,
 		"attack" : 45,
@@ -2322,6 +2392,7 @@
 			"en" : "Sweaty yeti",
 			"fr" : "Yeti des sables"
 		},
+		"type" : "enemy",
 		"hp" : 55,
 		"mp" : 0,
 		"attack" : 45,
@@ -2351,6 +2422,7 @@
 			"en" : "Flamethrower",
 			"fr" : "Tizon"
 		},
+		"type" : "enemy",
 		"hp" : 75,
 		"mp" : 8,
 		"attack" : 65,
@@ -2383,6 +2455,7 @@
 			"en" : "Murshroom mage",
 			"fr" : "Champimage"
 		},
+		"type" : "enemy",
 		"hp" : 43,
 		"mp" : 10,
 		"attack" : 40,
@@ -2415,6 +2488,7 @@
 			"en" : "Buffalo wing",
 			"fr" : "Bovipare"
 		},
+		"type" : "enemy",
 		"hp" : 52,
 		"mp" : 6,
 		"attack" : 43,
@@ -2445,6 +2519,7 @@
 			"en" : "Imp",
 			"fr" : "Diablotin"
 		},
+		"type" : "enemy",
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 55,
@@ -2475,6 +2550,7 @@
 			"en" : "Whizzard",
 			"fr" : "Marcagicien"
 		},
+		"type" : "enemy",
 		"hp" : 38,
 		"mp" : 8,
 		"attack" : 40,
@@ -2504,6 +2580,7 @@
 			"en" : "Infernal armour",
 			"fr" : "Armure infernale"
 		},
+		"type" : "enemy",
 		"hp" : 58,
 		"mp" : 0,
 		"attack" : 63,
@@ -2538,6 +2615,7 @@
 			"en" : "Powie yowie",
 			"fr" : "Yéti yétu"
 		},
+		"type" : "enemy",
 		"hp" : 75,
 		"mp" : 0,
 		"attack" : 65,
@@ -2567,6 +2645,7 @@
 			"en" : "Skeleton soldier",
 			"fr" : "Soldat squelette"
 		},
+		"type" : "enemy",
 		"hp" : 80,
 		"mp" : 10,
 		"attack" : 82,
@@ -2600,6 +2679,7 @@
 			"en" : "Pocus poppet",
 			"fr" : "Talismaboule"
 		},
+		"type" : "enemy",
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 42,
@@ -2630,6 +2710,7 @@
 			"en" : "Wild beast",
 			"fr" : "Bête sauvage"
 		},
+		"type" : "enemy",
 		"hp" : 80,
 		"mp" : 0,
 		"attack" : 60,
@@ -2660,6 +2741,7 @@
 			"en" : "Dragon pup",
 			"fr" : "Dragonnet"
 		},
+		"type" : "enemy",
 		"hp" : 67,
 		"mp" : 0,
 		"attack" : 64,
@@ -2689,6 +2771,7 @@
 			"en" : "Hoodoo gooroo",
 			"fr" : "Gourou coucou"
 		},
+		"type" : "enemy",
 		"hp" : 100,
 		"mp" : 10,
 		"attack" : 54,
@@ -2719,6 +2802,7 @@
 			"en" : "Cocoon goon",
 			"fr" : "Asticocon"
 		},
+		"type" : "enemy",
 		"hp" : 25,
 		"mp" : 5,
 		"attack" : 60,
@@ -2750,6 +2834,7 @@
 			"en" : "Cureslime",
 			"fr" : "Guérigluant"
 		},
+		"type" : "enemy",
 		"hp" : 60,
 		"mp" : 0,
 		"attack" : 60,
@@ -2780,6 +2865,7 @@
 			"en" : "Abracadabrador",
 			"fr" : "Abracadabraque"
 		},
+		"type" : "enemy",
 		"hp" : 80,
 		"mp" : 8,
 		"attack" : 80,
@@ -2810,6 +2896,7 @@
 			"en" : "Cheater cheetah",
 			"fr" : "Tigrrr"
 		},
+		"type" : "enemy",
 		"hp" : 100,
 		"mp" : 4,
 		"attack" : 73,
@@ -2841,6 +2928,7 @@
 			"en" : "Rhinothrope",
 			"fr" : "Rhinocérosse"
 		},
+		"type" : "enemy",
 		"hp" : 70,
 		"mp" : 0,
 		"attack" : 88,
@@ -2871,6 +2959,7 @@
 			"en" : "Minidemon",
 			"fr" : "Mini démon"
 		},
+		"type" : "enemy",
 		"hp" : 95,
 		"mp" : 24,
 		"attack" : 103,
@@ -2905,6 +2994,7 @@
 			"en" : "Chillanodon",
 			"fr" : "Glacianodon"
 		},
+		"type" : "enemy",
 		"hp" : 85,
 		"mp" : 0,
 		"attack" : 66,
@@ -2937,6 +3027,7 @@
 			"en" : "Lethal armour",
 			"fr" : "Armure fatale"
 		},
+		"type" : "enemy",
 		"hp" : 64,
 		"mp" : 5,
 		"attack" : 80,
@@ -2967,6 +3058,7 @@
 			"en" : "Rockbomb",
 			"fr" : "Rochexplosif"
 		},
+		"type" : "enemy",
 		"hp" : 300,
 		"mp" : 1,
 		"attack" : 0,
@@ -2996,6 +3088,7 @@
 			"en" : "Eoraptor",
 			"fr" : "Radiaptor"
 		},
+		"type" : "enemy",
 		"hp" : 90,
 		"mp" : 10,
 		"attack" : 85,
@@ -3027,6 +3120,7 @@
 			"en" : "Beleth",
 			"fr" : "Byleth"
 		},
+		"type" : "enemy",
 		"hp" : 125,
 		"mp" : 20,
 		"attack" : 90,
@@ -3057,6 +3151,7 @@
 			"en" : "Grim rider",
 			"fr" : "Cavalier fantôme"
 		},
+		"type" : "enemy",
 		"hp" : 180,
 		"mp" : 8,
 		"attack" : 110,
@@ -3088,6 +3183,7 @@
 			"en" : "Bulldozer",
 			"fr" : "Ronflicorne"
 		},
+		"type" : "enemy",
 		"hp" : 90,
 		"mp" : 0,
 		"attack" : 95,
@@ -3119,6 +3215,7 @@
 			"en" : "Chicken poxer",
 			"fr" : "Coq-toc"
 		},
+		"type" : "enemy",
 		"hp" : 85,
 		"mp" : 0,
 		"attack" : 81,
@@ -3149,6 +3246,7 @@
 			"en" : "War-rus",
 			"fr" : "Toréamorse"
 		},
+		"type" : "enemy",
 		"hp" : 120,
 		"mp" : 0,
 		"attack" : 112,
@@ -3179,6 +3277,7 @@
 			"en" : "Liquid metal slime",
 			"fr" : "Gluant de mercure"
 		},
+		"type" : "enemy",
 		"hp" : 5,
 		"mp" : 0,
 		"attack" : 65,
@@ -3210,6 +3309,7 @@
 			"en" : "Humbaba",
 			"fr" : "Humbaba"
 		},
+		"type" : "enemy",
 		"hp" : 90,
 		"mp" : 0,
 		"attack" : 109,
@@ -3241,6 +3341,7 @@
 			"en" : "Spitfire",
 			"fr" : "Libellugon"
 		},
+		"type" : "enemy",
 		"hp" : 105,
 		"mp" : 0,
 		"attack" : 84,
@@ -3272,6 +3373,7 @@
 			"en" : "Terminonatator",
 			"fr" : "Terminataure"
 		},
+		"type" : "enemy",
 		"hp" : 380,
 		"mp" : 0,
 		"attack" : 125,
@@ -3303,6 +3405,7 @@
 			"en" : "Skerleton",
 			"fr" : "Berserkerlette"
 		},
+		"type" : "enemy",
 		"hp" : 130,
 		"mp" : 0,
 		"attack" : 140,
@@ -3329,4 +3432,3455 @@
 			}
 		]
 	},
+	{
+		"id" : 102,
+		"imgFileName" : "102.png",
+		"name" : {
+			"en" : "Cheeky tiki",
+			"fr" : "Grimasque"
+		},
+		"type" : "enemy",
+		"hp" : 91,
+		"mp" : 14,
+		"attack" : 84,
+		"defense" : 79,
+		"speed" : 50,
+		"xp" : 290,
+		"gold" : 102,
+		"items" : [
+			"Dagues d'oreilles"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de l'armure zénithienne",
+					"Région du palais du démon",
+					"Mine d'Alpion"
+				]
+			}
+		]
+	},
+	{
+		"id" : 103,
+		"imgFileName" : "103.png",
+		"name" : {
+			"en" : "Podokesaurus",
+			"fr" : "Pokérosaure"
+		},
+		"type" : "enemy",
+		"hp" : 114,
+		"mp" : 36,
+		"attack" : 98,
+		"defense" : 40,
+		"speed" : 74,
+		"xp" : 270,
+		"gold" : 81,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de l'armure zénithienne",
+					"Colosse de pierre"
+				]
+			}
+		]
+	},
+	{
+		"id" : 104,
+		"imgFileName" : "104.png",
+		"name" : {
+			"en" : "Dragon rider",
+			"fr" : "Dragonnier"
+		},
+		"type" : "enemy",
+		"hp" : 141,
+		"mp" : 0,
+		"attack" : 115,
+		"defense" : 87,
+		"speed" : 70,
+		"xp" : 351,
+		"gold" : 108,
+		"items" : [
+			"Graine de force"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de l'armure zénithienne",
+					"Colosse de pierre",
+					"Région du palais du démon",
+					"Mine d'Alpion"
+				]
+			}
+		]
+	},
+	{
+		"id" : 105,
+		"imgFileName" : "105.png",
+		"name" : {
+			"en" : "Freeze fly",
+			"fr" : "Mouche des neiges"
+		},
+		"type" : "enemy",
+		"hp" : 90,
+		"mp" : 12,
+		"attack" : 70,
+		"defense" : 78,
+		"speed" : 35,
+		"xp" : 261,
+		"gold" : 151,
+		"items" : [
+			"Crottin de cheval"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de l'armure zénithienne",
+					"Colosse de pierre",
+					"L'Yggdrasil"
+				]
+			}
+		]
+	},
+	{
+		"id" : 106,
+		"imgFileName" : "106.png",
+		"name" : {
+			"en" : "Hell raiser",
+			"fr" : "Phacomage"
+		},
+		"type" : "enemy",
+		"hp" : 110,
+		"mp" : 36,
+		"attack" : 83,
+		"defense" : 75,
+		"speed" : 50,
+		"xp" : 234,
+		"gold" : 91,
+		"items" : [
+			"Bague de prière"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de l'armure zénithienne",
+					"Région d'Estuaria",
+					"Colosse de pierre"
+				]
+			}
+		]
+	},
+	{
+		"id" : 107,
+		"imgFileName" : "107.png",
+		"name" : {
+			"en" : "Hellspawn",
+			"fr" : "Rejeton de l'enfer"
+		},
+		"type" : "enemy",
+		"hp" : 130,
+		"mp" : 0,
+		"attack" : 108,
+		"defense" : 76,
+		"speed" : 67,
+		"xp" : 225,
+		"gold" : 186,
+		"items" : [
+			"Botryche lunaire"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de l'armure zénithienne",
+					"Colosse de pierre"
+				]
+			}
+		]
+	},
+	{
+		"id" : 108,
+		"imgFileName" : "108.png",
+		"name" : {
+			"en" : "Bloody blade",
+			"fr" : "Lame sanglante"
+		},
+		"type" : "enemy",
+		"hp" : 114,
+		"mp" : 3,
+		"attack" : 89,
+		"defense" : 68,
+		"speed" : 49,
+		"xp" : 180,
+		"gold" : 80,
+		"items" : [
+			"Épée large d'acier"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région de Rosecolline",
+					"Grotte de Rosecolline",
+					"Crypte royale"
+				]
+			}
+		]
+	},
+	{
+		"id" : 109,
+		"imgFileName" : "109.png",
+		"name" : {
+			"en" : "Terrorflyer",
+			"fr" : "Apprentiran"
+		},
+		"type" : "enemy",
+		"hp" : 98,
+		"mp" : 0,
+		"attack" : 115,
+		"defense" : 72,
+		"speed" : 43,
+		"xp" : 187,
+		"gold" : 74,
+		"items" : [
+			"Aile de chimère"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Crypte royale"
+				]
+			}
+		]
+	},
+	{
+		"id" : 110,
+		"imgFileName" : "110.png",
+		"name" : {
+			"en" : "Voodoo gooroo",
+			"fr" : "Gourou vaudou"
+		},
+		"type" : "enemy",
+		"hp" : 100,
+		"mp" : 6,
+		"attack" : 120,
+		"defense" : 70,
+		"speed" : 57,
+		"xp" : 211,
+		"gold" : 88,
+		"items" : [
+			"Bâton du salut"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Crypte royale",
+					"Région d'Estuaria",
+					"Colosse de pierre"
+				]
+			}
+		]
+	},
+	{
+		"id" : 111,
+		"imgFileName" : "111.png",
+		"name" : {
+			"en" : "Medislime",
+			"fr" : "Coagluant"
+		},
+		"type" : "enemy",
+		"hp" : 140,
+		"mp" : 30,
+		"attack" : 90,
+		"defense" : 80,
+		"speed" : 47,
+		"xp" : 162,
+		"gold" : 55,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région d'Estuaria"
+				]
+			}
+		]
+	},
+	{
+		"id" : 112,
+		"imgFileName" : "112.png",
+		"name" : {
+			"en" : "Rhinoceraxe",
+			"fr" : "Rhinocérache"
+		},
+		"type" : "enemy",
+		"hp" : 142,
+		"mp" : 17,
+		"attack" : 120,
+		"defense" : 150,
+		"speed" : 35,
+		"xp" : 245,
+		"gold" : 68,
+		"items" : [
+			"Marteau de hela"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région d'Estuaria",
+					"Colosse de pierre",
+					"Région du palais du démon",
+					"Palais du démon"
+				]
+			}
+		]
+	},
+	{
+		"id" : 113,
+		"imgFileName" : "113.png",
+		"name" : {
+			"en" : "Fat bat",
+			"fr" : "Hippovol"
+		},
+		"type" : "enemy",
+		"hp" : 113,
+		"mp" : 3,
+		"attack" : 92,
+		"defense" : 82,
+		"speed" : 38,
+		"xp" : 172,
+		"gold" : 84,
+		"items" : [
+			"Manteau de sérénité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région d'Estuaria",
+					"Colosse de pierre"
+				]
+			}
+		]
+	},
+	{
+		"id" : 114,
+		"imgFileName" : "114.png",
+		"name" : {
+			"en" : "Fat bat",
+			"fr" : "Hippovol"
+		},
+		"type" : "enemy",
+		"hp" : 113,
+		"mp" : 3,
+		"attack" : 92,
+		"defense" : 82,
+		"speed" : 38,
+		"xp" : 172,
+		"gold" : 84,
+		"items" : [
+			"Manteau de sérénité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région d'Estuaria",
+					"Colosse de pierre"
+				]
+			}
+		]
+	},
+	{
+		"id" : 115,
+		"imgFileName" : "115.png",
+		"name" : {
+			"en" : "Blizzybody",
+			"fr" : "Glazon"
+		},
+		"type" : "enemy",
+		"hp" : 85,
+		"mp" : 11,
+		"attack" : 50,
+		"defense" : 40,
+		"speed" : 47,
+		"xp" : 286,
+		"gold" : 100,
+		"items" : [
+			"Graine de magie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Colosse de pierre"
+				]
+			}
+		]
+	},
+	{
+		"id" : 116,
+		"imgFileName" : "116.png",
+		"name" : {
+			"en" : "Wyvern",
+			"fr" : "Wyverne"
+		},
+		"type" : "enemy",
+		"hp" : 120,
+		"mp" : 0,
+		"attack" : 134,
+		"defense" : 90,
+		"speed" : 82,
+		"xp" : 393,
+		"gold" : 116,
+		"items" : [
+			"Aiguille empoisonnée"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région du palais du démon",
+					"Mine d'Alpion"
+				]
+			}
+		]
+	},
+	{
+		"id" : 117,
+		"imgFileName" : "117.png",
+		"name" : {
+			"en" : "Fuddlestick",
+			"fr" : "Fourmicmac"
+		},
+		"type" : "enemy",
+		"hp" : 90,
+		"mp" : 10,
+		"attack" : 109,
+		"defense" : 40,
+		"speed" : 59,
+		"xp" : 261,
+		"gold" : 99,
+		"items" : [
+			"Sac de musc"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région du palais du démon",
+					"Mine d'Alpion",
+					"L'Yggdrasil"
+				]
+			}
+		]
+	},
+	{
+		"id" : 118,
+		"imgFileName" : "118.png",
+		"name" : {
+			"en" : "Moosifer",
+			"fr" : "Belzébik"
+		},
+		"type" : "enemy",
+		"hp" : 250,
+		"mp" : 12,
+		"attack" : 123,
+		"defense" : 98,
+		"speed" : 78,
+		"xp" : 387,
+		"gold" : 122,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"L'Yggdrasil"
+				]
+			}
+		]
+	},
+	{
+		"id" : 119,
+		"imgFileName" : "119.png",
+		"name" : {
+			"en" : "King cureslime",
+			"fr" : "Roi guérigluant"
+		},
+		"type" : "enemy",
+		"hp" : 150,
+		"mp" : 0,
+		"attack" : 90,
+		"defense" : 25,
+		"speed" : 30,
+		"xp" : 384,
+		"gold" : 300,
+		"items" : [
+			"Épée de cuivre"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"L'Yggdrasil"
+				]
+			}
+		]
+	},
+	{
+		"id" : 120,
+		"imgFileName" : "120.png",
+		"name" : {
+			"en" : "Rhinocerex",
+			"fr" : "Rhinofurax"
+		},
+		"type" : "enemy",
+		"hp" : 220,
+		"mp" : 7,
+		"attack" : 200,
+		"defense" : 160,
+		"speed" : 70,
+		"xp" : 655,
+		"gold" : 150,
+		"items" : [
+			"Armure de plates"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Mine d'Alpion",
+					"Tour Zénithia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 121,
+		"imgFileName" : "121.png",
+		"name" : {
+			"en" : "Joojoo gooroo",
+			"fr" : "Gourou jajou"
+		},
+		"type" : "enemy",
+		"hp" : 130,
+		"mp" : 48,
+		"attack" : 132,
+		"defense" : 83,
+		"speed" : 58,
+		"xp" : 477,
+		"gold" : 146,
+		"items" : [
+			"Absorboléro"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 122,
+		"imgFileName" : "122.png",
+		"name" : {
+			"en" : "Grim keeper",
+			"fr" : "Grand faucheur"
+		},
+		"type" : "enemy",
+		"hp" : 250,
+		"mp" : 26,
+		"attack" : 130,
+		"defense" : 116,
+		"speed" : 61,
+		"xp" : 585,
+		"gold" : 73,
+		"items" : [
+			"Faucille à chaîne"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"L'Yggdrasil",
+					"Région d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 123,
+		"imgFileName" : "123.png",
+		"name" : {
+			"en" : "Ogre",
+			"fr" : "Bouledogre"
+		},
+		"type" : "enemy",
+		"hp" : 210,
+		"mp" : 0,
+		"attack" : 143,
+		"defense" : 40,
+		"speed" : 47,
+		"xp" : 391,
+		"gold" : 65,
+		"items" : [
+			"Griffe de feu"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"L'Yggdrasil",
+					"Région d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 124,
+		"imgFileName" : "124.png",
+		"name" : {
+			"en" : "Bullion",
+			"fr" : "Mygalion"
+		},
+		"type" : "enemy",
+		"hp" : 200,
+		"mp" : 0,
+		"attack" : 110,
+		"defense" : 90,
+		"speed" : 57,
+		"xp" : 447,
+		"gold" : 92,
+		"items" : [
+			"Carte argentées"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région d'Azimuth",
+					"Tour Zénithia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 125,
+		"imgFileName" : "125.png",
+		"name" : {
+			"en" : "Night emperor",
+			"fr" : "Empereur nocturne"
+		},
+		"type" : "enemy",
+		"hp" : 220,
+		"mp" : 24,
+		"attack" : 143,
+		"defense" : 127,
+		"speed" : 60,
+		"xp" : 495,
+		"gold" : 144,
+		"items" : [
+			"Body rose"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 126,
+		"imgFileName" : "126.png",
+		"name" : {
+			"en" : "Metal king slime",
+			"fr" : "Roi gluant de métal"
+		},
+		"type" : "enemy",
+		"hp" : 7,
+		"mp" : 0,
+		"attack" : 140,
+		"defense" : 1023,
+		"speed" : 165,
+		"xp" : 30010,
+		"gold" : 20,
+		"items" : [
+			"Casque de mercure"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Région d'Azimuth",
+					"Tour Zénithia",
+					"Tour des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 127,
+		"imgFileName" : "127.png",
+		"name" : {
+			"en" : "Green dragon",
+			"fr" : "Dragon vert"
+		},
+		"type" : "enemy",
+		"hp" : 143,
+		"mp" : 0,
+		"attack" : 136,
+		"defense" : 90,
+		"speed" : 55,
+		"xp" : 405,
+		"gold" : 132,
+		"items" : [
+			"Bouclier du dragon"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"L'Yggdrasil"
+				]
+			}
+		]
+	},
+	{
+		"id" : 128,
+		"imgFileName" : "128.png",
+		"name" : {
+			"en" : "Whirly girly",
+			"fr" : "Typhonphonphon"
+		},
+		"type" : "enemy",
+		"hp" : 80,
+		"mp" : 30,
+		"attack" : 152,
+		"defense" : 55,
+		"speed" : 79,
+		"xp" : 403,
+		"gold" : 128,
+		"items" : [
+			"Arc de chasseur"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"L'Yggdrasil"
+				]
+			}
+		]
+	},
+	{
+		"id" : 129,
+		"imgFileName" : "129.png",
+		"name" : {
+			"en" : "Bone baron",
+			"fr" : "Baron d'os"
+		},
+		"type" : "enemy",
+		"hp" : 146,
+		"mp" : 14,
+		"attack" : 127,
+		"defense" : 95,
+		"speed" : 65,
+		"xp" : 543,
+		"gold" : 139,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 130,
+		"imgFileName" : "130.png",
+		"name" : {
+			"en" : "Drooling ghoul",
+			"fr" : "Sméagoule"
+		},
+		"type" : "enemy",
+		"hp" : 134,
+		"mp" : 0,
+		"attack" : 155,
+		"defense" : 35,
+		"speed" : 66,
+		"xp" : 448,
+		"gold" : 63,
+		"items" : [
+			"Cuirasse de zombie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia",
+					"Tour des ténèbres",
+					"Havre céleste",
+					"Château des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 131,
+		"imgFileName" : "131.png",
+		"name" : {
+			"en" : "Teaky mask",
+			"fr" : "Maskoteck"
+		},
+		"type" : "enemy",
+		"hp" : 150,
+		"mp" : 0,
+		"attack" : 142,
+		"defense" : 60,
+		"speed" : 75,
+		"xp" : 485,
+		"gold" : 52,
+		"items" : [
+			"Masque de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia",
+					"Havre céleste",
+					"Château des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 132,
+		"imgFileName" : "132.png",
+		"name" : {
+			"en" : "Pickeerer",
+			"fr" : "Vicius"
+		},
+		"type" : "enemy",
+		"hp" : 140,
+		"mp" : 0,
+		"attack" : 162,
+		"defense" : 130,
+		"speed" : 70,
+		"xp" : 573,
+		"gold" : 172,
+		"items" : [
+			"Bague de prière"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia",
+					"Tour des ténèbres",
+					"Château des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 133,
+		"imgFileName" : "133.png",
+		"name" : {
+			"en" : "Pit viper",
+			"fr" : "Crotale"
+		},
+		"type" : "enemy",
+		"hp" : 200,
+		"mp" : 0,
+		"attack" : 147,
+		"defense" : 80,
+		"speed" : 60,
+		"xp" : 563,
+		"gold" : 95,
+		"items" : [
+			"Botryche lunaire"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 134,
+		"imgFileName" : "134.png",
+		"name" : {
+			"en" : "Damselfly",
+			"fr" : "Damoisel"
+		},
+		"type" : "enemy",
+		"hp" : 123,
+		"mp" : 5,
+		"attack" : 127,
+		"defense" : 145,
+		"speed" : 110,
+		"xp" : 615,
+		"gold" : 390,
+		"items" : [
+			"Graine de magie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia",
+					"Tour des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 135,
+		"imgFileName" : "135.png",
+		"name" : {
+			"en" : "Abullddon",
+			"fr" : "Belzébouc"
+		},
+		"type" : "enemy",
+		"hp" : 250,
+		"mp" : 24,
+		"attack" : 178,
+		"defense" : 132,
+		"speed" : 88,
+		"xp" : 670,
+		"gold" : 205,
+		"items" : [
+			"Cuirasse du dragon"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia",
+					"Tour des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 136,
+		"imgFileName" : "136.png",
+		"name" : {
+			"en" : "Hot dog",
+			"fr" : "Pitbrûle"
+		},
+		"type" : "enemy",
+		"hp" : 165,
+		"mp" : 0,
+		"attack" : 170,
+		"defense" : 90,
+		"speed" : 61,
+		"xp" : 515,
+		"gold" : 205,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 137,
+		"imgFileName" : "137.png",
+		"name" : {
+			"en" : "Beelzebuzz",
+			"fr" : "Globulœil"
+		},
+		"type" : "enemy",
+		"hp" : 250,
+		"mp" : 23,
+		"attack" : 8,
+		"defense" : 0,
+		"speed" : 68,
+		"xp" : 570,
+		"gold" : 123,
+		"items" : [
+			"Épée double"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia",
+					"Tour des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 138,
+		"imgFileName" : "138.png",
+		"name" : {
+			"en" : "Float-o-copier",
+			"fr" : "Feutocopieur"
+		},
+		"type" : "enemy",
+		"hp" : 153,
+		"mp" : 105,
+		"attack" : 104,
+		"defense" : 122,
+		"speed" : 120,
+		"xp" : 582,
+		"gold" : 316,
+		"items" : [
+			"Miroir de Râ"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Palais du démon",
+					"Havre céleste",
+					"Château des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 139,
+		"imgFileName" : "139.png",
+		"name" : {
+			"en" : "Terracotta warrior",
+			"fr" : "Guerracotta"
+		},
+		"type" : "enemy",
+		"hp" : 400,
+		"mp" : 0,
+		"attack" : 142,
+		"defense" : 140,
+		"speed" : 120,
+		"xp" : 693,
+		"gold" : 15,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Château des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 140,
+		"imgFileName" : "140.png",
+		"name" : {
+			"en" : "Swingre",
+			"fr" : "Fléogre"
+		},
+		"type" : "enemy",
+		"hp" : 380,
+		"mp" : 0,
+		"attack" : 220,
+		"defense" : 90,
+		"speed" : 55,
+		"xp" : 1094,
+		"gold" : 53,
+		"items" : [
+			"Armure de hela"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Havre céleste",
+					"Château des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 141,
+		"imgFileName" : "141.png",
+		"name" : {
+			"en" : "Red dragon",
+			"fr" : "Dragon rouge"
+		},
+		"type" : "enemy",
+		"hp" : 167,
+		"mp" : 28,
+		"attack" : 183,
+		"defense" : 90,
+		"speed" : 78,
+		"xp" : 603,
+		"gold" : 215,
+		"items" : [
+			"Graine de vitalité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 142,
+		"imgFileName" : "142.png",
+		"name" : {
+			"en" : "Sasquash",
+			"fr" : "Primatraque"
+		},
+		"type" : "enemy",
+		"hp" : 250,
+		"mp" : 8,
+		"attack" : 135,
+		"defense" : 40,
+		"speed" : 37,
+		"xp" : 589,
+		"gold" : 99,
+		"items" : [
+			"Bâton de thalie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 143,
+		"imgFileName" : "143.png",
+		"name" : {
+			"en" : "Wilder beast",
+			"fr" : "Bebête sauvage"
+		},
+		"type" : "enemy",
+		"hp" : 178,
+		"mp" : 0,
+		"attack" : 125,
+		"defense" : 73,
+		"speed" : 54,
+		"xp" : 480,
+		"gold" : 81,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 144,
+		"imgFileName" : "144.png",
+		"name" : {
+			"en" : "Vis mage",
+			"fr" : "Maximage"
+		},
+		"type" : "enemy",
+		"hp" : 900,
+		"mp" : 0,
+		"attack" : 162,
+		"defense" : 160,
+		"speed" : 220,
+		"xp" : 1232,
+		"gold" : 112,
+		"items" : [
+			"Robe chatoyante"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour Zénithia",
+					"Tour des ténèbres",
+					"Château des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 145,
+		"imgFileName" : "145.png",
+		"name" : {
+			"en" : "Prince of darkness",
+			"fr" : "Prince des ténèbres"
+		},
+		"type" : "enemy",
+		"hp" : 200,
+		"mp" : 38,
+		"attack" : 172,
+		"defense" : 95,
+		"speed" : 70,
+		"xp" : 684,
+		"gold" : 226,
+		"items" : [
+			"Bâton d'antimagie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Château des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 146,
+		"imgFileName" : "146.png",
+		"name" : {
+			"en" : "Dragooner",
+			"fr" : "Cavalier des enfers"
+		},
+		"type" : "enemy",
+		"hp" : 300,
+		"mp" : 35,
+		"attack" : 175,
+		"defense" : 90,
+		"speed" : 75,
+		"xp" : 740,
+		"gold" : 169,
+		"items" : [
+			"Fléau des dragons"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Havre céleste",
+					"Château des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 147,
+		"imgFileName" : "147.png",
+		"name" : {
+			"en" : "Emperor wyvern",
+			"fr" : "Wyvereine"
+		},
+		"type" : "enemy",
+		"hp" : 400,
+		"mp" : 0,
+		"attack" : 195,
+		"defense" : 90,
+		"speed" : 67,
+		"xp" : 786,
+		"gold" : 254,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Havre céleste",
+					"Château des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 148,
+		"imgFileName" : "148.png",
+		"name" : {
+			"en" : "Demonspawn",
+			"fr" : "Rejeton du démon"
+		},
+		"type" : "enemy",
+		"hp" : 180,
+		"mp" : 28,
+		"attack" : 135,
+		"defense" : 170,
+		"speed" : 80,
+		"xp" : 586,
+		"gold" : 247,
+		"items" : [
+			"Manteau d'esquive"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 149,
+		"imgFileName" : "149.png",
+		"name" : {
+			"en" : "Night rider",
+			"fr" : "Cavalier nocturne"
+		},
+		"type" : "enemy",
+		"hp" : 300,
+		"mp" : 0,
+		"attack" : 200,
+		"defense" : 170,
+		"speed" : 71,
+		"xp" : 1678,
+		"gold" : 20,
+		"items" : [
+			"Épée double"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Havre céleste",
+					"Château des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 150,
+		"imgFileName" : "150.png",
+		"name" : {
+			"en" : "Night clubber",
+			"fr" : "Bastonnier"
+		},
+		"type" : "enemy",
+		"hp" : 330,
+		"mp" : 0,
+		"attack" : 19,
+		"defense" : 43,
+		"speed" : 22,
+		"xp" : 1023,
+		"gold" : 137,
+		"items" : [
+			"Massue de chêne"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour des ténèbres"
+				]
+			}
+		]
+	},
+	{
+		"id" : 151,
+		"imgFileName" : "151.png",
+		"name" : {
+			"en" : "Knightshade",
+			"fr" : "Chevalier nébuleux"
+		},
+		"type" : "enemy",
+		"hp" : 200,
+		"mp" : 20,
+		"attack" : 132,
+		"defense" : 130,
+		"speed" : 78,
+		"xp" : 450,
+		"gold" : 92,
+		"items" : [
+			"Épée ardente"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 152,
+		"imgFileName" : "152.png",
+		"name" : {
+			"en" : "Decayurion",
+			"fr" : "Légionellos"
+		},
+		"type" : "enemy",
+		"hp" : 350,
+		"mp" : 20,
+		"attack" : 125,
+		"defense" : 75,
+		"speed" : 70,
+		"xp" : 563,
+		"gold" : 72,
+		"items" : [
+			"Cuirasse de zombie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 153,
+		"imgFileName" : "153.png",
+		"name" : {
+			"en" : "Bloody hand",
+			"fr" : "Main sanglante"
+		},
+		"type" : "enemy",
+		"hp" : 185,
+		"mp" : 50,
+		"attack" : 125,
+		"defense" : 60,
+		"speed" : 112,
+		"xp" : 347,
+		"gold" : 50,
+		"items" : [
+			"Brassard d'or"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 154,
+		"imgFileName" : "154.png",
+		"name" : {
+			"en" : "Demon thunderer",
+			"fr" : "Démon orageux"
+		},
+		"type" : "enemy",
+		"hp" : 259,
+		"mp" : 0,
+		"attack" : 142,
+		"defense" : 100,
+		"speed" : 91,
+		"xp" : 480,
+		"gold" : 95,
+		"items" : [
+			"Graine de vitalité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 155,
+		"imgFileName" : "155.png",
+		"name" : {
+			"en" : "Draguar",
+			"fr" : "Draguar"
+		},
+		"type" : "enemy",
+		"hp" : 352,
+		"mp" : 27,
+		"attack" : 165,
+		"defense" : 110,
+		"speed" : 102,
+		"xp" : 543,
+		"gold" : 102,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 156,
+		"imgFileName" : "156.png",
+		"name" : {
+			"en" : "Juggular",
+			"fr" : "Saltimbranque"
+		},
+		"type" : "enemy",
+		"hp" : 375,
+		"mp" : 70,
+		"attack" : 188,
+		"defense" : 120,
+		"speed" : 105,
+		"xp" : 680,
+		"gold" : 142,
+		"items" : [
+			"Brassard de choc"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 157,
+		"imgFileName" : "157.png",
+		"name" : {
+			"en" : "Cerberuff",
+			"fr" : "Cerberk"
+		},
+		"type" : "enemy",
+		"hp" : 300,
+		"mp" : 0,
+		"attack" : 175,
+		"defense" : 130,
+		"speed" : 123,
+		"xp" : 435,
+		"gold" : 95,
+		"items" : [
+			"Sac de musc"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 158,
+		"imgFileName" : "158.png",
+		"name" : {
+			"en" : "Gnucifer",
+			"fr" : "Satanglier"
+		},
+		"type" : "enemy",
+		"hp" : 360,
+		"mp" : 50,
+		"attack" : 180,
+		"defense" : 135,
+		"speed" : 83,
+		"xp" : 685,
+		"gold" : 121,
+		"items" : [
+			"Masque d'Hadès"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 159,
+		"imgFileName" : "159.png",
+		"name" : {
+			"en" : "Div",
+			"fr" : "Stryge"
+		},
+		"type" : "enemy",
+		"hp" : 380,
+		"mp" : 20,
+		"attack" : 180,
+		"defense" : 160,
+		"speed" : 125,
+		"xp" : 712,
+		"gold" : 160,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 160,
+		"imgFileName" : "160.png",
+		"name" : {
+			"en" : "Prism peacock",
+			"fr" : "Dark-en-ciel"
+		},
+		"type" : "enemy",
+		"hp" : 456,
+		"mp" : 120,
+		"attack" : 200,
+		"defense" : 150,
+		"speed" : 95,
+		"xp" : 885,
+		"gold" : 155,
+		"items" : [
+			"Graine de magie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 161,
+		"imgFileName" : "161.png",
+		"name" : {
+			"en" : "Testudogre",
+			"fr" : "Métallogre"
+		},
+		"type" : "enemy",
+		"hp" : 360,
+		"mp" : 0,
+		"attack" : 195,
+		"defense" : 135,
+		"speed" : 115,
+		"xp" : 750,
+		"gold" : 200,
+		"items" : [
+			"Armure de hela"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 162,
+		"imgFileName" : "162.png",
+		"name" : {
+			"en" : "Drakulard",
+			"fr" : "Draculard"
+		},
+		"type" : "enemy",
+		"hp" : 520,
+		"mp" : 50,
+		"attack" : 220,
+		"defense" : 130,
+		"speed" : 82,
+		"xp" : 935,
+		"gold" : 130,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 163,
+		"imgFileName" : "163.png",
+		"name" : {
+			"en" : "Togre",
+			"fr" : "Togre"
+		},
+		"type" : "enemy",
+		"hp" : 440,
+		"mp" : 65,
+		"attack" : 203,
+		"defense" : 135,
+		"speed" : 102,
+		"xp" : 525,
+		"gold" : 142,
+		"items" : [
+			"Armure de piques"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 164,
+		"imgFileName" : "164.png",
+		"name" : {
+			"en" : "High djinks",
+			"fr" : "Djinn-fizz"
+		},
+		"type" : "enemy",
+		"hp" : 350,
+		"mp" : 0,
+		"attack" : 170,
+		"defense" : 105,
+		"speed" : 88,
+		"xp" : 710,
+		"gold" : 117,
+		"items" : [
+			"Caleçon"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 165,
+		"imgFileName" : "165.png",
+		"name" : {
+			"en" : "Perilwinkle",
+			"fr" : "Bicorneau"
+		},
+		"type" : "enemy",
+		"hp" : 190,
+		"mp" : 8,
+		"attack" : 133,
+		"defense" : 180,
+		"speed" : 62,
+		"xp" : 356,
+		"gold" : 83,
+		"items" : [
+			"Graine de sagesse"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 166,
+		"imgFileName" : "166.png",
+		"name" : {
+			"en" : "Shelligator",
+			"fr" : "Alligatortue"
+		},
+		"type" : "enemy",
+		"hp" : 170,
+		"mp" : 0,
+		"attack" : 165,
+		"defense" : 140,
+		"speed" : 106,
+		"xp" : 415,
+		"gold" : 77,
+		"items" : [
+			"Lance du démon"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 167,
+		"imgFileName" : "167.png",
+		"name" : {
+			"en" : "Croaked king",
+			"fr" : "Roi crôa"
+		},
+		"type" : "enemy",
+		"hp" : 400,
+		"mp" : 38,
+		"attack" : 190,
+		"defense" : 93,
+		"speed" : 88,
+		"xp" : 740,
+		"gold" : 110,
+		"items" : [
+			"Bague de prière"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 168,
+		"imgFileName" : "168.png",
+		"name" : {
+			"en" : "Seasaur",
+			"fr" : "Aquasaure"
+		},
+		"type" : "enemy",
+		"hp" : 450,
+		"mp" : 0,
+		"attack" : 240,
+		"defense" : 92,
+		"speed" : 90,
+		"xp" : 640,
+		"gold" : 150,
+		"items" : [
+			"Graine de force"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 169,
+		"imgFileName" : "169.png",
+		"name" : {
+			"en" : "Platinum king jewel",
+			"fr" : "Bijou royal en platine"
+		},
+		"type" : "enemy",
+		"hp" : 200,
+		"mp" : 100,
+		"attack" : 210,
+		"defense" : 800,
+		"speed" : 255,
+		"xp" : 65000,
+		"gold" : 700,
+		"items" : [
+			"Brassard de conjuration"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 170,
+		"imgFileName" : "170.png",
+		"name" : {
+			"en" : "Cannibox",
+			"fr" : "Canniboîte"
+		},
+		"type" : "enemy",
+		"hp" : 100,
+		"mp" : 0,
+		"attack" : 140,
+		"defense" : 55,
+		"speed" : 62,
+		"xp" : 150,
+		"gold" : 25,
+		"items" : [
+			"Cottes de mailles"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte de Parthénia"
+				]
+			}
+		]
+	},
+	{
+		"id" : 171,
+		"imgFileName" : "171.png",
+		"name" : {
+			"en" : "Mimic",
+			"fr" : "Imitapeur"
+		},
+		"type" : "enemy",
+		"hp" : 190,
+		"mp" : 7,
+		"attack" : 120,
+		"defense" : 72,
+		"speed" : 70,
+		"xp" : 350,
+		"gold" : 48,
+		"items" : [
+			"Costume de danseuse"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Colosse de pierre",
+					"Palais du démon",
+					"Mine d'Alpion",
+					"Tour des ténèbres",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 172,
+		"imgFileName" : "172.png",
+		"name" : {
+			"en" : "Pandora's box",
+			"fr" : "Boîte de Pandore"
+		},
+		"type" : "enemy",
+		"hp" : 900,
+		"mp" : 10,
+		"attack" : 240,
+		"defense" : 200,
+		"speed" : 131,
+		"xp" : 1250,
+		"gold" : 280,
+		"items" : [
+			"Body rose"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 173,
+		"imgFileName" : "173.png",
+		"name" : {
+			"en" : "Scarewell",
+			"fr" : "Puisard"
+		},
+		"type" : "enemy",
+		"hp" : 120,
+		"mp" : 0,
+		"attack" : 75,
+		"defense" : 70,
+		"speed" : 65,
+		"xp" : 350,
+		"gold" : 100,
+		"items" : [
+			"Rubis de protection"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Forêt de Strattbourg"
+				]
+			}
+		]
+	},
+	{
+		"id" : 174,
+		"imgFileName" : "174.png",
+		"name" : {
+			"en" : "Well wisher",
+			"fr" : "Puits-sang"
+		},
+		"type" : "enemy",
+		"hp" : 210,
+		"mp" : 20,
+		"attack" : 120,
+		"defense" : 75,
+		"speed" : 61,
+		"xp" : 574,
+		"gold" : 67,
+		"items" : [
+			"Graine de force"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 175,
+		"imgFileName" : "175.png",
+		"name" : {
+			"en" : "Man o' war",
+			"fr" : "Méduse"
+		},
+		"type" : "enemy",
+		"hp" : 40,
+		"mp" : 0,
+		"attack" : 35,
+		"defense" : 15,
+		"speed" : 20,
+		"xp" : 35,
+		"gold" : 12,
+		"items" : [
+			"Botryche lunaire"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 176,
+		"imgFileName" : "176.png",
+		"name" : {
+			"en" : "Glugworm",
+			"fr" : "Ver mine"
+		},
+		"type" : "enemy",
+		"hp" : 90,
+		"mp" : 0,
+		"attack" : 65,
+		"defense" : 30,
+		"speed" : 41,
+		"xp" : 94,
+		"gold" : 29,
+		"items" : [
+			"Herbe médicinale"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 177,
+		"imgFileName" : "177.png",
+		"name" : {
+			"en" : "Strangler fish",
+			"fr" : "Saumonstrueux"
+		},
+		"type" : "enemy",
+		"hp" : 55,
+		"mp" : 3,
+		"attack" : 58,
+		"defense" : 30,
+		"speed" : 50,
+		"xp" : 80,
+		"gold" : 43,
+		"items" : [
+			"Faucille à chaîne"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 178,
+		"imgFileName" : "178.png",
+		"name" : {
+			"en" : "Axolotl",
+			"fr" : "Axolotl"
+		},
+		"type" : "enemy",
+		"hp" : 64,
+		"mp" : 6,
+		"attack" : 73,
+		"defense" : 40,
+		"speed" : 25,
+		"xp" : 113,
+		"gold" : 60,
+		"items" : [
+			"Bâton de cyprès"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 179,
+		"imgFileName" : "179.png",
+		"name" : {
+			"en" : "Preying manta",
+			"fr" : "Raie pulsive"
+		},
+		"type" : "enemy",
+		"hp" : 40,
+		"mp" : 0,
+		"attack" : 50,
+		"defense" : 45,
+		"speed" : 23,
+		"xp" : 70,
+		"gold" : 24,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 180,
+		"imgFileName" : "180.png",
+		"name" : {
+			"en" : "Barracuda",
+			"fr" : "Barracuda"
+		},
+		"type" : "enemy",
+		"hp" : 47,
+		"mp" : 0,
+		"attack" : 6,
+		"defense" : 20,
+		"speed" : 10,
+		"xp" : 75,
+		"gold" : 33,
+		"items" : [
+			"Heaume de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 181,
+		"imgFileName" : "181.png",
+		"name" : {
+			"en" : "Pterygotus",
+			"fr" : "Pterygotus"
+		},
+		"type" : "enemy",
+		"hp" : 44,
+		"mp" : 6,
+		"attack" : 52,
+		"defense" : 115,
+		"speed" : 40,
+		"xp" : 95,
+		"gold" : 25,
+		"items" : [
+			"Masque de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 182,
+		"imgFileName" : "182.png",
+		"name" : {
+			"en" : "Devilfish",
+			"fr" : "Poulpotrompe"
+		},
+		"type" : "enemy",
+		"hp" : 120,
+		"mp" : 0,
+		"attack" : 53,
+		"defense" : 12,
+		"speed" : 29,
+		"xp" : 120,
+		"gold" : 72,
+		"items" : [
+			"Arc de chasseur"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 183,
+		"imgFileName" : "183.png",
+		"name" : {
+			"en" : "Mangler fish",
+			"fr" : "Rascrasse"
+		},
+		"type" : "enemy",
+		"hp" : 90,
+		"mp" : 6,
+		"attack" : 81,
+		"defense" : 42,
+		"speed" : 51,
+		"xp" : 155,
+		"gold" : 72,
+		"items" : [
+			"Botryche lunaire"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 184,
+		"imgFileName" : "184.png",
+		"name" : {
+			"en" : "Maulrus",
+			"fr" : "Matamorse"
+		},
+		"type" : "enemy",
+		"hp" : 150,
+		"mp" : 0,
+		"attack" : 98,
+		"defense" : 50,
+		"speed" : 30,
+		"xp" : 140,
+		"gold" : 80,
+		"items" : [
+			"Dague de glace"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 185,
+		"imgFileName" : "185.png",
+		"name" : {
+			"en" : "Woolungasaurus",
+			"fr" : "Elasmosaure"
+		},
+		"type" : "enemy",
+		"hp" : 48,
+		"mp" : 0,
+		"attack" : 42,
+		"defense" : 33,
+		"speed" : 26,
+		"xp" : 65,
+		"gold" : 38,
+		"items" : [
+			"Dagues d'oreilles"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 186,
+		"imgFileName" : "186.png",
+		"name" : {
+			"en" : "Sand viper",
+			"fr" : "Vipère des sables"
+		},
+		"type" : "enemy",
+		"hp" : 130,
+		"mp" : 3,
+		"attack" : 85,
+		"defense" : 63,
+		"speed" : 38,
+		"xp" : 170,
+		"gold" : 124,
+		"items" : [
+			"Tiare d'or"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan",
+					"Grotte de Rosecolline"
+				]
+			}
+		]
+	},
+	{
+		"id" : 187,
+		"imgFileName" : "187.png",
+		"name" : {
+			"en" : "Ultraviolent ray",
+			"fr" : "Massacraie"
+		},
+		"type" : "enemy",
+		"hp" : 72,
+		"mp" : 0,
+		"attack" : 72,
+		"defense" : 35,
+		"speed" : 39,
+		"xp" : 103,
+		"gold" : 48,
+		"items" : [
+			"Graine d'agilité"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 188,
+		"imgFileName" : "188.png",
+		"name" : {
+			"en" : "Terrornodon",
+			"fr" : "Pterroridactyle"
+		},
+		"type" : "enemy",
+		"hp" : 105,
+		"mp" : 7,
+		"attack" : 115,
+		"defense" : 105,
+		"speed" : 60,
+		"xp" : 187,
+		"gold" : 70,
+		"items" : [
+			"Graine de magie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 189,
+		"imgFileName" : "189.png",
+		"name" : {
+			"en" : "Spinchilla",
+			"fr" : "Glacyclone"
+		},
+		"type" : "enemy",
+		"hp" : 100,
+		"mp" : 6,
+		"attack" : 74,
+		"defense" : 120,
+		"speed" : 42,
+		"xp" : 180,
+		"gold" : 84,
+		"items" : [
+			"Manteau d'esquive"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan",
+					"Grotte de Rosecolline",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 190,
+		"imgFileName" : "190.png",
+		"name" : {
+			"en" : "Picuda",
+			"fr" : "Mégacuda"
+		},
+		"type" : "enemy",
+		"hp" : 120,
+		"mp" : 10,
+		"attack" : 88,
+		"defense" : 77,
+		"speed" : 47,
+		"xp" : 165,
+		"gold" : 69,
+		"items" : [
+			"Éventail de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan",
+					"Grotte de Rosecolline",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 191,
+		"imgFileName" : "191.png",
+		"name" : {
+			"en" : "Dangler fish",
+			"fr" : "Charpiranha"
+		},
+		"type" : "enemy",
+		"hp" : 35,
+		"mp" : 7,
+		"attack" : 39,
+		"defense" : 30,
+		"speed" : 25,
+		"xp" : 48,
+		"gold" : 30,
+		"items" : [
+			"Fiole d'eau magique"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan"
+				]
+			}
+		]
+	},
+	{
+		"id" : 192,
+		"imgFileName" : "192.png",
+		"name" : {
+			"en" : "Octophant",
+			"fr" : "Calaphant"
+		},
+		"type" : "enemy",
+		"hp" : 300,
+		"mp" : 0,
+		"attack" : 75,
+		"defense" : 30,
+		"speed" : 30,
+		"xp" : 208,
+		"gold" : 98,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan",
+					"Grotte de Rosecolline",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 193,
+		"imgFileName" : "193.png",
+		"name" : {
+			"en" : "Incineraytor",
+			"fr" : "Incinéraiteur"
+		},
+		"type" : "enemy",
+		"hp" : 98,
+		"mp" : 0,
+		"attack" : 110,
+		"defense" : 70,
+		"speed" : 62,
+		"xp" : 221,
+		"gold" : 100,
+		"items" : [
+			"Bouclier de fer"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan",
+					"Grotte de Rosecolline",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 194,
+		"imgFileName" : "194.png",
+		"name" : {
+			"en" : "Tuskateer",
+			"fr" : "Misamorse"
+		},
+		"type" : "enemy",
+		"hp" : 150,
+		"mp" : 0,
+		"attack" : 55,
+		"defense" : 25,
+		"speed" : 25,
+		"xp" : 98,
+		"gold" : 55,
+		"items" : [
+			"Aile de chimère"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Océan",
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 195,
+		"imgFileName" : "195.png",
+		"name" : {
+			"en" : "Psaro's Pawn",
+			"fr" : "Sbire de Psaro"
+		},
+		"type" : "boss",
+		"hp" : 250,
+		"mp" : 0,
+		"attack" : 52,
+		"defense" : 36,
+		"speed" : 16,
+		"xp" : 73,
+		"gold" : 60,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [
+					"Tour de Strattbourg"
+				],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 196,
+		"imgFileName" : "196.png",
+		"name" : {
+			"en" : "Master Kung",
+			"fr" : "Maître Kung"
+		},
+		"type" : "boss",
+		"hp" : 40,
+		"mp" : 6,
+		"attack" : 28,
+		"defense" : 28,
+		"speed" : 50,
+		"xp" : 136,
+		"gold" : 60,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Taborov"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 197,
+		"imgFileName" : "197.png",
+		"name" : {
+			"en" : "Abominable showman",
+			"fr" : "Abominhomme des neiges"
+		},
+		"type" : "boss",
+		"hp" : 55,
+		"mp" : 0,
+		"attack" : 40,
+		"defense" : 60,
+		"speed" : 75,
+		"xp" : 0,
+		"gold" : 0,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [
+					"Colisée de Chandor"
+				],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 198,
+		"imgFileName" : "198.png",
+		"name" : {
+			"en" : "Balzack",
+			"fr" : "Dickenz"
+		},
+		"type" : "boss",
+		"hp" : 300,
+		"mp" : 0,
+		"attack" : 72,
+		"defense" : 36,
+		"speed" : 22,
+		"xp" : 500,
+		"gold" : 0,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [
+					"Palais de Lord Lionel"
+				],
+				"chapter5" : []
+			}
+		]
+	},
+	{
+		"id" : 199,
+		"imgFileName" : "199.png",
+		"name" : {
+			"en" : "Tricksy",
+			"fr" : "Angélus"
+		},
+		"type" : "boss",
+		"hp" : 35,
+		"mp" : 0,
+		"attack" : 37,
+		"defense" : 30,
+		"speed" : 3,
+		"xp" : 450,
+		"gold" : 20,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Grotte du symbole de la foi"
+				]
+			}
+		]
+	},
+	{
+		"id" : 200,
+		"imgFileName" : "200.png",
+		"name" : {
+			"en" : "Tigergram",
+			"fr" : "Tigroar"
+		},
+		"type" : "boss",
+		"hp" : 230,
+		"mp" : 9,
+		"attack" : 78,
+		"defense" : 73,
+		"speed" : 20,
+		"xp" : 2000,
+		"gold" : 350,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Phare de Port-Carène"
+				]
+			}
+		]
+	},
+	{
+		"id" : 201,
+		"imgFileName" : "201.png",
+		"name" : {
+			"en" : "Marquis de Léon",
+			"fr" : "Lord Lionel"
+		},
+		"type" : "boss",
+		"hp" : 950,
+		"mp" : 0,
+		"attack" : 123,
+		"defense" : 80,
+		"speed" : 18,
+		"xp" : 5100,
+		"gold" : 0,
+		"items" : [
+			"Armure de plates"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Palais de Lord Lionel"
+				]
+			}
+		]
+	},
+	{
+		"id" : 202,
+		"imgFileName" : "202.png",
+		"name" : {
+			"en" : "Baalzack",
+			"fr" : "Déickenz"
+		},
+		"type" : "boss",
+		"hp" : 500,
+		"mp" : 0,
+		"attack" : 150,
+		"defense" : 100,
+		"speed" : 28,
+		"xp" : 6500,
+		"gold" : 0,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Château de Zamoksva"
+				]
+			}
+		]
+	},
+	{
+		"id" : 203,
+		"imgFileName" : "203.png",
+		"name" : {
+			"en" : "Sir Roseguardin",
+			"fr" : "Sire Rosegarde"
+		},
+		"type" : "boss",
+		"hp" : 1200,
+		"mp" : 0,
+		"attack" : 175,
+		"defense" : 155,
+		"speed" : 77,
+		"xp" : 6800,
+		"gold" : 0,
+		"items" : [
+			"Sphère du silence"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Tour de Rosecolline"
+				]
+			}
+		]
+	},
+	{
+		"id" : 204,
+		"imgFileName" : "204.png",
+		"name" : {
+			"en" : "Rashaverak",
+			"fr" : "Rashaverak"
+		},
+		"type" : "boss",
+		"hp" : 450,
+		"mp" : 0,
+		"attack" : 193,
+		"defense" : 150,
+		"speed" : 60,
+		"xp" : 1020,
+		"gold" : 300,
+		"items" : [
+			"Bouclier du dragon"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Autel sud-est du Havre céleste"
+				]
+			}
+		]
+	},
+	{
+		"id" : 205,
+		"imgFileName" : "205.png",
+		"name" : {
+			"en" : "Pruslas",
+			"fr" : "Pruslas"
+		},
+		"type" : "boss",
+		"hp" : 2300,
+		"mp" : 0,
+		"attack" : 230,
+		"defense" : 40,
+		"speed" : 5,
+		"xp" : 4100,
+		"gold" : 250,
+		"items" : [
+			"Massue de chêne"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Autel sud-ouest du Havre céleste"
+				]
+			}
+		]
+	},
+	{
+		"id" : 206,
+		"imgFileName" : "206.png",
+		"name" : {
+			"en" : "Barbatos",
+			"fr" : "Barbatos"
+		},
+		"type" : "boss",
+		"hp" : 3300,
+		"mp" : 0,
+		"attack" : 190,
+		"defense" : 180,
+		"speed" : 72,
+		"xp" : 5500,
+		"gold" : 0,
+		"items" : [
+			"Épée miraculeuse"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Autel nord-ouest du Havre céleste"
+				]
+			}
+		]
+	},
+	{
+		"id" : 207,
+		"imgFileName" : "207.png",
+		"name" : {
+			"en" : "Aamon",
+			"fr" : "Aamon"
+		},
+		"type" : "boss",
+		"hp" : 1600,
+		"mp" : 0,
+		"attack" : 165,
+		"defense" : 190,
+		"speed" : 99,
+		"xp" : 6300,
+		"gold" : 0,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Autel nord-est du Havre céleste"
+				]
+			}
+		]
+	},
+	{
+		"id" : 208,
+		"imgFileName" : "208.png",
+		"name" : {
+			"en" : "Estark",
+			"fr" : "Estark"
+		},
+		"type" : "boss",
+		"hp" : 2700,
+		"mp" : 0,
+		"attack" : 210,
+		"defense" : 140,
+		"speed" : 63,
+		"xp" : 15000,
+		"gold" : 0,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Autel nord-est du Havre céleste"
+				]
+			}
+		]
+	},
+	{
+		"id" : 209,
+		"imgFileName" : "209.png",
+		"name" : {
+			"en" : "Foo Yung",
+			"fr" : "Cent-ans"
+		},
+		"type" : "boss",
+		"hp" : 2800,
+		"mp" : 254,
+		"attack" : 240,
+		"defense" : 250,
+		"speed" : 95,
+		"xp" : 12000,
+		"gold" : 850,
+		"items" : [
+			"Graine de magie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 210,
+		"imgFileName" : "210.png",
+		"name" : {
+			"en" : "Chow Mein",
+			"fr" : "Cinq-épices"
+		},
+		"type" : "boss",
+		"hp" : 2800,
+		"mp" : 254,
+		"attack" : 240,
+		"defense" : 250,
+		"speed" : 95,
+		"xp" : 12000,
+		"gold" : 850,
+		"items" : [
+			"Graine de vie"
+		],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Donjon d'Azimuth"
+				]
+			}
+		]
+	},
+	{
+		"id" : 211,
+		"imgFileName" : "211.png",
+		"name" : {
+			"en" : "Psaro",
+			"fr" : "Psaro"
+		},
+		"type" : "boss",
+		"hp" : {
+			"phase1" : 2000,
+			"phase2" : 1600,
+			"phase3" : 1600,
+			"phase4" : 1800,
+			"phase5" : 1600,
+			"phase6" : 1700,
+			"phase7" : 2100
+		},
+		"mp" : {
+			"phase1" : 0,
+			"phase2" : 0,
+			"phase3" : 255,
+			"phase4" : 0,
+			"phase5" : 0,
+			"phase6" : 0,
+			"phase7" : 255
+			
+		},
+		"attack" : {
+			"phase1" : 250,
+			"phase2" : 340,
+			"phase3" : 230,
+			"phase4" : 210,
+			"phase5" : 260,
+			"phase6" : 290,
+			"phase7" : 320
+		},
+		"defense" : {
+			"phase1" : 250,
+			"phase2" : 220,
+			"phase3" : 200,
+			"phase4" : 200,
+			"phase5" : 220,
+			"phase6" : 230,
+			"phase7" : 230
+		},
+		"speed" : {
+			"phase1" : 70,
+			"phase2" : 110,
+			"phase3" : 90,
+			"phase4" : 90,
+			"phase5" : 85,
+			"phase6" : 80,
+			"phase7" : 80
+		},
+		"xp" : 0,
+		"gold" : 0,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [
+					"Pic de Psaro"
+				]
+			}
+		]
+	},
+	{
+		"id" : 212,
+		"imgFileName" : "212.png",
+		"name" : {
+			"en" : "Aamon",
+			"fr" : "Aamon"
+		},
+		"type" : "boss",
+		"hp" : {
+			"phase1" : 1800,
+			"phase2" : 2000,
+			"phase3" : 2000,
+			"phase4" : 3800
+		},
+		"mp" : {
+			"phase1" : 255,
+			"phase2" : 255,
+			"phase3" : 2000,
+			"phase4" : 254
+			
+		},
+		"attack" : {
+			"phase1" : 320,
+			"phase2" : 340,
+			"phase3" : 380,
+			"phase4" : 400
+		},
+		"defense" : {
+			"phase1" : 150,
+			"phase2" : 150,
+			"phase3" : 170,
+			"phase4" : 200
+		},
+		"speed" : {
+			"phase1" : 80,
+			"phase2" : 135,
+			"phase3" : 116,
+			"phase4" : 110
+		},
+		"xp" : 0,
+		"gold" : 0,
+		"items" : [],
+		"zone" : [
+			{
+				"chapter1" : [],
+				"chapter2" : [],
+				"chapter3" : [],
+				"chapter4" : [],
+				"chapter5" : [],
+				"chapter6" : [
+					"Palais du démon"
+				]
+			}
+		]
+	}
 ]
