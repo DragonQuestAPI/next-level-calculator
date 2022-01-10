@@ -1,6 +1,7 @@
 [
 	{
 		"id" : 1,
+		"imgFileName" : "hero.png",
 		"name" : {
 			"en" : "hero",
 			"es" : "héroe",
@@ -818,6 +819,7 @@
 	},
 	{
 		"id" : 2,
+		"imgFileName" : "ragnar.png",
 		"name" : {
 			"en" : "Ragnar McRyan",
 			"es" : "Ragnar McRyan",
@@ -1635,6 +1637,7 @@
 	},
 	{
 		"id": 3,
+		"imgFileName" : "alena.png",
 		"name" : {
 			"en": "Alena Zamoksva",
 			"es": "Alena Zamoksva",
@@ -2350,7 +2353,7 @@
 		},
 		"exp": {
 			"1": "0",
-			"2": " ",
+			"2": "16",
 			"3": " ",
 			"4": " ",
 			"5": "180",
@@ -2452,6 +2455,7 @@
 	},
 	{
 		"id": 4,
+		"imgFileName" : "kyril.png",
 		"name": {
 			"en": "Kyril",
 			"es": "Kyril",
@@ -3167,7 +3171,7 @@
 		},
 		"exp": {
 			"1": "0",
-			"2": " ",
+			"2": "18",
 			"3": " ",
 			"4": " ",
 			"5": "208",
@@ -3269,6 +3273,7 @@
 	},
 	{
 		"id": 5,
+		"imgFileName" : "borya.png",
 		"name": {
 			"en": "Borya",
 			"es": "Borya",
@@ -3984,7 +3989,7 @@
 		},
 		"exp": {
 			"1": "0",
-			"2": " ",
+			"2": "19",
 			"3": " ",
 			"4": " ",
 			"5": "213",
@@ -4086,6 +4091,7 @@
 	},
 	{
 		"id": 6,
+		"imgFileName" : "torneko.png",
 		"name": {
 			"en": "Torneko Taloon",
 			"es": "Torneko Taloon",
@@ -4903,6 +4909,7 @@
 	},
 	{
 		"id": 7,
+		"imgFileName" : "maya.png",
 		"name": {
 			"en": "Maya Mahabala",
 			"es": "Maya Mahabala",
@@ -5720,6 +5727,7 @@
 	},
 	{
 		"id": 8,
+		"imgFileName" : "meena.png",
 		"name": {
 			"en": "Meena Mahabala",
 			"es": "Meena Mahabala",
@@ -6537,6 +6545,7 @@
 	},
 	{
 		"id": 9,
+		"imgFileName" : "psaro.png",
 		"name": {
 			"en": "Psaro",
 			"es": "Psaro",
