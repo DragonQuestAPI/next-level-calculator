@@ -1,4 +1,4 @@
-# DQIV API
+# Dragon Quest IV API
 
 ## /!\ WORK IN PROGRESS /!\
 
