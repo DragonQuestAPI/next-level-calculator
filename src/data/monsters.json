@@ -1,10 +1,12 @@
 [
 	{
 		"id" : 1,
-		"imgFileName" : "1.png",
+		"imgPath" : "img/monsters/1.png",
 		"name" : {
 			"en" : "Slime",
-			"fr" : "Gluant"
+			"es" : "?Slime",
+			"fr" : "Gluant",
+			"jp" : "?Gluant"
 		},
 		"type" : "enemy",
 		"hp" : 8,
@@ -12,7 +14,7 @@
 		"attack" : 9,
 		"defense" : 5,
 		"speed" : 5,
-		"xp" : 1,
+		"exp" : 1,
 		"gold" : 2,
 		"items" : [
 			"Herbe médicinale"
@@ -39,10 +41,12 @@
 	},
 	{
 		"id" : 2,
-		"imgFileName" : "2.png",
+		"imgPath" : "img/monsters/2.png",
 		"name" : {
 			"en" : "Wiggly",
-			"fr" : "Londuleux"
+			"es" : "?Wiggly",
+			"fr" : "Londuleux",
+			"jp" : "?Londuleux"
 		},
 		"type" : "enemy",
 		"hp" : 11,
@@ -50,7 +54,7 @@
 		"attack" : 10,
 		"defense" : 6,
 		"speed" : 2,
-		"xp" : 3,
+		"exp" : 3,
 		"gold" : 6,
 		"items" : [
 			"Herbe médicinale"
@@ -81,10 +85,12 @@
 	},
 	{
 		"id" : 3,
-		"imgFileName" : "3.png",
+		"imgPath" : "img/monsters/3.png",
 		"name" : {
 			"en" : "Air rat",
-			"fr" : "Rat volant"
+			"es" : "?Air rat",
+			"fr" : "Rat volant",
+			"jp" : "?Rat volant"
 		},
 		"type" : "enemy",
 		"hp" : 14,
@@ -92,7 +98,7 @@
 		"attack" : 11,
 		"defense" : 2,
 		"speed" : 7,
-		"xp" : 3,
+		"exp" : 3,
 		"gold" : 7,
 		"items" : [
 			"Herbe médicinale"
@@ -117,10 +123,12 @@
 	},
 	{
 		"id" : 4,
-		"imgFileName" : "4.png",
+		"imgPath" : "img/monsters/4.png",
 		"name" : {
 			"en" : "Scissor beatle",
-			"fr" : "Scarapince"
+			"es" : "?Scissor beatle",
+			"fr" : "Scarapince",
+			"jp" : "?Scarapince"
 		},
 		"type" : "enemy",
 		"hp" : 9,
@@ -128,7 +136,7 @@
 		"attack" : 9,
 		"defense" : 5,
 		"speed" : 3,
-		"xp" : 1,
+		"exp" : 1,
 		"gold" : 4,
 		"items" : [
 			"Herbe médicinale"
@@ -153,10 +161,12 @@
 	},
 	{
 		"id" : 5,
-		"imgFileName" : "5.png",
+		"imgPath" : "img/monsters/5.png",
 		"name" : {
 			"en" : "Bubble Slime",
-			"fr" : "Gluanbulle"
+			"es" : "?Bubble Slime",
+			"fr" : "Gluanbulle",
+			"jp" : "?Gluanbulle"
 		},
 		"type" : "enemy",
 		"hp" : 12,
@@ -164,7 +174,7 @@
 		"attack" : 11,
 		"defense" : 9,
 		"speed" : 8,
-		"xp" : 6,
+		"exp" : 6,
 		"gold" : 8,
 		"items" : [
 			"Herbe curative"
@@ -189,10 +199,12 @@
 	},
 	{
 		"id" : 6,
-		"imgFileName" : "6.png",
+		"imgPath" : "img/monsters/6.png",
 		"name" : {
 			"en" : "Mischievous mole",
-			"fr" : "Pataupe"
+			"es" : "?Mischievous mole",
+			"fr" : "Pataupe",
+			"jp" : "?Pataupe"
 		},
 		"type" : "enemy",
 		"hp" : 10,
@@ -200,7 +212,7 @@
 		"attack" : 10,
 		"defense" : 6,
 		"speed" : 5,
-		"xp" : 2,
+		"exp" : 2,
 		"gold" : 4,
 		"items" : [
 			"Herbe médicinale"
@@ -223,10 +235,12 @@
 	},
 	{
 		"id" : 7,
-		"imgFileName" : "7.png",
+		"imgPath" : "img/monsters/7.png",
 		"name" : {
 			"en" : "Stump chump",
-			"fr" : "Souche louche"
+			"es" : "?Stump chump",
+			"fr" : "Souche louche",
+			"jp" : "?Souche louche"
 		},
 		"type" : "enemy",
 		"hp" : 21,
@@ -234,7 +248,7 @@
 		"attack" : 18,
 		"defense" : 8,
 		"speed" : 1,
-		"xp" : 7,
+		"exp" : 7,
 		"gold" : 13,
 		"items" : [
 			"Herbe médicinale"
@@ -260,10 +274,12 @@
 	},
 	{
 		"id" : 8,
-		"imgFileName" : "8.png",
+		"imgPath" : "img/monsters/8.png",
 		"name" : {
 			"en" : "Healslime",
-			"fr" : "Médigluant"
+			"es" : "?Healslime",
+			"fr" : "Médigluant",
+			"jp" : "?Médigluant"
 		},
 		"type" : "enemy",
 		"hp" : 16,
@@ -271,7 +287,7 @@
 		"attack" : 13,
 		"defense" : 8,
 		"speed" : 12,
-		"xp" : 7,
+		"exp" : 7,
 		"gold" : 11,
 		"items" : [
 			"Herbe médicinale"
@@ -300,10 +316,12 @@
 	},
 	{
 		"id" : 9,
-		"imgFileName" : "9.png",
+		"imgPath" : "img/monsters/9.png",
 		"name" : {
 			"en" : "Mad mole",
-			"fr" : "Taupelle"
+			"es" : "?Mad mole",
+			"fr" : "Taupelle",
+			"jp" : "?Taupelle"
 		},
 		"type" : "enemy",
 		"hp" : 16,
@@ -311,7 +329,7 @@
 		"attack" : 19,
 		"defense" : 15,
 		"speed" : 10,
-		"xp" : 9,
+		"exp" : 9,
 		"gold" : 10,
 		"items" : [
 			"Graine de force"
@@ -336,10 +354,12 @@
 	},
 	{
 		"id" : 10,
-		"imgFileName" : "10.png",
+		"imgPath" : "img/monsters/10.png",
 		"name" : {
 			"en" : "Winkster",
-			"fr" : "Fée tide"
+			"es" : "?Winkster",
+			"fr" : "Fée tide",
+			"jp" : "?Fée tide"
 		},
 		"type" : "enemy",
 		"hp" : 17,
@@ -347,7 +367,7 @@
 		"attack" : 16,
 		"defense" : 10,
 		"speed" : 7,
-		"xp" : 11,
+		"exp" : 11,
 		"gold" : 13,
 		"items" : [
 			"Bâton de cyprès"
@@ -373,10 +393,12 @@
 	},
 	{
 		"id" : 11,
-		"imgFileName" : "11.png",
+		"imgPath" : "img/monsters/11.png",
 		"name" : {
 			"en" : "Bodkin archer",
-			"fr" : "Archer vert"
+			"es" : "?Bodkin archer",
+			"fr" : "Archer vert",
+			"jp" : "?Archer vert"
 		},
 		"type" : "enemy",
 		"hp" : 21,
@@ -384,7 +406,7 @@
 		"attack" : 26,
 		"defense" : 20,
 		"speed" : 20,
-		"xp" : 13,
+		"exp" : 13,
 		"gold" : 15,
 		"items" : [
 			"Vêtement simple"
@@ -407,10 +429,12 @@
 	},
 	{
 		"id" : 12,
-		"imgFileName" : "12.png",
+		"imgPath" : "img/monsters/12.png",
 		"name" : {
 			"en" : "Splatypunk",
-			"fr" : "Ornitro"
+			"es" : "?Splatypunk",
+			"fr" : "Ornitro",
+			"jp" : "?Ornitro"
 		},
 		"type" : "enemy",
 		"hp" : 22,
@@ -418,7 +442,7 @@
 		"attack" : 25,
 		"defense" : 18,
 		"speed" : 12,
-		"xp" : 14,
+		"exp" : 14,
 		"gold" : 10,
 		"items" : [
 			"Bouclier de cuir"
@@ -442,10 +466,12 @@
 	},
 	{
 		"id" : 13,
-		"imgFileName" : "13.png",
+		"imgPath" : "img/monsters/13.png",
 		"name" : {
 			"en" : "Blinkster",
-			"fr" : "Fée brile"
+			"es" : "?Blinkster",
+			"fr" : "Fée brile",
+			"jp" : "?Fée brile"
 		},
 		"type" : "enemy",
 		"hp" : 33,
@@ -453,7 +479,7 @@
 		"attack" : 17,
 		"defense" : 24,
 		"speed" : 14,
-		"xp" : 18,
+		"exp" : 18,
 		"gold" : 20,
 		"items" : [
 			"Herbe médicinale"
@@ -474,10 +500,12 @@
 	},
 	{
 		"id" : 14,
-		"imgFileName" : "14.png",
+		"imgPath" : "img/monsters/14.png",
 		"name" : {
 			"en" : "Picksy",
-			"fr" : "Chérubus"
+			"es" : "?Picksy",
+			"fr" : "Chérubus",
+			"jp" : "?Chérubus"
 		},
 		"type" : "enemy",
 		"hp" : 29,
@@ -485,7 +513,7 @@
 		"attack" : 26,
 		"defense" : 22,
 		"speed" : 15,
-		"xp" : 16,
+		"exp" : 16,
 		"gold" : 20,
 		"items" : [
 			"Graine d'agilité"
@@ -506,10 +534,12 @@
 	},
 	{
 		"id" : 15,
-		"imgFileName" : "15.png",
+		"imgPath" : "img/monsters/15.png",
 		"name" : {
 			"en" : "Bantamweight",
-			"fr" : "Poids-coq"
+			"es" : "?Bantamweight",
+			"fr" : "Poids-coq",
+			"jp" : "?Poids-coq"
 		},
 		"type" : "enemy",
 		"hp" : 31,
@@ -517,7 +547,7 @@
 		"attack" : 28,
 		"defense" : 22,
 		"speed" : 18,
-		"xp" : 20,
+		"exp" : 20,
 		"gold" : 9,
 		"items" : [
 			"Herbe médicinale"
@@ -541,10 +571,12 @@
 	},
 	{
 		"id" : 16,
-		"imgFileName" : "16.png",
+		"imgPath" : "img/monsters/16.png",
 		"name" : {
 			"en" : "Winky",
-			"fr" : "Clindœil"
+			"es" : "?Winky",
+			"fr" : "Clindœil",
+			"jp" : "?Clindœil"
 		},
 		"type" : "enemy",
 		"hp" : 42,
@@ -552,7 +584,7 @@
 		"attack" : 29,
 		"defense" : 32,
 		"speed" : 20,
-		"xp" : 27,
+		"exp" : 27,
 		"gold" : 40,
 		"items" : [
 			"Herbe médicinale"
@@ -573,10 +605,12 @@
 	},
 	{
 		"id" : 17,
-		"imgFileName" : "17.png",
+		"imgPath" : "img/monsters/17.png",
 		"name" : {
 			"en" : "Walking stick",
-			"fr" : "Fourmiasme"
+			"es" : "?Walking stick",
+			"fr" : "Fourmiasme",
+			"jp" : "?Fourmiasme"
 		},
 		"type" : "enemy",
 		"hp" : 8,
@@ -584,7 +618,7 @@
 		"attack" : 8,
 		"defense" : 5,
 		"speed" : 8,
-		"xp" : 1,
+		"exp" : 1,
 		"gold" : 2,
 		"items" : [
 			"Herbe médicinale"
@@ -607,10 +641,12 @@
 	},
 	{
 		"id" : 18,
-		"imgFileName" : "18.png",
+		"imgPath" : "img/monsters/18.png",
 		"name" : {
 			"en" : "She-slime",
-			"fr" : "Gluante"
+			"es" : "?She-slime",
+			"fr" : "Gluante",
+			"jp" : "?Gluante"
 		},
 		"type" : "enemy",
 		"hp" : 10,
@@ -618,7 +654,7 @@
 		"attack" : 9,
 		"defense" : 5,
 		"speed" : 3,
-		"xp" : 2,
+		"exp" : 2,
 		"gold" : 5,
 		"items" : [
 			"Herbe médicinale"
@@ -640,10 +676,12 @@
 	},
 	{
 		"id" : 19,
-		"imgFileName" : "19.png",
+		"imgPath" : "img/monsters/19.png",
 		"name" : {
 			"en" : "Lickspittle",
-			"fr" : "Glair de lune"
+			"es" : "?Lickspittle",
+			"fr" : "Glair de lune",
+			"jp" : "?Glair de lune"
 		},
 		"type" : "enemy",
 		"hp" : 13,
@@ -651,7 +689,7 @@
 		"attack" : 13,
 		"defense" : 8,
 		"speed" : 5,
-		"xp" : 4,
+		"exp" : 4,
 		"gold" : 10,
 		"items" : [
 			"Herbe médicinale"
@@ -678,10 +716,12 @@
 	},
 	{
 		"id" : 20,
-		"imgFileName" : "20.png",
+		"imgPath" : "img/monsters/20.png",
 		"name" : {
 			"en" : "Mouseflap",
-			"fr" : "Chauve-sourat"
+			"es" : "?Mouseflap",
+			"fr" : "Chauve-sourat",
+			"jp" : "?Chauve-sourat"
 		},
 		"type" : "enemy",
 		"hp" : 11,
@@ -689,7 +729,7 @@
 		"attack" : 11,
 		"defense" : 6,
 		"speed" : 9,
-		"xp" : 3,
+		"exp" : 3,
 		"gold" : 5,
 		"items" : [
 			"Casque de cuir"
@@ -711,10 +751,12 @@
 	},
 	{
 		"id" : 21,
-		"imgFileName" : "21.png",
+		"imgPath" : "img/monsters/21.png",
 		"name" : {
 			"en" : "Foo dog",
-			"fr" : "Chienfernal"
+			"es" : "?Foo dog",
+			"fr" : "Chienfernal",
+			"jp" : "?Chienfernal"
 		},
 		"type" : "enemy",
 		"hp" : 23,
@@ -722,7 +764,7 @@
 		"attack" : 19,
 		"defense" : 18,
 		"speed" : 7,
-		"xp" : 7,
+		"exp" : 7,
 		"gold" : 20,
 		"items" : [
 			"Aile de chimère"
@@ -750,10 +792,12 @@
 	},
 	{
 		"id" : 22,
-		"imgFileName" : "22.png",
+		"imgPath" : "img/monsters/22.png",
 		"name" : {
 			"en" : "Bagworm",
-			"fr" : "Sacaver"
+			"es" : "?Bagworm",
+			"fr" : "Sacaver",
+			"jp" : "?Sacaver"
 		},
 		"type" : "enemy",
 		"hp" : 16,
@@ -761,7 +805,7 @@
 		"attack" : 8,
 		"defense" : 22,
 		"speed" : 8,
-		"xp" : 5,
+		"exp" : 5,
 		"gold" : 18,
 		"items" : [
 			"Aile de chimère"
@@ -782,10 +826,12 @@
 	},
 	{
 		"id" : 23,
-		"imgFileName" : "23.png",
+		"imgPath" : "img/monsters/23.png",
 		"name" : {
 			"en" : "Funghoul",
-			"fr" : "Champigoule"
+			"es" : "?Funghoul",
+			"fr" : "Champigoule",
+			"jp" : "?Champigoule"
 		},
 		"type" : "enemy",
 		"hp" : 19,
@@ -793,7 +839,7 @@
 		"attack" : 19,
 		"defense" : 15,
 		"speed" : 10,
-		"xp" : 6,
+		"exp" : 6,
 		"gold" : 15,
 		"items" : [
 			"Herbe médicinale"
@@ -815,10 +861,12 @@
 	},
 	{
 		"id" : 24,
-		"imgFileName" : "24.png",
+		"imgPath" : "img/monsters/24.png",
 		"name" : {
 			"en" : "Bullfinch",
-			"fr" : "Taurapace"
+			"es" : "?Bullfinch",
+			"fr" : "Taurapace",
+			"jp" : "?Taurapace"
 		},
 		"type" : "enemy",
 		"hp" : 20,
@@ -826,7 +874,7 @@
 		"attack" : 22,
 		"defense" : 12,
 		"speed" : 10,
-		"xp" : 7,
+		"exp" : 7,
 		"gold" : 17,
 		"items" : [
 			"Graine de force"
@@ -849,10 +897,12 @@
 	},
 	{
 		"id" : 25,
-		"imgFileName" : "25.png",
+		"imgPath" : "img/monsters/25.png",
 		"name" : {
 			"en" : "Carnivine",
-			"fr" : "Morchidée"
+			"es" : "?Carnivine",
+			"fr" : "Morchidée",
+			"jp" : "?Morchidée"
 		},
 		"type" : "enemy",
 		"hp" : 17,
@@ -860,7 +910,7 @@
 		"attack" : 21,
 		"defense" : 16,
 		"speed" : 4,
-		"xp" : 7,
+		"exp" : 7,
 		"gold" : 18,
 		"items" : [
 			"Herbe médicinale"
@@ -884,10 +934,12 @@
 	},
 	{
 		"id" : 26,
-		"imgFileName" : "26.png",
+		"imgPath" : "img/monsters/26.png",
 		"name" : {
 			"en" : "Firespirit",
-			"fr" : "Feu follet"
+			"es" : "?Firespirit",
+			"fr" : "Feu follet",
+			"jp" : "?Feu follet"
 		},
 		"type" : "enemy",
 		"hp" : 12,
@@ -895,7 +947,7 @@
 		"attack" : 11,
 		"defense" : 12,
 		"speed" : 8,
-		"xp" : 6,
+		"exp" : 6,
 		"gold" : 18,
 		"items" : [
 			"Fiole d'eau sacrée"
@@ -922,10 +974,12 @@
 	},
 	{
 		"id" : 27,
-		"imgFileName" : "27.png",
+		"imgPath" : "img/monsters/27.png",
 		"name" : {
 			"en" : "Thorny devil",
-			"fr" : "Démon piquant"
+			"es" : "?Thorny devil",
+			"fr" : "Démon piquant",
+			"jp" : "?Démon piquant"
 		},
 		"type" : "enemy",
 		"hp" : 25,
@@ -933,7 +987,7 @@
 		"attack" : 21,
 		"defense" : 20,
 		"speed" : 15,
-		"xp" : 15,
+		"exp" : 15,
 		"gold" : 25,
 		"items" : [
 			"Bouclier de cuir"
@@ -955,10 +1009,12 @@
 	},
 	{
 		"id" : 28,
-		"imgFileName" : "28.png",
+		"imgPath" : "img/monsters/28.png",
 		"name" : {
 			"en" : "Lugworm",
-			"fr" : "Tortilleux"
+			"es" : "?Lugworm",
+			"fr" : "Tortilleux",
+			"jp" : "?Tortilleux"
 		},
 		"type" : "enemy",
 		"hp" : 30,
@@ -966,7 +1022,7 @@
 		"attack" : 30,
 		"defense" : 3,
 		"speed" : 24,
-		"xp" : 22,
+		"exp" : 22,
 		"gold" : 27,
 		"items" : [
 			"Vêtement simple"
@@ -989,10 +1045,12 @@
 	},
 	{
 		"id" : 29,
-		"imgFileName" : "29.png",
+		"imgPath" : "img/monsters/29.png",
 		"name" : {
 			"en" : "Bedbug",
-			"fr" : "Scarasomniaque"
+			"es" : "?Bedbug",
+			"fr" : "Scarasomniaque",
+			"jp" : "?Scarasomniaque"
 		},
 		"type" : "enemy",
 		"hp" : 23,
@@ -1000,7 +1058,7 @@
 		"attack" : 22,
 		"defense" : 18,
 		"speed" : 10,
-		"xp" : 12,
+		"exp" : 12,
 		"gold" : 15,
 		"items" : [
 			"Fiole d'eau magique"
@@ -1024,10 +1082,12 @@
 	},
 	{
 		"id" : 30,
-		"imgFileName" : "30.png",
+		"imgPath" : "img/monsters/30.png",
 		"name" : {
 			"en" : "Komodo",
-			"fr" : "Komodor"
+			"es" : "?Komodo",
+			"fr" : "Komodor",
+			"jp" : "?Komodor"
 		},
 		"type" : "enemy",
 		"hp" : 32,
@@ -1035,7 +1095,7 @@
 		"attack" : 30,
 		"defense" : 33,
 		"speed" : 25,
-		"xp" : 25,
+		"exp" : 25,
 		"gold" : 39,
 		"items" : [
 			"Lance sacrée"
@@ -1055,10 +1115,12 @@
 	},
 	{
 		"id" : 31,
-		"imgFileName" : "31.png",
+		"imgPath" : "img/monsters/31.png",
 		"name" : {
 			"en" : "Pickayune",
-			"fr" : "Démonius"
+			"es" : "?Pickayune",
+			"fr" : "Démonius",
+			"jp" : "?Démonius"
 		},
 		"type" : "enemy",
 		"hp" : 25,
@@ -1066,7 +1128,7 @@
 		"attack" : 26,
 		"defense" : 24,
 		"speed" : 21,
-		"xp" : 18,
+		"exp" : 18,
 		"gold" : 36,
 		"items" : [
 			"Fiole d'eau sacrée"
@@ -1089,10 +1151,12 @@
 	},
 	{
 		"id" : 32,
-		"imgFileName" : "32.png",
+		"imgPath" : "img/monsters/32.png",
 		"name" : {
 			"en" : "Crested viper",
-			"fr" : "Vipère à crête"
+			"es" : "?Crested viper",
+			"fr" : "Vipère à crête",
+			"jp" : "?Vipère à crête"
 		},
 		"type" : "enemy",
 		"hp" : 31,
@@ -1100,7 +1164,7 @@
 		"attack" : 31,
 		"defense" : 28,
 		"speed" : 18,
-		"xp" : 18,
+		"exp" : 18,
 		"gold" : 25,
 		"items" : [
 			"Chapeau à plumes"
@@ -1123,10 +1187,12 @@
 	},
 	{
 		"id" : 33,
-		"imgFileName" : "33.png",
+		"imgPath" : "img/monsters/33.png",
 		"name" : {
 			"en" : "Armoured scorpion",
-			"fr" : "Scorpion blindé"
+			"es" : "?Armoured scorpion",
+			"fr" : "Scorpion blindé",
+			"jp" : "?Scorpion blindé"
 		},
 		"type" : "enemy",
 		"hp" : 40,
@@ -1134,7 +1200,7 @@
 		"attack" : 33,
 		"defense" : 42,
 		"speed" : 9,
-		"xp" : 38,
+		"exp" : 38,
 		"gold" : 44,
 		"items" : [
 			"Armure de cuir"
@@ -1156,10 +1222,12 @@
 	},
 	{
 		"id" : 34,
-		"imgFileName" : "34.png",
+		"imgPath" : "img/monsters/34.png",
 		"name" : {
 			"en" : "Vampire bat",
-			"fr" : "Vampierre"
+			"es" : "?Vampire bat",
+			"fr" : "Vampierre",
+			"jp" : "?Vampierre"
 		},
 		"type" : "enemy",
 		"hp" : 25,
@@ -1167,7 +1235,7 @@
 		"attack" : 25,
 		"defense" : 22,
 		"speed" : 14,
-		"xp" : 11,
+		"exp" : 11,
 		"gold" : 23,
 		"items" : [
 			"Graine d'agilité"
@@ -1191,10 +1259,12 @@
 	},
 	{
 		"id" : 35,
-		"imgFileName" : "35.png",
+		"imgPath" : "img/monsters/35.png",
 		"name" : {
 			"en" : "Cyclown",
-			"fr" : "Cyclown"
+			"es" : "?Cyclown",
+			"fr" : "Cyclown",
+			"jp" : "?Cyclown"
 		},
 		"type" : "enemy",
 		"hp" : 41,
@@ -1202,7 +1272,7 @@
 		"attack" : 29,
 		"defense" : 31,
 		"speed" : 40,
-		"xp" : 32,
+		"exp" : 32,
 		"gold" : 34,
 		"items" : [
 			"Arc de chasseur"
@@ -1225,10 +1295,12 @@
 	},
 	{
 		"id" : 36,
-		"imgFileName" : "36.png",
+		"imgPath" : "img/monsters/36.png",
 		"name" : {
 			"en" : "Killer gila",
-			"fr" : "Batratueur"
+			"es" : "?Killer gila",
+			"fr" : "Batratueur",
+			"jp" : "?Batratueur"
 		},
 		"type" : "enemy",
 		"hp" : 34,
@@ -1236,7 +1308,7 @@
 		"attack" : 32,
 		"defense" : 32,
 		"speed" : 15,
-		"xp" : 18,
+		"exp" : 18,
 		"gold" : 21,
 		"items" : [
 			"Herbe curative"
@@ -1259,10 +1331,12 @@
 	},
 	{
 		"id" : 37,
-		"imgFileName" : "37.png",
+		"imgPath" : "img/monsters/37.png",
 		"name" : {
 			"en" : "Flyguy",
-			"fr" : "Mouchomme"
+			"es" : "?Flyguy",
+			"fr" : "Mouchomme",
+			"jp" : "?Mouchomme"
 		},
 		"type" : "enemy",
 		"hp" : 34,
@@ -1270,7 +1344,7 @@
 		"attack" : 31,
 		"defense" : 34,
 		"speed" : 17,
-		"xp" : 35,
+		"exp" : 35,
 		"gold" : 47,
 		"items" : [
 			"Fiole d'eau magique"
@@ -1294,10 +1368,12 @@
 	},
 	{
 		"id" : 38,
-		"imgFileName" : "38.png",
+		"imgPath" : "img/monsters/38.png",
 		"name" : {
 			"en" : "Erazor blade",
-			"fr" : "Cimetueur"
+			"es" : "?Erazor blade",
+			"fr" : "Cimetueur",
+			"jp" : "?Cimetueur"
 		},
 		"type" : "enemy",
 		"hp" : 29,
@@ -1305,7 +1381,7 @@
 		"attack" : 35,
 		"defense" : 30,
 		"speed" : 17,
-		"xp" : 30,
+		"exp" : 30,
 		"gold" : 46,
 		"items" : [
 			"Épée de cuivre"
@@ -1326,10 +1402,12 @@
 	},
 	{
 		"id" : 39,
-		"imgFileName" : "39.png",
+		"imgPath" : "img/monsters/39.png",
 		"name" : {
 			"en" : "Pteranodon",
-			"fr" : "Ptéranodon"
+			"es" : "?Pteranodon",
+			"fr" : "Ptéranodon",
+			"jp" : "?Ptéranodon"
 		},
 		"type" : "enemy",
 		"hp" : 41,
@@ -1337,7 +1415,7 @@
 		"attack" : 28,
 		"defense" : 24,
 		"speed" : 19,
-		"xp" : 36,
+		"exp" : 36,
 		"gold" : 50,
 		"items" : [
 			"Graine d'agilité"
@@ -1362,10 +1440,12 @@
 	},
 	{
 		"id" : 40,
-		"imgFileName" : "40.png",
+		"imgPath" : "img/monsters/40.png",
 		"name" : {
 			"en" : "Flying doctor",
-			"fr" : "Dragonlule"
+			"es" : "?Flying doctor",
+			"fr" : "Dragonlule",
+			"jp" : "?Dragonlule"
 		},
 		"type" : "enemy",
 		"hp" : 47,
@@ -1373,7 +1453,7 @@
 		"attack" : 36,
 		"defense" : 20,
 		"speed" : 25,
-		"xp" : 38,
+		"exp" : 38,
 		"gold" : 60,
 		"items" : [
 			"Aile de chimère"
@@ -1394,10 +1474,12 @@
 	},
 	{
 		"id" : 41,
-		"imgFileName" : "41.png",
+		"imgPath" : "img/monsters/41.png",
 		"name" : {
 			"en" : "Peeper",
-			"fr" : "Matœil"
+			"es" : "?Peeper",
+			"fr" : "Matœil",
+			"jp" : "?Matœil"
 		},
 		"type" : "enemy",
 		"hp" : 35,
@@ -1405,7 +1487,7 @@
 		"attack" : 30,
 		"defense" : 30,
 		"speed" : 21,
-		"xp" : 31,
+		"exp" : 31,
 		"gold" : 62,
 		"items" : [
 			"Casque de cuir"
@@ -1426,10 +1508,12 @@
 	},
 	{
 		"id" : 42,
-		"imgFileName" : "42.png",
+		"imgPath" : "img/monsters/42.png",
 		"name" : {
 			"en" : "Skeleton swordsman",
-			"fr" : "Squelépéiste"
+			"es" : "?Skeleton swordsman",
+			"fr" : "Squelépéiste",
+			"jp" : "?Squelépéiste"
 		},
 		"type" : "enemy",
 		"hp" : 52,
@@ -1437,7 +1521,7 @@
 		"attack" : 49,
 		"defense" : 45,
 		"speed" : 27,
-		"xp" : 53,
+		"exp" : 53,
 		"gold" : 54,
 		"items" : [
 			"Griffe de fer"
@@ -1460,10 +1544,12 @@
 	},
 	{
 		"id" : 43,
-		"imgFileName" : "43.png",
+		"imgPath" : "img/monsters/43.png",
 		"name" : {
 			"en" : "Restless armour",
-			"fr" : "Armure errante"
+			"es" : "?Restless armour",
+			"fr" : "Armure errante",
+			"jp" : "?Armure errante"
 		},
 		"type" : "enemy",
 		"hp" : 54,
@@ -1471,7 +1557,7 @@
 		"attack" : 45,
 		"defense" : 43,
 		"speed" : 25,
-		"xp" : 55,
+		"exp" : 55,
 		"gold" : 49,
 		"items" : [
 			"Cottes de mailles"
@@ -1494,10 +1580,12 @@
 	},
 	{
 		"id" : 44,
-		"imgFileName" : "44.png",
+		"imgPath" : "img/monsters/44.png",
 		"name" : {
 			"en" : "Metal slime",
-			"fr" : "Gluant de métal"
+			"es" : "?Metal slime",
+			"fr" : "Gluant de métal",
+			"jp" : "?Gluant de métal"
 		},
 		"type" : "enemy",
 		"hp" : 4,
@@ -1505,7 +1593,7 @@
 		"attack" : 20,
 		"defense" : 1023,
 		"speed" : 50,
-		"xp" : 1350,
+		"exp" : 1350,
 		"gold" : 5,
 		"items" : [
 			"Tiare d'or"
@@ -1530,10 +1618,12 @@
 	},
 	{
 		"id" : 45,
-		"imgFileName" : "45.png",
+		"imgPath" : "img/monsters/45.png",
 		"name" : {
 			"en" : "Elepus",
-			"fr" : "Elépieuvre"
+			"es" : "?Elepus",
+			"fr" : "Elépieuvre",
+			"jp" : "?Elépieuvre"
 		},
 		"type" : "enemy",
 		"hp" : 28,
@@ -1541,7 +1631,7 @@
 		"attack" : 22,
 		"defense" : 16,
 		"speed" : 10,
-		"xp" : 14,
+		"exp" : 14,
 		"gold" : 18,
 		"items" : [
 			"Costume de danseuse"
@@ -1562,10 +1652,12 @@
 	},
 	{
 		"id" : 46,
-		"imgFileName" : "46.png",
+		"imgPath" : "img/monsters/46.png",
 		"name" : {
 			"en" : "Platypunk",
-			"fr" : "Ornithox"
+			"es" : "?Platypunk",
+			"fr" : "Ornithox",
+			"jp" : "?Ornithox"
 		},
 		"type" : "enemy",
 		"hp" : 10,
@@ -1573,7 +1665,7 @@
 		"attack" : 10,
 		"defense" : 6,
 		"speed" : 5,
-		"xp" : 3,
+		"exp" : 3,
 		"gold" : 8,
 		"items" : [
 			"Herbe médicinale"
@@ -1598,10 +1690,12 @@
 	},
 	{
 		"id" : 47,
-		"imgFileName" : "47.png",
+		"imgPath" : "img/monsters/47.png",
 		"name" : {
 			"en" : "Horny devil",
-			"fr" : "Démon cornu"
+			"es" : "?Horny devil",
+			"fr" : "Démon cornu",
+			"jp" : "?Démon cornu"
 		},
 		"type" : "enemy",
 		"hp" : 14,
@@ -1609,7 +1703,7 @@
 		"attack" : 13,
 		"defense" : 13,
 		"speed" : 7,
-		"xp" : 7,
+		"exp" : 7,
 		"gold" : 11,
 		"items" : [
 			"Herbe curative"
@@ -1629,10 +1723,12 @@
 	},
 	{
 		"id" : 47,
-		"imgFileName" : "47.png",
+		"imgPath" : "img/monsters/47.png",
 		"name" : {
 			"en" : "Horny devil",
-			"fr" : "Démon cornu"
+			"es" : "?Horny devil",
+			"fr" : "Démon cornu",
+			"jp" : "?Démon cornu"
 		},
 		"type" : "enemy",
 		"hp" : 14,
@@ -1640,7 +1736,7 @@
 		"attack" : 13,
 		"defense" : 13,
 		"speed" : 7,
-		"xp" : 7,
+		"exp" : 7,
 		"gold" : 11,
 		"items" : [
 			"Herbe curative"
@@ -1660,10 +1756,12 @@
 	},
 	{
 		"id" : 48,
-		"imgFileName" : "48.png",
+		"imgPath" : "img/monsters/48.png",
 		"name" : {
 			"en" : "Dirty dogu",
-			"fr" : "Gris-gris"
+			"es" : "?Dirty dogu",
+			"fr" : "Gris-gris",
+			"jp" : "?Gris-gris"
 		},
 		"type" : "enemy",
 		"hp" : 15,
@@ -1671,7 +1769,7 @@
 		"attack" : 17,
 		"defense" : 15,
 		"speed" : 5,
-		"xp" : 12,
+		"exp" : 12,
 		"gold" : 17,
 		"items" : [
 			"Fiole d'eau magique"
@@ -1691,10 +1789,12 @@
 	},
 	{
 		"id" : 49,
-		"imgFileName" : "49.png",
+		"imgPath" : "img/monsters/49.png",
 		"name" : {
 			"en" : "Wimp",
-			"fr" : "Diablutin"
+			"es" : "?Wimp",
+			"fr" : "Diablutin",
+			"jp" : "?Diablutin"
 		},
 		"type" : "enemy",
 		"hp" : 20,
@@ -1702,7 +1802,7 @@
 		"attack" : 20,
 		"defense" : 17,
 		"speed" : 12,
-		"xp" : 15,
+		"exp" : 15,
 		"gold" : 28,
 		"items" : [
 			"Casque de bois"
@@ -1724,10 +1824,12 @@
 	},
 	{
 		"id" : 50,
-		"imgFileName" : "50.png",
+		"imgPath" : "img/monsters/50.png",
 		"name" : {
 			"en" : "Crack-billed platypunk",
-			"fr" : "Ornicryo"
+			"es" : "?Crack-billed platypunk",
+			"fr" : "Ornicryo",
+			"jp" : "?Ornicryo"
 		},
 		"type" : "enemy",
 		"hp" : 25,
@@ -1735,7 +1837,7 @@
 		"attack" : 30,
 		"defense" : 30,
 		"speed" : 17,
-		"xp" : 18,
+		"exp" : 18,
 		"gold" : 30,
 		"items" : [
 			"Casque de cuir"
@@ -1757,10 +1859,12 @@
 	},
 	{
 		"id" : 51,
-		"imgFileName" : "51.png",
+		"imgPath" : "img/monsters/51.png",
 		"name" : {
 			"en" : "Fire beatle",
-			"fr" : "Pyroblatte"
+			"es" : "?Fire beatle",
+			"fr" : "Pyroblatte",
+			"jp" : "?Pyroblatte"
 		},
 		"type" : "enemy",
 		"hp" : 20,
@@ -1768,7 +1872,7 @@
 		"attack" : 27,
 		"defense" : 29,
 		"speed" : 10,
-		"xp" : 16,
+		"exp" : 16,
 		"gold" : 21,
 		"items" : [
 			"Massue de chêne"
@@ -1788,10 +1892,12 @@
 	},
 	{
 		"id" : 52,
-		"imgFileName" : "52.png",
+		"imgPath" : "img/monsters/52.png",
 		"name" : {
 			"en" : "Slimification",
-			"fr" : "Gluantification"
+			"es" : "?Slimification",
+			"fr" : "Gluantification",
+			"jp" : "?Gluantification"
 		},
 		"type" : "enemy",
 		"hp" : 40,
@@ -1799,7 +1905,7 @@
 		"attack" : 0,
 		"defense" : 30,
 		"speed" : 15,
-		"xp" : 3,
+		"exp" : 3,
 		"gold" : 1,
 		"items" : [
 			"Herbe médicinale"
@@ -1822,10 +1928,12 @@
 	},
 	{
 		"id" : 53,
-		"imgFileName" : "53.png",
+		"imgPath" : "img/monsters/53.png",
 		"name" : {
 			"en" : "King slime",
-			"fr" : "Roi gluant"
+			"es" : "?King slime",
+			"fr" : "Roi gluant",
+			"jp" : "?Roi gluant"
 		},
 		"type" : "enemy",
 		"hp" : 150,
@@ -1833,7 +1941,7 @@
 		"attack" : 40,
 		"defense" : 24,
 		"speed" : 17,
-		"xp" : 100,
+		"exp" : 100,
 		"gold" : 150,
 		"items" : [
 			"Graine de magie"
@@ -1856,10 +1964,12 @@
 	},
 	{
 		"id" : 54,
-		"imgFileName" : "54.png",
+		"imgPath" : "img/monsters/54.png",
 		"name" : {
 			"en" : "Ratatattack",
-			"fr" : "Ratatattaque"
+			"es" : "?Ratatattack",
+			"fr" : "Ratatattaque",
+			"jp" : "?Ratatattaque"
 		},
 		"type" : "enemy",
 		"hp" : 35,
@@ -1867,7 +1977,7 @@
 		"attack" : 38,
 		"defense" : 28,
 		"speed" : 30,
-		"xp" : 43,
+		"exp" : 43,
 		"gold" : 18,
 		"items" : [
 			"Herbe médicinale"
@@ -1889,10 +1999,12 @@
 	},
 	{
 		"id" : 55,
-		"imgFileName" : "55.png",
+		"imgPath" : "img/monsters/55.png",
 		"name" : {
 			"en" : "Frolicker",
-			"fr" : "Salivard"
+			"es" : "?Frolicker",
+			"fr" : "Salivard",
+			"jp" : "?Salivard"
 		},
 		"type" : "enemy",
 		"hp" : 43,
@@ -1900,7 +2012,7 @@
 		"attack" : 32,
 		"defense" : 30,
 		"speed" : 15,
-		"xp" : 28,
+		"exp" : 28,
 		"gold" : 61,
 		"items" : [
 			"Bâton de cyprès"
@@ -1925,10 +2037,12 @@
 	},
 	{
 		"id" : 56,
-		"imgFileName" : "56.png",
+		"imgPath" : "img/monsters/56.png",
 		"name" : {
 			"en" : "Stump grump",
-			"fr" : "Cyclotronc"
+			"es" : "?Stump grump",
+			"fr" : "Cyclotronc",
+			"jp" : "?Cyclotronc"
 		},
 		"type" : "enemy",
 		"hp" : 28,
@@ -1936,7 +2050,7 @@
 		"attack" : 28,
 		"defense" : 38,
 		"speed" : 18,
-		"xp" : 25,
+		"exp" : 25,
 		"gold" : 30,
 		"items" : [
 			"Casque de bois"
@@ -1955,10 +2069,12 @@
 	},
 	{
 		"id" : 57,
-		"imgFileName" : "57.png",
+		"imgPath" : "img/monsters/57.png",
 		"name" : {
 			"en" : "Weartiger",
-			"fr" : "Tigriff"
+			"es" : "?Weartiger",
+			"fr" : "Tigriff",
+			"jp" : "?Tigriff"
 		},
 		"type" : "enemy",
 		"hp" : 50,
@@ -1966,7 +2082,7 @@
 		"attack" : 54,
 		"defense" : 32,
 		"speed" : 20,
-		"xp" : 30,
+		"exp" : 30,
 		"gold" : 50,
 		"items" : [
 			"Tenue de voyageur"
@@ -1990,10 +2106,12 @@
 	},
 	{
 		"id" : 58,
-		"imgFileName" : "58.png",
+		"imgPath" : "img/monsters/58.png",
 		"name" : {
 			"en" : "Jinkster",
-			"fr" : "Fée lée"
+			"es" : "?Jinkster",
+			"fr" : "Fée lée",
+			"jp" : "?Fée lée"
 		},
 		"type" : "enemy",
 		"hp" : 36,
@@ -2001,7 +2119,7 @@
 		"attack" : 31,
 		"defense" : 30,
 		"speed" : 16,
-		"xp" : 27,
+		"exp" : 27,
 		"gold" : 52,
 		"items" : [
 			"Graine de vie"
@@ -2024,10 +2142,12 @@
 	},
 	{
 		"id" : 59,
-		"imgFileName" : "59.png",
+		"imgPath" : "img/monsters/59.png",
 		"name" : {
 			"en" : "Paralyslicer",
-			"fr" : "Paralysabre"
+			"es" : "?Paralyslicer",
+			"fr" : "Paralysabre",
+			"jp" : "?Paralysabre"
 		},
 		"type" : "enemy",
 		"hp" : 30,
@@ -2035,7 +2155,7 @@
 		"attack" : 40,
 		"defense" : 30,
 		"speed" : 16,
-		"xp" : 25,
+		"exp" : 25,
 		"gold" : 18,
 		"items" : [
 			"Botryche lunaire"
@@ -2059,10 +2179,12 @@
 	},
 	{
 		"id" : 60,
-		"imgFileName" : "60.png",
+		"imgPath" : "img/monsters/60.png",
 		"name" : {
 			"en" : "Lost soul",
-			"fr" : "Flammerolle"
+			"es" : "?Lost soul",
+			"fr" : "Flammerolle",
+			"jp" : "?Flammerolle"
 		},
 		"type" : "enemy",
 		"hp" : 40,
@@ -2070,7 +2192,7 @@
 		"attack" : 20,
 		"defense" : 35,
 		"speed" : 1,
-		"xp" : 20,
+		"exp" : 20,
 		"gold" : 28,
 		"items" : [
 			"Fiole d'eau sacrée"
@@ -2091,10 +2213,12 @@
 	},
 	{
 		"id" : 61,
-		"imgFileName" : "61.png",
+		"imgPath" : "img/monsters/61.png",
 		"name" : {
 			"en" : "Vampire battler",
-			"fr" : "Vampaul"
+			"es" : "?Vampire battler",
+			"fr" : "Vampaul",
+			"jp" : "?Vampaul"
 		},
 		"type" : "enemy",
 		"hp" : 38,
@@ -2102,7 +2226,7 @@
 		"attack" : 40,
 		"defense" : 29,
 		"speed" : 28,
-		"xp" : 36,
+		"exp" : 36,
 		"gold" : 24,
 		"items" : [
 			"Dague divine"
@@ -2126,10 +2250,12 @@
 	},
 	{
 		"id" : 62,
-		"imgFileName" : "62.png",
+		"imgPath" : "img/monsters/62.png",
 		"name" : {
 			"en" : "Metal scorpion",
-			"fr" : "Scorpion d'assaut"
+			"es" : "?Metal scorpion",
+			"fr" : "Scorpion d'assaut",
+			"jp" : "?Scorpion d'assaut"
 		},
 		"type" : "enemy",
 		"hp" : 42,
@@ -2137,7 +2263,7 @@
 		"attack" : 50,
 		"defense" : 50,
 		"speed" : 25,
-		"xp" : 59,
+		"exp" : 59,
 		"gold" : 38,
 		"items" : [
 			"Bouclier d'écailles"
@@ -2158,10 +2284,12 @@
 	},
 	{
 		"id" : 63,
-		"imgFileName" : "63.png",
+		"imgPath" : "img/monsters/63.png",
 		"name" : {
 			"en" : "Featherweight",
-			"fr" : "Poids-plume"
+			"es" : "?Featherweight",
+			"fr" : "Poids-plume",
+			"jp" : "?Poids-plume"
 		},
 		"type" : "enemy",
 		"hp" : 52,
@@ -2169,7 +2297,7 @@
 		"attack" : 47,
 		"defense" : 40,
 		"speed" : 26,
-		"xp" : 50,
+		"exp" : 50,
 		"gold" : 51,
 		"items" : [
 			"Chapeau à plumes"
@@ -2196,10 +2324,12 @@
 	},
 	{
 		"id" : 64,
-		"imgFileName" : "64.png",
+		"imgPath" : "img/monsters/64.png",
 		"name" : {
 			"en" : "Salamander fry",
-			"fr" : "Geckorrosif"
+			"es" : "?Salamander fry",
+			"fr" : "Geckorrosif",
+			"jp" : "?Geckorrosif"
 		},
 		"type" : "enemy",
 		"hp" : 40,
@@ -2207,7 +2337,7 @@
 		"attack" : 42,
 		"defense" : 26,
 		"speed" : 27,
-		"xp" : 59,
+		"exp" : 59,
 		"gold" : 58,
 		"items" : [
 			"Herbe médicinale"
@@ -2230,10 +2360,12 @@
 	},
 	{
 		"id" : 65,
-		"imgFileName" : "65.png",
+		"imgPath" : "img/monsters/65.png",
 		"name" : {
 			"en" : "Venus guytrap",
-			"fr" : "Dionéneuse"
+			"es" : "?Venus guytrap",
+			"fr" : "Dionéneuse",
+			"jp" : "?Dionéneuse"
 		},
 		"type" : "enemy",
 		"hp" : 37,
@@ -2241,7 +2373,7 @@
 		"attack" : 39,
 		"defense" : 40,
 		"speed" : 15,
-		"xp" : 40,
+		"exp" : 40,
 		"gold" : 34,
 		"items" : [
 			"Graine de vitalité"
@@ -2263,10 +2395,12 @@
 	},
 	{
 		"id" : 66,
-		"imgFileName" : "66.png",
+		"imgPath" : "img/monsters/66.png",
 		"name" : {
 			"en" : "Bodkin fletcher",
-			"fr" : "Dardeur"
+			"es" : "?Bodkin fletcher",
+			"fr" : "Dardeur",
+			"jp" : "?Dardeur"
 		},
 		"type" : "enemy",
 		"hp" : 17,
@@ -2274,7 +2408,7 @@
 		"attack" : 21,
 		"defense" : 18,
 		"speed" : 10,
-		"xp" : 18,
+		"exp" : 18,
 		"gold" : 16,
 		"items" : [
 			"Herbe curative"
@@ -2295,10 +2429,12 @@
 	},
 	{
 		"id" : 67,
-		"imgFileName" : "67.png",
+		"imgPath" : "img/monsters/67.png",
 		"name" : {
 			"en" : "Mandragore",
-			"fr" : "Mandragore"
+			"es" : "?Mandragore",
+			"fr" : "Mandragore",
+			"jp" : "?Mandragore"
 		},
 		"type" : "enemy",
 		"hp" : 30,
@@ -2306,7 +2442,7 @@
 		"attack" : 44,
 		"defense" : 34,
 		"speed" : 15,
-		"xp" : 26,
+		"exp" : 26,
 		"gold" : 17,
 		"items" : [
 			"Graine de magie"
@@ -2325,10 +2461,12 @@
 	},
 	{
 		"id" : 68,
-		"imgFileName" : "68.png",
+		"imgPath" : "img/monsters/68.png",
 		"name" : {
 			"en" : "Bodkin bawyer",
-			"fr" : "Tire-flèches"
+			"es" : "?Bodkin bawyer",
+			"fr" : "Tire-flèches",
+			"jp" : "?Tire-flèches"
 		},
 		"type" : "enemy",
 		"hp" : 27,
@@ -2336,7 +2474,7 @@
 		"attack" : 46,
 		"defense" : 36,
 		"speed" : 21,
-		"xp" : 47,
+		"exp" : 47,
 		"gold" : 16,
 		"items" : [
 			"Tenue de voyageur"
@@ -2357,10 +2495,12 @@
 	},
 	{
 		"id" : 69,
-		"imgFileName" : "69.png",
+		"imgPath" : "img/monsters/69.png",
 		"name" : {
 			"en" : "Sweaty yeti",
-			"fr" : "Yeti des sables"
+			"es" : "?Sweaty yeti",
+			"fr" : "Yeti des sables",
+			"jp" : "?Yeti des sables"
 		},
 		"type" : "enemy",
 		"hp" : 55,
@@ -2368,7 +2508,7 @@
 		"attack" : 45,
 		"defense" : 30,
 		"speed" : 25,
-		"xp" : 70,
+		"exp" : 70,
 		"gold" : 68,
 		"items" : [
 			"Pelisse"
@@ -2387,10 +2527,12 @@
 	},
 	{
 		"id" : 69,
-		"imgFileName" : "69.png",
+		"imgPath" : "img/monsters/69.png",
 		"name" : {
 			"en" : "Sweaty yeti",
-			"fr" : "Yeti des sables"
+			"es" : "?Sweaty yeti",
+			"fr" : "Yeti des sables",
+			"jp" : "?Yeti des sables"
 		},
 		"type" : "enemy",
 		"hp" : 55,
@@ -2398,7 +2540,7 @@
 		"attack" : 45,
 		"defense" : 30,
 		"speed" : 25,
-		"xp" : 70,
+		"exp" : 70,
 		"gold" : 68,
 		"items" : [
 			"Pelisse"
@@ -2417,10 +2559,12 @@
 	},
 	{
 		"id" : 70,
-		"imgFileName" : "70.png",
+		"imgPath" : "img/monsters/70.png",
 		"name" : {
 			"en" : "Flamethrower",
-			"fr" : "Tizon"
+			"es" : "?Flamethrower",
+			"fr" : "Tizon",
+			"jp" : "?Tizon"
 		},
 		"type" : "enemy",
 		"hp" : 75,
@@ -2428,7 +2572,7 @@
 		"attack" : 65,
 		"defense" : 60,
 		"speed" : 36,
-		"xp" : 110,
+		"exp" : 110,
 		"gold" : 52,
 		"items" : [
 			"Lance sacrée"
@@ -2450,10 +2594,12 @@
 	},
 	{
 		"id" : 71,
-		"imgFileName" : "71.png",
+		"imgPath" : "img/monsters/71.png",
 		"name" : {
 			"en" : "Murshroom mage",
-			"fr" : "Champimage"
+			"es" : "?Murshroom mage",
+			"fr" : "Champimage",
+			"jp" : "?Champimage"
 		},
 		"type" : "enemy",
 		"hp" : 43,
@@ -2461,7 +2607,7 @@
 		"attack" : 40,
 		"defense" : 53,
 		"speed" : 20,
-		"xp" : 45,
+		"exp" : 45,
 		"gold" : 30,
 		"items" : [
 			"Fiole d'eau sacrée"
@@ -2483,10 +2629,12 @@
 	},
 	{
 		"id" : 72,
-		"imgFileName" : "72.png",
+		"imgPath" : "img/monsters/72.png",
 		"name" : {
 			"en" : "Buffalo wing",
-			"fr" : "Bovipare"
+			"es" : "?Buffalo wing",
+			"fr" : "Bovipare",
+			"jp" : "?Bovipare"
 		},
 		"type" : "enemy",
 		"hp" : 52,
@@ -2494,7 +2642,7 @@
 		"attack" : 43,
 		"defense" : 55,
 		"speed" : 26,
-		"xp" : 49,
+		"exp" : 49,
 		"gold" : 39,
 		"items" : [
 			"Lance de fer"
@@ -2514,10 +2662,12 @@
 	},
 	{
 		"id" : 73,
-		"imgFileName" : "73.png",
+		"imgPath" : "img/monsters/73.png",
 		"name" : {
 			"en" : "Imp",
-			"fr" : "Diablotin"
+			"es" : "?Imp",
+			"fr" : "Diablotin",
+			"jp" : "?Diablotin"
 		},
 		"type" : "enemy",
 		"hp" : 40,
@@ -2525,7 +2675,7 @@
 		"attack" : 55,
 		"defense" : 33,
 		"speed" : 23,
-		"xp" : 80,
+		"exp" : 80,
 		"gold" : 75,
 		"items" : [
 			"Graine de vitalité"
@@ -2545,10 +2695,12 @@
 	},
 	{
 		"id" : 74,
-		"imgFileName" : "74.png",
+		"imgPath" : "img/monsters/74.png",
 		"name" : {
 			"en" : "Whizzard",
-			"fr" : "Marcagicien"
+			"es" : "?Whizzard",
+			"fr" : "Marcagicien",
+			"jp" : "?Marcagicien"
 		},
 		"type" : "enemy",
 		"hp" : 38,
@@ -2556,7 +2708,7 @@
 		"attack" : 40,
 		"defense" : 49,
 		"speed" : 30,
-		"xp" : 70,
+		"exp" : 70,
 		"gold" : 31,
 		"items" : [
 			"Graine de vitalité"
@@ -2575,10 +2727,12 @@
 	},
 	{
 		"id" : 75,
-		"imgFileName" : "75.png",
+		"imgPath" : "img/monsters/75.png",
 		"name" : {
 			"en" : "Infernal armour",
-			"fr" : "Armure infernale"
+			"es" : "?Infernal armour",
+			"fr" : "Armure infernale",
+			"jp" : "?Armure infernale"
 		},
 		"type" : "enemy",
 		"hp" : 58,
@@ -2586,7 +2740,7 @@
 		"attack" : 63,
 		"defense" : 63,
 		"speed" : 24,
-		"xp" : 77,
+		"exp" : 77,
 		"gold" : 76,
 		"items" : [
 			"Armure de fer"
@@ -2610,10 +2764,12 @@
 	},
 	{
 		"id" : 76,
-		"imgFileName" : "76.png",
+		"imgPath" : "img/monsters/76.png",
 		"name" : {
 			"en" : "Powie yowie",
-			"fr" : "Yéti yétu"
+			"es" : "?Powie yowie",
+			"fr" : "Yéti yétu",
+			"jp" : "?Yéti yétu"
 		},
 		"type" : "enemy",
 		"hp" : 75,
@@ -2621,7 +2777,7 @@
 		"attack" : 65,
 		"defense" : 35,
 		"speed" : 25,
-		"xp" : 85,
+		"exp" : 85,
 		"gold" : 38,
 		"items" : [
 			"Pelisse"
@@ -2640,10 +2796,12 @@
 	},
 	{
 		"id" : 77,
-		"imgFileName" : "77.png",
+		"imgPath" : "img/monsters/77.png",
 		"name" : {
 			"en" : "Skeleton soldier",
-			"fr" : "Soldat squelette"
+			"es" : "?Skeleton soldier",
+			"fr" : "Soldat squelette",
+			"jp" : "?Soldat squelette"
 		},
 		"type" : "enemy",
 		"hp" : 80,
@@ -2651,7 +2809,7 @@
 		"attack" : 82,
 		"defense" : 59,
 		"speed" : 40,
-		"xp" : 106,
+		"exp" : 106,
 		"gold" : 47,
 		"items" : [
 			"Épée large d'acier"
@@ -2674,10 +2832,12 @@
 	},
 	{
 		"id" : 78,
-		"imgFileName" : "78.png",
+		"imgPath" : "img/monsters/78.png",
 		"name" : {
 			"en" : "Pocus poppet",
-			"fr" : "Talismaboule"
+			"es" : "?Pocus poppet",
+			"fr" : "Talismaboule",
+			"jp" : "?Talismaboule"
 		},
 		"type" : "enemy",
 		"hp" : 40,
@@ -2685,7 +2845,7 @@
 		"attack" : 42,
 		"defense" : 40,
 		"speed" : 30,
-		"xp" : 37,
+		"exp" : 37,
 		"gold" : 300,
 		"items" : [
 			"Tiare d'or"
@@ -2705,10 +2865,12 @@
 	},
 	{
 		"id" : 79,
-		"imgFileName" : "79.png",
+		"imgPath" : "img/monsters/79.png",
 		"name" : {
 			"en" : "Wild beast",
-			"fr" : "Bête sauvage"
+			"es" : "?Wild beast",
+			"fr" : "Bête sauvage",
+			"jp" : "?Bête sauvage"
 		},
 		"type" : "enemy",
 		"hp" : 80,
@@ -2716,7 +2878,7 @@
 		"attack" : 60,
 		"defense" : 45,
 		"speed" : 33,
-		"xp" : 89,
+		"exp" : 89,
 		"gold" : 49,
 		"items" : [
 			"Tablier de fer"
@@ -2736,10 +2898,12 @@
 	},
 	{
 		"id" : 80,
-		"imgFileName" : "80.png",
+		"imgPath" : "img/monsters/80.png",
 		"name" : {
 			"en" : "Dragon pup",
-			"fr" : "Dragonnet"
+			"es" : "?Dragon pup",
+			"fr" : "Dragonnet",
+			"jp" : "?Dragonnet"
 		},
 		"type" : "enemy",
 		"hp" : 67,
@@ -2747,7 +2911,7 @@
 		"attack" : 64,
 		"defense" : 40,
 		"speed" : 34,
-		"xp" : 96,
+		"exp" : 96,
 		"gold" : 50,
 		"items" : [
 			"Faucille à chaîne"
@@ -2766,10 +2930,12 @@
 	},
 	{
 		"id" : 81,
-		"imgFileName" : "81.png",
+		"imgPath" : "img/monsters/81.png",
 		"name" : {
 			"en" : "Hoodoo gooroo",
-			"fr" : "Gourou coucou"
+			"es" : "?Hoodoo gooroo",
+			"fr" : "Gourou coucou",
+			"jp" : "?Gourou coucou"
 		},
 		"type" : "enemy",
 		"hp" : 100,
@@ -2777,7 +2943,7 @@
 		"attack" : 54,
 		"defense" : 30,
 		"speed" : 55,
-		"xp" : 200,
+		"exp" : 200,
 		"gold" : 54,
 		"items" : [
 			"Griffe de fer"
@@ -2797,10 +2963,12 @@
 	},
 	{
 		"id" : 82,
-		"imgFileName" : "82.png",
+		"imgPath" : "img/monsters/82.png",
 		"name" : {
 			"en" : "Cocoon goon",
-			"fr" : "Asticocon"
+			"es" : "?Cocoon goon",
+			"fr" : "Asticocon",
+			"jp" : "?Asticocon"
 		},
 		"type" : "enemy",
 		"hp" : 25,
@@ -2808,7 +2976,7 @@
 		"attack" : 60,
 		"defense" : 130,
 		"speed" : 5,
-		"xp" : 80,
+		"exp" : 80,
 		"gold" : 10,
 		"items" : [
 			"Cottes de mailles"
@@ -2829,10 +2997,12 @@
 	},
 	{
 		"id" : 83,
-		"imgFileName" : "83.png",
+		"imgPath" : "img/monsters/83.png",
 		"name" : {
 			"en" : "Cureslime",
-			"fr" : "Guérigluant"
+			"es" : "?Cureslime",
+			"fr" : "Guérigluant",
+			"jp" : "?Guérigluant"
 		},
 		"type" : "enemy",
 		"hp" : 60,
@@ -2840,7 +3010,7 @@
 		"attack" : 60,
 		"defense" : 50,
 		"speed" : 28,
-		"xp" : 68,
+		"exp" : 68,
 		"gold" : 43,
 		"items" : [
 			"Graine de magie"
@@ -2860,10 +3030,12 @@
 	},
 	{
 		"id" : 84,
-		"imgFileName" : "84.png",
+		"imgPath" : "img/monsters/84.png",
 		"name" : {
 			"en" : "Abracadabrador",
-			"fr" : "Abracadabraque"
+			"es" : "?Abracadabrador",
+			"fr" : "Abracadabraque",
+			"jp" : "?Abracadabraque"
 		},
 		"type" : "enemy",
 		"hp" : 80,
@@ -2871,7 +3043,7 @@
 		"attack" : 80,
 		"defense" : 55,
 		"speed" : 38,
-		"xp" : 125,
+		"exp" : 125,
 		"gold" : 81,
 		"items" : [
 			"Herbe curative"
@@ -2891,10 +3063,12 @@
 	},
 	{
 		"id" : 85,
-		"imgFileName" : "85.png",
+		"imgPath" : "img/monsters/85.png",
 		"name" : {
 			"en" : "Cheater cheetah",
-			"fr" : "Tigrrr"
+			"es" : "?Cheater cheetah",
+			"fr" : "Tigrrr",
+			"jp" : "?Tigrrr"
 		},
 		"type" : "enemy",
 		"hp" : 100,
@@ -2902,7 +3076,7 @@
 		"attack" : 73,
 		"defense" : 32,
 		"speed" : 36,
-		"xp" : 115,
+		"exp" : 115,
 		"gold" : 62,
 		"items" : [
 			"Pelisse"
@@ -2923,10 +3097,12 @@
 	},
 	{
 		"id" : 86,
-		"imgFileName" : "86.png",
+		"imgPath" : "img/monsters/86.png",
 		"name" : {
 			"en" : "Rhinothrope",
-			"fr" : "Rhinocérosse"
+			"es" : "?Rhinothrope",
+			"fr" : "Rhinocérosse",
+			"jp" : "?Rhinocérosse"
 		},
 		"type" : "enemy",
 		"hp" : 70,
@@ -2934,7 +3110,7 @@
 		"attack" : 88,
 		"defense" : 100,
 		"speed" : 22,
-		"xp" : 126,
+		"exp" : 126,
 		"gold" : 39,
 		"items" : [
 			"Hache de guerre"
@@ -2954,10 +3130,12 @@
 	},
 	{
 		"id" : 87,
-		"imgFileName" : "87.png",
+		"imgPath" : "img/monsters/87.png",
 		"name" : {
 			"en" : "Minidemon",
-			"fr" : "Mini démon"
+			"es" : "?Minidemon",
+			"fr" : "Mini démon",
+			"jp" : "?Mini démon"
 		},
 		"type" : "enemy",
 		"hp" : 95,
@@ -2965,7 +3143,7 @@
 		"attack" : 103,
 		"defense" : 62,
 		"speed" : 54,
-		"xp" : 193,
+		"exp" : 193,
 		"gold" : 43,
 		"items" : [
 			"Masque d'Hadès"
@@ -2989,10 +3167,12 @@
 	},
 	{
 		"id" : 88,
-		"imgFileName" : "88.png",
+		"imgPath" : "img/monsters/88.png",
 		"name" : {
 			"en" : "Chillanodon",
-			"fr" : "Glacianodon"
+			"es" : "?Chillanodon",
+			"fr" : "Glacianodon",
+			"jp" : "?Glacianodon"
 		},
 		"type" : "enemy",
 		"hp" : 85,
@@ -3000,7 +3180,7 @@
 		"attack" : 66,
 		"defense" : 40,
 		"speed" : 37,
-		"xp" : 104,
+		"exp" : 104,
 		"gold" : 33,
 		"items" : [
 			"Graine de force"
@@ -3022,10 +3202,12 @@
 	},
 	{
 		"id" : 89,
-		"imgFileName" : "89.png",
+		"imgPath" : "img/monsters/89.png",
 		"name" : {
 			"en" : "Lethal armour",
-			"fr" : "Armure fatale"
+			"es" : "?Lethal armour",
+			"fr" : "Armure fatale",
+			"jp" : "?Armure fatale"
 		},
 		"type" : "enemy",
 		"hp" : 64,
@@ -3033,7 +3215,7 @@
 		"attack" : 80,
 		"defense" : 75,
 		"speed" : 30,
-		"xp" : 120,
+		"exp" : 120,
 		"gold" : 58,
 		"items" : [
 			"Armure de plates"
@@ -3053,10 +3235,12 @@
 	},
 	{
 		"id" : 90,
-		"imgFileName" : "90.png",
+		"imgPath" : "img/monsters/90.png",
 		"name" : {
 			"en" : "Rockbomb",
-			"fr" : "Rochexplosif"
+			"es" : "?Rockbomb",
+			"fr" : "Rochexplosif",
+			"jp" : "?Rochexplosif"
 		},
 		"type" : "enemy",
 		"hp" : 300,
@@ -3064,7 +3248,7 @@
 		"attack" : 0,
 		"defense" : 0,
 		"speed" : 0,
-		"xp" : 150,
+		"exp" : 150,
 		"gold" : 40,
 		"items" : [
 			"Graine de vie"
@@ -3083,10 +3267,12 @@
 	},
 	{
 		"id" : 91,
-		"imgFileName" : "91.png",
+		"imgPath" : "img/monsters/91.png",
 		"name" : {
 			"en" : "Eoraptor",
-			"fr" : "Radiaptor"
+			"es" : "?Eoraptor",
+			"fr" : "Radiaptor",
+			"jp" : "?Radiaptor"
 		},
 		"type" : "enemy",
 		"hp" : 90,
@@ -3094,7 +3280,7 @@
 		"attack" : 85,
 		"defense" : 75,
 		"speed" : 40,
-		"xp" : 116,
+		"exp" : 116,
 		"gold" : 45,
 		"items" : [
 			"Armure de bronze"
@@ -3115,10 +3301,12 @@
 	},
 	{
 		"id" : 92,
-		"imgFileName" : "92.png",
+		"imgPath" : "img/monsters/92.png",
 		"name" : {
 			"en" : "Beleth",
-			"fr" : "Byleth"
+			"es" : "?Beleth",
+			"fr" : "Byleth",
+			"jp" : "?Byleth"
 		},
 		"type" : "enemy",
 		"hp" : 125,
@@ -3126,7 +3314,7 @@
 		"attack" : 90,
 		"defense" : 80,
 		"speed" : 57,
-		"xp" : 132,
+		"exp" : 132,
 		"gold" : 70,
 		"items" : [
 			"Bâton somatique"
@@ -3146,10 +3334,12 @@
 	},
 	{
 		"id" : 93,
-		"imgFileName" : "93.png",
+		"imgPath" : "img/monsters/93.png",
 		"name" : {
 			"en" : "Grim rider",
-			"fr" : "Cavalier fantôme"
+			"es" : "?Grim rider",
+			"fr" : "Cavalier fantôme",
+			"jp" : "?Cavalier fantôme"
 		},
 		"type" : "enemy",
 		"hp" : 180,
@@ -3157,7 +3347,7 @@
 		"attack" : 110,
 		"defense" : 65,
 		"speed" : 40,
-		"xp" : 216,
+		"exp" : 216,
 		"gold" : 82,
 		"items" : [
 			"Lance de fer"
@@ -3178,10 +3368,12 @@
 	},
 	{
 		"id" : 94,
-		"imgFileName" : "94.png",
+		"imgPath" : "img/monsters/94.png",
 		"name" : {
 			"en" : "Bulldozer",
-			"fr" : "Ronflicorne"
+			"es" : "?Bulldozer",
+			"fr" : "Ronflicorne",
+			"jp" : "?Ronflicorne"
 		},
 		"type" : "enemy",
 		"hp" : 90,
@@ -3189,7 +3381,7 @@
 		"attack" : 95,
 		"defense" : 85,
 		"speed" : 39,
-		"xp" : 121,
+		"exp" : 121,
 		"gold" : 72,
 		"items" : [
 			"Graine de force"
@@ -3210,10 +3402,12 @@
 	},
 	{
 		"id" : 95,
-		"imgFileName" : "95.png",
+		"imgPath" : "img/monsters/95.png",
 		"name" : {
 			"en" : "Chicken poxer",
-			"fr" : "Coq-toc"
+			"es" : "?Chicken poxer",
+			"fr" : "Coq-toc",
+			"jp" : "?Coq-toc"
 		},
 		"type" : "enemy",
 		"hp" : 85,
@@ -3221,7 +3415,7 @@
 		"attack" : 81,
 		"defense" : 80,
 		"speed" : 61,
-		"xp" : 108,
+		"exp" : 108,
 		"gold" : 40,
 		"items" : [
 			"Aile de chimère"
@@ -3241,10 +3435,12 @@
 	},
 	{
 		"id" : 96,
-		"imgFileName" : "96.png",
+		"imgPath" : "img/monsters/96.png",
 		"name" : {
 			"en" : "War-rus",
-			"fr" : "Toréamorse"
+			"es" : "?War-rus",
+			"fr" : "Toréamorse",
+			"jp" : "?Toréamorse"
 		},
 		"type" : "enemy",
 		"hp" : 120,
@@ -3252,7 +3448,7 @@
 		"attack" : 112,
 		"defense" : 75,
 		"speed" : 40,
-		"xp" : 120,
+		"exp" : 120,
 		"gold" : 54,
 		"items" : [
 			"Boulier d'astrae"
@@ -3272,10 +3468,12 @@
 	},
 	{
 		"id" : 97,
-		"imgFileName" : "97.png",
+		"imgPath" : "img/monsters/97.png",
 		"name" : {
 			"en" : "Liquid metal slime",
-			"fr" : "Gluant de mercure"
+			"es" : "?Liquid metal slime",
+			"fr" : "Gluant de mercure",
+			"jp" : "?Gluant de mercure"
 		},
 		"type" : "enemy",
 		"hp" : 5,
@@ -3283,7 +3481,7 @@
 		"attack" : 65,
 		"defense" : 1023,
 		"speed" : 150,
-		"xp" : 10050,
+		"exp" : 10050,
 		"gold" : 10,
 		"items" : [
 			"Chapeau de félicité"
@@ -3304,10 +3502,12 @@
 	},
 	{
 		"id" : 98,
-		"imgFileName" : "98.png",
+		"imgPath" : "img/monsters/98.png",
 		"name" : {
 			"en" : "Humbaba",
-			"fr" : "Humbaba"
+			"es" : "?Humbaba",
+			"fr" : "Humbaba",
+			"jp" : "?Humbaba"
 		},
 		"type" : "enemy",
 		"hp" : 90,
@@ -3315,7 +3515,7 @@
 		"attack" : 109,
 		"defense" : 79,
 		"speed" : 30,
-		"xp" : 144,
+		"exp" : 144,
 		"gold" : 76,
 		"items" : [
 			"Botryche lunaire"
@@ -3336,10 +3536,12 @@
 	},
 	{
 		"id" : 99,
-		"imgFileName" : "99.png",
+		"imgPath" : "img/monsters/99.png",
 		"name" : {
 			"en" : "Spitfire",
-			"fr" : "Libellugon"
+			"es" : "?Spitfire",
+			"fr" : "Libellugon",
+			"jp" : "?Libellugon"
 		},
 		"type" : "enemy",
 		"hp" : 105,
@@ -3347,7 +3549,7 @@
 		"attack" : 84,
 		"defense" : 110,
 		"speed" : 41,
-		"xp" : 180,
+		"exp" : 180,
 		"gold" : 100,
 		"items" : [
 			"Manteau d'esquive"
@@ -3368,10 +3570,12 @@
 	},
 	{
 		"id" : 100,
-		"imgFileName" : "100.png",
+		"imgPath" : "img/monsters/100.png",
 		"name" : {
 			"en" : "Terminonatator",
-			"fr" : "Terminataure"
+			"es" : "?Terminonatator",
+			"fr" : "Terminataure",
+			"jp" : "?Terminataure"
 		},
 		"type" : "enemy",
 		"hp" : 380,
@@ -3379,7 +3583,7 @@
 		"attack" : 125,
 		"defense" : 50,
 		"speed" : 30,
-		"xp" : 135,
+		"exp" : 135,
 		"gold" : 57,
 		"items" : [
 			"Robe de soie"
@@ -3400,10 +3604,12 @@
 	},
 	{
 		"id" : 101,
-		"imgFileName" : "101.png",
+		"imgPath" : "img/monsters/101.png",
 		"name" : {
 			"en" : "Skerleton",
-			"fr" : "Berserkerlette"
+			"es" : "?Skerleton",
+			"fr" : "Berserkerlette",
+			"jp" : "?Berserkerlette"
 		},
 		"type" : "enemy",
 		"hp" : 130,
@@ -3411,7 +3617,7 @@
 		"attack" : 140,
 		"defense" : 85,
 		"speed" : 53,
-		"xp" : 315,
+		"exp" : 315,
 		"gold" : 50,
 		"items" : [
 			"Cuirasse de zombie"
@@ -3434,10 +3640,12 @@
 	},
 	{
 		"id" : 102,
-		"imgFileName" : "102.png",
+		"imgPath" : "img/monsters/102.png",
 		"name" : {
 			"en" : "Cheeky tiki",
-			"fr" : "Grimasque"
+			"es" : "?Cheeky tiki",
+			"fr" : "Grimasque",
+			"jp" : "?Grimasque"
 		},
 		"type" : "enemy",
 		"hp" : 91,
@@ -3445,7 +3653,7 @@
 		"attack" : 84,
 		"defense" : 79,
 		"speed" : 50,
-		"xp" : 290,
+		"exp" : 290,
 		"gold" : 102,
 		"items" : [
 			"Dagues d'oreilles"
@@ -3466,10 +3674,12 @@
 	},
 	{
 		"id" : 103,
-		"imgFileName" : "103.png",
+		"imgPath" : "img/monsters/103.png",
 		"name" : {
 			"en" : "Podokesaurus",
-			"fr" : "Pokérosaure"
+			"es" : "?Podokesaurus",
+			"fr" : "Pokérosaure",
+			"jp" : "?Pokérosaure"
 		},
 		"type" : "enemy",
 		"hp" : 114,
@@ -3477,7 +3687,7 @@
 		"attack" : 98,
 		"defense" : 40,
 		"speed" : 74,
-		"xp" : 270,
+		"exp" : 270,
 		"gold" : 81,
 		"items" : [
 			"Graine d'agilité"
@@ -3497,10 +3707,12 @@
 	},
 	{
 		"id" : 104,
-		"imgFileName" : "104.png",
+		"imgPath" : "img/monsters/104.png",
 		"name" : {
 			"en" : "Dragon rider",
-			"fr" : "Dragonnier"
+			"es" : "?Dragon rider",
+			"fr" : "Dragonnier",
+			"jp" : "?Dragonnier"
 		},
 		"type" : "enemy",
 		"hp" : 141,
@@ -3508,7 +3720,7 @@
 		"attack" : 115,
 		"defense" : 87,
 		"speed" : 70,
-		"xp" : 351,
+		"exp" : 351,
 		"gold" : 108,
 		"items" : [
 			"Graine de force"
@@ -3530,10 +3742,12 @@
 	},
 	{
 		"id" : 105,
-		"imgFileName" : "105.png",
+		"imgPath" : "img/monsters/105.png",
 		"name" : {
 			"en" : "Freeze fly",
-			"fr" : "Mouche des neiges"
+			"es" : "?Freeze fly",
+			"fr" : "Mouche des neiges",
+			"jp" : "?Mouche des neiges"
 		},
 		"type" : "enemy",
 		"hp" : 90,
@@ -3541,7 +3755,7 @@
 		"attack" : 70,
 		"defense" : 78,
 		"speed" : 35,
-		"xp" : 261,
+		"exp" : 261,
 		"gold" : 151,
 		"items" : [
 			"Crottin de cheval"
@@ -3562,10 +3776,12 @@
 	},
 	{
 		"id" : 106,
-		"imgFileName" : "106.png",
+		"imgPath" : "img/monsters/106.png",
 		"name" : {
 			"en" : "Hell raiser",
-			"fr" : "Phacomage"
+			"es" : "?Hell raiser",
+			"fr" : "Phacomage",
+			"jp" : "?Phacomage"
 		},
 		"type" : "enemy",
 		"hp" : 110,
@@ -3573,7 +3789,7 @@
 		"attack" : 83,
 		"defense" : 75,
 		"speed" : 50,
-		"xp" : 234,
+		"exp" : 234,
 		"gold" : 91,
 		"items" : [
 			"Bague de prière"
@@ -3594,10 +3810,12 @@
 	},
 	{
 		"id" : 107,
-		"imgFileName" : "107.png",
+		"imgPath" : "img/monsters/107.png",
 		"name" : {
 			"en" : "Hellspawn",
-			"fr" : "Rejeton de l'enfer"
+			"es" : "?Hellspawn",
+			"fr" : "Rejeton de l'enfer",
+			"jp" : "?Rejeton de l'enfer"
 		},
 		"type" : "enemy",
 		"hp" : 130,
@@ -3605,7 +3823,7 @@
 		"attack" : 108,
 		"defense" : 76,
 		"speed" : 67,
-		"xp" : 225,
+		"exp" : 225,
 		"gold" : 186,
 		"items" : [
 			"Botryche lunaire"
@@ -3625,10 +3843,12 @@
 	},
 	{
 		"id" : 108,
-		"imgFileName" : "108.png",
+		"imgPath" : "img/monsters/108.png",
 		"name" : {
 			"en" : "Bloody blade",
-			"fr" : "Lame sanglante"
+			"es" : "?Bloody blade",
+			"fr" : "Lame sanglante",
+			"jp" : "?Lame sanglante"
 		},
 		"type" : "enemy",
 		"hp" : 114,
@@ -3636,7 +3856,7 @@
 		"attack" : 89,
 		"defense" : 68,
 		"speed" : 49,
-		"xp" : 180,
+		"exp" : 180,
 		"gold" : 80,
 		"items" : [
 			"Épée large d'acier"
@@ -3657,10 +3877,12 @@
 	},
 	{
 		"id" : 109,
-		"imgFileName" : "109.png",
+		"imgPath" : "img/monsters/109.png",
 		"name" : {
 			"en" : "Terrorflyer",
-			"fr" : "Apprentiran"
+			"es" : "?Terrorflyer",
+			"fr" : "Apprentiran",
+			"jp" : "?Apprentiran"
 		},
 		"type" : "enemy",
 		"hp" : 98,
@@ -3668,7 +3890,7 @@
 		"attack" : 115,
 		"defense" : 72,
 		"speed" : 43,
-		"xp" : 187,
+		"exp" : 187,
 		"gold" : 74,
 		"items" : [
 			"Aile de chimère"
@@ -3687,10 +3909,12 @@
 	},
 	{
 		"id" : 110,
-		"imgFileName" : "110.png",
+		"imgPath" : "img/monsters/110.png",
 		"name" : {
 			"en" : "Voodoo gooroo",
-			"fr" : "Gourou vaudou"
+			"es" : "?Voodoo gooroo",
+			"fr" : "Gourou vaudou",
+			"jp" : "?Gourou vaudou"
 		},
 		"type" : "enemy",
 		"hp" : 100,
@@ -3698,7 +3922,7 @@
 		"attack" : 120,
 		"defense" : 70,
 		"speed" : 57,
-		"xp" : 211,
+		"exp" : 211,
 		"gold" : 88,
 		"items" : [
 			"Bâton du salut"
@@ -3719,10 +3943,12 @@
 	},
 	{
 		"id" : 111,
-		"imgFileName" : "111.png",
+		"imgPath" : "img/monsters/111.png",
 		"name" : {
 			"en" : "Medislime",
-			"fr" : "Coagluant"
+			"es" : "?Medislime",
+			"fr" : "Coagluant",
+			"jp" : "?Coagluant"
 		},
 		"type" : "enemy",
 		"hp" : 140,
@@ -3730,7 +3956,7 @@
 		"attack" : 90,
 		"defense" : 80,
 		"speed" : 47,
-		"xp" : 162,
+		"exp" : 162,
 		"gold" : 55,
 		"items" : [
 			"Graine de vie"
@@ -3749,10 +3975,12 @@
 	},
 	{
 		"id" : 112,
-		"imgFileName" : "112.png",
+		"imgPath" : "img/monsters/112.png",
 		"name" : {
 			"en" : "Rhinoceraxe",
-			"fr" : "Rhinocérache"
+			"es" : "?Rhinoceraxe",
+			"fr" : "Rhinocérache",
+			"jp" : "?Rhinocérache"
 		},
 		"type" : "enemy",
 		"hp" : 142,
@@ -3760,7 +3988,7 @@
 		"attack" : 120,
 		"defense" : 150,
 		"speed" : 35,
-		"xp" : 245,
+		"exp" : 245,
 		"gold" : 68,
 		"items" : [
 			"Marteau de hela"
@@ -3782,10 +4010,12 @@
 	},
 	{
 		"id" : 113,
-		"imgFileName" : "113.png",
+		"imgPath" : "img/monsters/113.png",
 		"name" : {
 			"en" : "Fat bat",
-			"fr" : "Hippovol"
+			"es" : "?Fat bat",
+			"fr" : "Hippovol",
+			"jp" : "?Hippovol"
 		},
 		"type" : "enemy",
 		"hp" : 113,
@@ -3793,7 +4023,7 @@
 		"attack" : 92,
 		"defense" : 82,
 		"speed" : 38,
-		"xp" : 172,
+		"exp" : 172,
 		"gold" : 84,
 		"items" : [
 			"Manteau de sérénité"
@@ -3813,10 +4043,12 @@
 	},
 	{
 		"id" : 114,
-		"imgFileName" : "114.png",
+		"imgPath" : "img/monsters/114.png",
 		"name" : {
 			"en" : "Fat bat",
-			"fr" : "Hippovol"
+			"es" : "?Fat bat",
+			"fr" : "Hippovol",
+			"jp" : "?Hippovol"
 		},
 		"type" : "enemy",
 		"hp" : 113,
@@ -3824,7 +4056,7 @@
 		"attack" : 92,
 		"defense" : 82,
 		"speed" : 38,
-		"xp" : 172,
+		"exp" : 172,
 		"gold" : 84,
 		"items" : [
 			"Manteau de sérénité"
@@ -3844,10 +4076,12 @@
 	},
 	{
 		"id" : 115,
-		"imgFileName" : "115.png",
+		"imgPath" : "img/monsters/115.png",
 		"name" : {
 			"en" : "Blizzybody",
-			"fr" : "Glazon"
+			"es" : "?Blizzybody",
+			"fr" : "Glazon",
+			"jp" : "?Glazon"
 		},
 		"type" : "enemy",
 		"hp" : 85,
@@ -3855,7 +4089,7 @@
 		"attack" : 50,
 		"defense" : 40,
 		"speed" : 47,
-		"xp" : 286,
+		"exp" : 286,
 		"gold" : 100,
 		"items" : [
 			"Graine de magie"
@@ -3874,10 +4108,12 @@
 	},
 	{
 		"id" : 116,
-		"imgFileName" : "116.png",
+		"imgPath" : "img/monsters/116.png",
 		"name" : {
 			"en" : "Wyvern",
-			"fr" : "Wyverne"
+			"es" : "?Wyvern",
+			"fr" : "Wyverne",
+			"jp" : "?Wyverne"
 		},
 		"type" : "enemy",
 		"hp" : 120,
@@ -3885,7 +4121,7 @@
 		"attack" : 134,
 		"defense" : 90,
 		"speed" : 82,
-		"xp" : 393,
+		"exp" : 393,
 		"gold" : 116,
 		"items" : [
 			"Aiguille empoisonnée"
@@ -3905,10 +4141,12 @@
 	},
 	{
 		"id" : 117,
-		"imgFileName" : "117.png",
+		"imgPath" : "img/monsters/117.png",
 		"name" : {
 			"en" : "Fuddlestick",
-			"fr" : "Fourmicmac"
+			"es" : "?Fuddlestick",
+			"fr" : "Fourmicmac",
+			"jp" : "?Fourmicmac"
 		},
 		"type" : "enemy",
 		"hp" : 90,
@@ -3916,7 +4154,7 @@
 		"attack" : 109,
 		"defense" : 40,
 		"speed" : 59,
-		"xp" : 261,
+		"exp" : 261,
 		"gold" : 99,
 		"items" : [
 			"Sac de musc"
@@ -3937,10 +4175,12 @@
 	},
 	{
 		"id" : 118,
-		"imgFileName" : "118.png",
+		"imgPath" : "img/monsters/118.png",
 		"name" : {
 			"en" : "Moosifer",
-			"fr" : "Belzébik"
+			"es" : "?Moosifer",
+			"fr" : "Belzébik",
+			"jp" : "?Belzébik"
 		},
 		"type" : "enemy",
 		"hp" : 250,
@@ -3948,7 +4188,7 @@
 		"attack" : 123,
 		"defense" : 98,
 		"speed" : 78,
-		"xp" : 387,
+		"exp" : 387,
 		"gold" : 122,
 		"items" : [
 			"Graine de vie"
@@ -3968,10 +4208,12 @@
 	},
 	{
 		"id" : 119,
-		"imgFileName" : "119.png",
+		"imgPath" : "img/monsters/119.png",
 		"name" : {
 			"en" : "King cureslime",
-			"fr" : "Roi guérigluant"
+			"es" : "?King cureslime",
+			"fr" : "Roi guérigluant",
+			"jp" : "?Roi guérigluant"
 		},
 		"type" : "enemy",
 		"hp" : 150,
@@ -3979,7 +4221,7 @@
 		"attack" : 90,
 		"defense" : 25,
 		"speed" : 30,
-		"xp" : 384,
+		"exp" : 384,
 		"gold" : 300,
 		"items" : [
 			"Épée de cuivre"
@@ -3999,10 +4241,12 @@
 	},
 	{
 		"id" : 120,
-		"imgFileName" : "120.png",
+		"imgPath" : "img/monsters/120.png",
 		"name" : {
 			"en" : "Rhinocerex",
-			"fr" : "Rhinofurax"
+			"es" : "?Rhinocerex",
+			"fr" : "Rhinofurax",
+			"jp" : "?Rhinofurax"
 		},
 		"type" : "enemy",
 		"hp" : 220,
@@ -4010,7 +4254,7 @@
 		"attack" : 200,
 		"defense" : 160,
 		"speed" : 70,
-		"xp" : 655,
+		"exp" : 655,
 		"gold" : 150,
 		"items" : [
 			"Armure de plates"
@@ -4030,10 +4274,12 @@
 	},
 	{
 		"id" : 121,
-		"imgFileName" : "121.png",
+		"imgPath" : "img/monsters/121.png",
 		"name" : {
 			"en" : "Joojoo gooroo",
-			"fr" : "Gourou jajou"
+			"es" : "?Joojoo gooroo",
+			"fr" : "Gourou jajou",
+			"jp" : "?Gourou jajou"
 		},
 		"type" : "enemy",
 		"hp" : 130,
@@ -4041,7 +4287,7 @@
 		"attack" : 132,
 		"defense" : 83,
 		"speed" : 58,
-		"xp" : 477,
+		"exp" : 477,
 		"gold" : 146,
 		"items" : [
 			"Absorboléro"
@@ -4060,10 +4306,12 @@
 	},
 	{
 		"id" : 122,
-		"imgFileName" : "122.png",
+		"imgPath" : "img/monsters/122.png",
 		"name" : {
 			"en" : "Grim keeper",
-			"fr" : "Grand faucheur"
+			"es" : "?Grim keeper",
+			"fr" : "Grand faucheur",
+			"jp" : "?Grand faucheur"
 		},
 		"type" : "enemy",
 		"hp" : 250,
@@ -4071,7 +4319,7 @@
 		"attack" : 130,
 		"defense" : 116,
 		"speed" : 61,
-		"xp" : 585,
+		"exp" : 585,
 		"gold" : 73,
 		"items" : [
 			"Faucille à chaîne"
@@ -4091,10 +4339,12 @@
 	},
 	{
 		"id" : 123,
-		"imgFileName" : "123.png",
+		"imgPath" : "img/monsters/123.png",
 		"name" : {
 			"en" : "Ogre",
-			"fr" : "Bouledogre"
+			"es" : "?Ogre",
+			"fr" : "Bouledogre",
+			"jp" : "?Bouledogre"
 		},
 		"type" : "enemy",
 		"hp" : 210,
@@ -4102,7 +4352,7 @@
 		"attack" : 143,
 		"defense" : 40,
 		"speed" : 47,
-		"xp" : 391,
+		"exp" : 391,
 		"gold" : 65,
 		"items" : [
 			"Griffe de feu"
@@ -4122,10 +4372,12 @@
 	},
 	{
 		"id" : 124,
-		"imgFileName" : "124.png",
+		"imgPath" : "img/monsters/124.png",
 		"name" : {
 			"en" : "Bullion",
-			"fr" : "Mygalion"
+			"es" : "?Bullion",
+			"fr" : "Mygalion",
+			"jp" : "?Mygalion"
 		},
 		"type" : "enemy",
 		"hp" : 200,
@@ -4133,7 +4385,7 @@
 		"attack" : 110,
 		"defense" : 90,
 		"speed" : 57,
-		"xp" : 447,
+		"exp" : 447,
 		"gold" : 92,
 		"items" : [
 			"Carte argentées"
@@ -4153,10 +4405,12 @@
 	},
 	{
 		"id" : 125,
-		"imgFileName" : "125.png",
+		"imgPath" : "img/monsters/125.png",
 		"name" : {
 			"en" : "Night emperor",
-			"fr" : "Empereur nocturne"
+			"es" : "?Night emperor",
+			"fr" : "Empereur nocturne",
+			"jp" : "?Empereur nocturne"
 		},
 		"type" : "enemy",
 		"hp" : 220,
@@ -4164,7 +4418,7 @@
 		"attack" : 143,
 		"defense" : 127,
 		"speed" : 60,
-		"xp" : 495,
+		"exp" : 495,
 		"gold" : 144,
 		"items" : [
 			"Body rose"
@@ -4183,10 +4437,12 @@
 	},
 	{
 		"id" : 126,
-		"imgFileName" : "126.png",
+		"imgPath" : "img/monsters/126.png",
 		"name" : {
 			"en" : "Metal king slime",
-			"fr" : "Roi gluant de métal"
+			"es" : "?Metal king slime",
+			"fr" : "Roi gluant de métal",
+			"jp" : "?Roi gluant de métal"
 		},
 		"type" : "enemy",
 		"hp" : 7,
@@ -4194,7 +4450,7 @@
 		"attack" : 140,
 		"defense" : 1023,
 		"speed" : 165,
-		"xp" : 30010,
+		"exp" : 30010,
 		"gold" : 20,
 		"items" : [
 			"Casque de mercure"
@@ -4215,10 +4471,12 @@
 	},
 	{
 		"id" : 127,
-		"imgFileName" : "127.png",
+		"imgPath" : "img/monsters/127.png",
 		"name" : {
 			"en" : "Green dragon",
-			"fr" : "Dragon vert"
+			"es" : "?Green dragon",
+			"fr" : "Dragon vert",
+			"jp" : "?Dragon vert"
 		},
 		"type" : "enemy",
 		"hp" : 143,
@@ -4226,7 +4484,7 @@
 		"attack" : 136,
 		"defense" : 90,
 		"speed" : 55,
-		"xp" : 405,
+		"exp" : 405,
 		"gold" : 132,
 		"items" : [
 			"Bouclier du dragon"
@@ -4245,10 +4503,12 @@
 	},
 	{
 		"id" : 128,
-		"imgFileName" : "128.png",
+		"imgPath" : "img/monsters/128.png",
 		"name" : {
 			"en" : "Whirly girly",
-			"fr" : "Typhonphonphon"
+			"es" : "?Whirly girly",
+			"fr" : "Typhonphonphon",
+			"jp" : "?Typhonphonphon"
 		},
 		"type" : "enemy",
 		"hp" : 80,
@@ -4256,7 +4516,7 @@
 		"attack" : 152,
 		"defense" : 55,
 		"speed" : 79,
-		"xp" : 403,
+		"exp" : 403,
 		"gold" : 128,
 		"items" : [
 			"Arc de chasseur"
@@ -4275,10 +4535,12 @@
 	},
 	{
 		"id" : 129,
-		"imgFileName" : "129.png",
+		"imgPath" : "img/monsters/129.png",
 		"name" : {
 			"en" : "Bone baron",
-			"fr" : "Baron d'os"
+			"es" : "?Bone baron",
+			"fr" : "Baron d'os",
+			"jp" : "?Baron d'os"
 		},
 		"type" : "enemy",
 		"hp" : 146,
@@ -4286,7 +4548,7 @@
 		"attack" : 127,
 		"defense" : 95,
 		"speed" : 65,
-		"xp" : 543,
+		"exp" : 543,
 		"gold" : 139,
 		"items" : [
 			"Graine de vie"
@@ -4305,10 +4567,12 @@
 	},
 	{
 		"id" : 130,
-		"imgFileName" : "130.png",
+		"imgPath" : "img/monsters/130.png",
 		"name" : {
 			"en" : "Drooling ghoul",
-			"fr" : "Sméagoule"
+			"es" : "?Drooling ghoul",
+			"fr" : "Sméagoule",
+			"jp" : "?Sméagoule"
 		},
 		"type" : "enemy",
 		"hp" : 134,
@@ -4316,7 +4580,7 @@
 		"attack" : 155,
 		"defense" : 35,
 		"speed" : 66,
-		"xp" : 448,
+		"exp" : 448,
 		"gold" : 63,
 		"items" : [
 			"Cuirasse de zombie"
@@ -4339,10 +4603,12 @@
 	},
 	{
 		"id" : 131,
-		"imgFileName" : "131.png",
+		"imgPath" : "img/monsters/131.png",
 		"name" : {
 			"en" : "Teaky mask",
-			"fr" : "Maskoteck"
+			"es" : "?Teaky mask",
+			"fr" : "Maskoteck",
+			"jp" : "?Maskoteck"
 		},
 		"type" : "enemy",
 		"hp" : 150,
@@ -4350,7 +4616,7 @@
 		"attack" : 142,
 		"defense" : 60,
 		"speed" : 75,
-		"xp" : 485,
+		"exp" : 485,
 		"gold" : 52,
 		"items" : [
 			"Masque de fer"
@@ -4371,10 +4637,12 @@
 	},
 	{
 		"id" : 132,
-		"imgFileName" : "132.png",
+		"imgPath" : "img/monsters/132.png",
 		"name" : {
 			"en" : "Pickeerer",
-			"fr" : "Vicius"
+			"es" : "?Pickeerer",
+			"fr" : "Vicius",
+			"jp" : "?Vicius"
 		},
 		"type" : "enemy",
 		"hp" : 140,
@@ -4382,7 +4650,7 @@
 		"attack" : 162,
 		"defense" : 130,
 		"speed" : 70,
-		"xp" : 573,
+		"exp" : 573,
 		"gold" : 172,
 		"items" : [
 			"Bague de prière"
@@ -4404,10 +4672,12 @@
 	},
 	{
 		"id" : 133,
-		"imgFileName" : "133.png",
+		"imgPath" : "img/monsters/133.png",
 		"name" : {
 			"en" : "Pit viper",
-			"fr" : "Crotale"
+			"es" : "?Pit viper",
+			"fr" : "Crotale",
+			"jp" : "?Crotale"
 		},
 		"type" : "enemy",
 		"hp" : 200,
@@ -4415,7 +4685,7 @@
 		"attack" : 147,
 		"defense" : 80,
 		"speed" : 60,
-		"xp" : 563,
+		"exp" : 563,
 		"gold" : 95,
 		"items" : [
 			"Botryche lunaire"
@@ -4434,10 +4704,12 @@
 	},
 	{
 		"id" : 134,
-		"imgFileName" : "134.png",
+		"imgPath" : "img/monsters/134.png",
 		"name" : {
 			"en" : "Damselfly",
-			"fr" : "Damoisel"
+			"es" : "?Damselfly",
+			"fr" : "Damoisel",
+			"jp" : "?Damoisel"
 		},
 		"type" : "enemy",
 		"hp" : 123,
@@ -4445,7 +4717,7 @@
 		"attack" : 127,
 		"defense" : 145,
 		"speed" : 110,
-		"xp" : 615,
+		"exp" : 615,
 		"gold" : 390,
 		"items" : [
 			"Graine de magie"
@@ -4465,10 +4737,12 @@
 	},
 	{
 		"id" : 135,
-		"imgFileName" : "135.png",
+		"imgPath" : "img/monsters/135.png",
 		"name" : {
 			"en" : "Abullddon",
-			"fr" : "Belzébouc"
+			"es" : "?Abullddon",
+			"fr" : "Belzébouc",
+			"jp" : "?Belzébouc"
 		},
 		"type" : "enemy",
 		"hp" : 250,
@@ -4476,7 +4750,7 @@
 		"attack" : 178,
 		"defense" : 132,
 		"speed" : 88,
-		"xp" : 670,
+		"exp" : 670,
 		"gold" : 205,
 		"items" : [
 			"Cuirasse du dragon"
@@ -4497,10 +4771,12 @@
 	},
 	{
 		"id" : 136,
-		"imgFileName" : "136.png",
+		"imgPath" : "img/monsters/136.png",
 		"name" : {
 			"en" : "Hot dog",
-			"fr" : "Pitbrûle"
+			"es" : "?Hot dog",
+			"fr" : "Pitbrûle",
+			"jp" : "?Pitbrûle"
 		},
 		"type" : "enemy",
 		"hp" : 165,
@@ -4508,7 +4784,7 @@
 		"attack" : 170,
 		"defense" : 90,
 		"speed" : 61,
-		"xp" : 515,
+		"exp" : 515,
 		"gold" : 205,
 		"items" : [
 			"Graine de vie"
@@ -4527,10 +4803,12 @@
 	},
 	{
 		"id" : 137,
-		"imgFileName" : "137.png",
+		"imgPath" : "img/monsters/137.png",
 		"name" : {
 			"en" : "Beelzebuzz",
-			"fr" : "Globulœil"
+			"es" : "?Beelzebuzz",
+			"fr" : "Globulœil",
+			"jp" : "?Globulœil"
 		},
 		"type" : "enemy",
 		"hp" : 250,
@@ -4538,7 +4816,7 @@
 		"attack" : 8,
 		"defense" : 0,
 		"speed" : 68,
-		"xp" : 570,
+		"exp" : 570,
 		"gold" : 123,
 		"items" : [
 			"Épée double"
@@ -4558,10 +4836,12 @@
 	},
 	{
 		"id" : 138,
-		"imgFileName" : "138.png",
+		"imgPath" : "img/monsters/138.png",
 		"name" : {
 			"en" : "Float-o-copier",
-			"fr" : "Feutocopieur"
+			"es" : "?Float-o-copier",
+			"fr" : "Feutocopieur",
+			"jp" : "?Feutocopieur"
 		},
 		"type" : "enemy",
 		"hp" : 153,
@@ -4569,7 +4849,7 @@
 		"attack" : 104,
 		"defense" : 122,
 		"speed" : 120,
-		"xp" : 582,
+		"exp" : 582,
 		"gold" : 316,
 		"items" : [
 			"Miroir de Râ"
@@ -4591,10 +4871,12 @@
 	},
 	{
 		"id" : 139,
-		"imgFileName" : "139.png",
+		"imgPath" : "img/monsters/139.png",
 		"name" : {
 			"en" : "Terracotta warrior",
-			"fr" : "Guerracotta"
+			"es" : "?Terracotta warrior",
+			"fr" : "Guerracotta",
+			"jp" : "?Guerracotta"
 		},
 		"type" : "enemy",
 		"hp" : 400,
@@ -4602,7 +4884,7 @@
 		"attack" : 142,
 		"defense" : 140,
 		"speed" : 120,
-		"xp" : 693,
+		"exp" : 693,
 		"gold" : 15,
 		"items" : [
 			"Graine de vie"
@@ -4621,10 +4903,12 @@
 	},
 	{
 		"id" : 140,
-		"imgFileName" : "140.png",
+		"imgPath" : "img/monsters/140.png",
 		"name" : {
 			"en" : "Swingre",
-			"fr" : "Fléogre"
+			"es" : "?Swingre",
+			"fr" : "Fléogre",
+			"jp" : "?Fléogre"
 		},
 		"type" : "enemy",
 		"hp" : 380,
@@ -4632,7 +4916,7 @@
 		"attack" : 220,
 		"defense" : 90,
 		"speed" : 55,
-		"xp" : 1094,
+		"exp" : 1094,
 		"gold" : 53,
 		"items" : [
 			"Armure de hela"
@@ -4652,10 +4936,12 @@
 	},
 	{
 		"id" : 141,
-		"imgFileName" : "141.png",
+		"imgPath" : "img/monsters/141.png",
 		"name" : {
 			"en" : "Red dragon",
-			"fr" : "Dragon rouge"
+			"es" : "?Red dragon",
+			"fr" : "Dragon rouge",
+			"jp" : "?Dragon rouge"
 		},
 		"type" : "enemy",
 		"hp" : 167,
@@ -4663,7 +4949,7 @@
 		"attack" : 183,
 		"defense" : 90,
 		"speed" : 78,
-		"xp" : 603,
+		"exp" : 603,
 		"gold" : 215,
 		"items" : [
 			"Graine de vitalité"
@@ -4682,10 +4968,12 @@
 	},
 	{
 		"id" : 142,
-		"imgFileName" : "142.png",
+		"imgPath" : "img/monsters/142.png",
 		"name" : {
 			"en" : "Sasquash",
-			"fr" : "Primatraque"
+			"es" : "?Sasquash",
+			"fr" : "Primatraque",
+			"jp" : "?Primatraque"
 		},
 		"type" : "enemy",
 		"hp" : 250,
@@ -4693,7 +4981,7 @@
 		"attack" : 135,
 		"defense" : 40,
 		"speed" : 37,
-		"xp" : 589,
+		"exp" : 589,
 		"gold" : 99,
 		"items" : [
 			"Bâton de thalie"
@@ -4713,10 +5001,12 @@
 	},
 	{
 		"id" : 143,
-		"imgFileName" : "143.png",
+		"imgPath" : "img/monsters/143.png",
 		"name" : {
 			"en" : "Wilder beast",
-			"fr" : "Bebête sauvage"
+			"es" : "?Wilder beast",
+			"fr" : "Bebête sauvage",
+			"jp" : "?Bebête sauvage"
 		},
 		"type" : "enemy",
 		"hp" : 178,
@@ -4724,7 +5014,7 @@
 		"attack" : 125,
 		"defense" : 73,
 		"speed" : 54,
-		"xp" : 480,
+		"exp" : 480,
 		"gold" : 81,
 		"items" : [
 			"Graine d'agilité"
@@ -4743,10 +5033,12 @@
 	},
 	{
 		"id" : 144,
-		"imgFileName" : "144.png",
+		"imgPath" : "img/monsters/144.png",
 		"name" : {
 			"en" : "Vis mage",
-			"fr" : "Maximage"
+			"es" : "?Vis mage",
+			"fr" : "Maximage",
+			"jp" : "?Maximage"
 		},
 		"type" : "enemy",
 		"hp" : 900,
@@ -4754,7 +5046,7 @@
 		"attack" : 162,
 		"defense" : 160,
 		"speed" : 220,
-		"xp" : 1232,
+		"exp" : 1232,
 		"gold" : 112,
 		"items" : [
 			"Robe chatoyante"
@@ -4776,10 +5068,12 @@
 	},
 	{
 		"id" : 145,
-		"imgFileName" : "145.png",
+		"imgPath" : "img/monsters/145.png",
 		"name" : {
 			"en" : "Prince of darkness",
-			"fr" : "Prince des ténèbres"
+			"es" : "?Prince of darkness",
+			"fr" : "Prince des ténèbres",
+			"jp" : "?Prince des ténèbres"
 		},
 		"type" : "enemy",
 		"hp" : 200,
@@ -4787,7 +5081,7 @@
 		"attack" : 172,
 		"defense" : 95,
 		"speed" : 70,
-		"xp" : 684,
+		"exp" : 684,
 		"gold" : 226,
 		"items" : [
 			"Bâton d'antimagie"
@@ -4807,10 +5101,12 @@
 	},
 	{
 		"id" : 146,
-		"imgFileName" : "146.png",
+		"imgPath" : "img/monsters/146.png",
 		"name" : {
 			"en" : "Dragooner",
-			"fr" : "Cavalier des enfers"
+			"es" : "?Dragooner",
+			"fr" : "Cavalier des enfers",
+			"jp" : "?Cavalier des enfers"
 		},
 		"type" : "enemy",
 		"hp" : 300,
@@ -4818,7 +5114,7 @@
 		"attack" : 175,
 		"defense" : 90,
 		"speed" : 75,
-		"xp" : 740,
+		"exp" : 740,
 		"gold" : 169,
 		"items" : [
 			"Fléau des dragons"
@@ -4839,10 +5135,12 @@
 	},
 	{
 		"id" : 147,
-		"imgFileName" : "147.png",
+		"imgPath" : "img/monsters/147.png",
 		"name" : {
 			"en" : "Emperor wyvern",
-			"fr" : "Wyvereine"
+			"es" : "?Emperor wyvern",
+			"fr" : "Wyvereine",
+			"jp" : "?Wyvereine"
 		},
 		"type" : "enemy",
 		"hp" : 400,
@@ -4850,7 +5148,7 @@
 		"attack" : 195,
 		"defense" : 90,
 		"speed" : 67,
-		"xp" : 786,
+		"exp" : 786,
 		"gold" : 254,
 		"items" : [
 			"Graine d'agilité"
@@ -4871,10 +5169,12 @@
 	},
 	{
 		"id" : 148,
-		"imgFileName" : "148.png",
+		"imgPath" : "img/monsters/148.png",
 		"name" : {
 			"en" : "Demonspawn",
-			"fr" : "Rejeton du démon"
+			"es" : "?Demonspawn",
+			"fr" : "Rejeton du démon",
+			"jp" : "?Rejeton du démon"
 		},
 		"type" : "enemy",
 		"hp" : 180,
@@ -4882,7 +5182,7 @@
 		"attack" : 135,
 		"defense" : 170,
 		"speed" : 80,
-		"xp" : 586,
+		"exp" : 586,
 		"gold" : 247,
 		"items" : [
 			"Manteau d'esquive"
@@ -4902,10 +5202,12 @@
 	},
 	{
 		"id" : 149,
-		"imgFileName" : "149.png",
+		"imgPath" : "img/monsters/149.png",
 		"name" : {
 			"en" : "Night rider",
-			"fr" : "Cavalier nocturne"
+			"es" : "?Night rider",
+			"fr" : "Cavalier nocturne",
+			"jp" : "?Cavalier nocturne"
 		},
 		"type" : "enemy",
 		"hp" : 300,
@@ -4913,7 +5215,7 @@
 		"attack" : 200,
 		"defense" : 170,
 		"speed" : 71,
-		"xp" : 1678,
+		"exp" : 1678,
 		"gold" : 20,
 		"items" : [
 			"Épée double"
@@ -4933,10 +5235,12 @@
 	},
 	{
 		"id" : 150,
-		"imgFileName" : "150.png",
+		"imgPath" : "img/monsters/150.png",
 		"name" : {
 			"en" : "Night clubber",
-			"fr" : "Bastonnier"
+			"es" : "?Night clubber",
+			"fr" : "Bastonnier",
+			"jp" : "?Bastonnier"
 		},
 		"type" : "enemy",
 		"hp" : 330,
@@ -4944,7 +5248,7 @@
 		"attack" : 19,
 		"defense" : 43,
 		"speed" : 22,
-		"xp" : 1023,
+		"exp" : 1023,
 		"gold" : 137,
 		"items" : [
 			"Massue de chêne"
@@ -4963,10 +5267,12 @@
 	},
 	{
 		"id" : 151,
-		"imgFileName" : "151.png",
+		"imgPath" : "img/monsters/151.png",
 		"name" : {
 			"en" : "Knightshade",
-			"fr" : "Chevalier nébuleux"
+			"es" : "?Knightshade",
+			"fr" : "Chevalier nébuleux",
+			"jp" : "?Chevalier nébuleux"
 		},
 		"type" : "enemy",
 		"hp" : 200,
@@ -4974,7 +5280,7 @@
 		"attack" : 132,
 		"defense" : 130,
 		"speed" : 78,
-		"xp" : 450,
+		"exp" : 450,
 		"gold" : 92,
 		"items" : [
 			"Épée ardente"
@@ -4993,10 +5299,12 @@
 	},
 	{
 		"id" : 152,
-		"imgFileName" : "152.png",
+		"imgPath" : "img/monsters/152.png",
 		"name" : {
 			"en" : "Decayurion",
-			"fr" : "Légionellos"
+			"es" : "?Decayurion",
+			"fr" : "Légionellos",
+			"jp" : "?Légionellos"
 		},
 		"type" : "enemy",
 		"hp" : 350,
@@ -5004,7 +5312,7 @@
 		"attack" : 125,
 		"defense" : 75,
 		"speed" : 70,
-		"xp" : 563,
+		"exp" : 563,
 		"gold" : 72,
 		"items" : [
 			"Cuirasse de zombie"
@@ -5023,10 +5331,12 @@
 	},
 	{
 		"id" : 153,
-		"imgFileName" : "153.png",
+		"imgPath" : "img/monsters/153.png",
 		"name" : {
 			"en" : "Bloody hand",
-			"fr" : "Main sanglante"
+			"es" : "?Bloody hand",
+			"fr" : "Main sanglante",
+			"jp" : "?Main sanglante"
 		},
 		"type" : "enemy",
 		"hp" : 185,
@@ -5034,7 +5344,7 @@
 		"attack" : 125,
 		"defense" : 60,
 		"speed" : 112,
-		"xp" : 347,
+		"exp" : 347,
 		"gold" : 50,
 		"items" : [
 			"Brassard d'or"
@@ -5053,10 +5363,12 @@
 	},
 	{
 		"id" : 154,
-		"imgFileName" : "154.png",
+		"imgPath" : "img/monsters/154.png",
 		"name" : {
 			"en" : "Demon thunderer",
-			"fr" : "Démon orageux"
+			"es" : "?Demon thunderer",
+			"fr" : "Démon orageux",
+			"jp" : "?Démon orageux"
 		},
 		"type" : "enemy",
 		"hp" : 259,
@@ -5064,7 +5376,7 @@
 		"attack" : 142,
 		"defense" : 100,
 		"speed" : 91,
-		"xp" : 480,
+		"exp" : 480,
 		"gold" : 95,
 		"items" : [
 			"Graine de vitalité"
@@ -5083,10 +5395,12 @@
 	},
 	{
 		"id" : 155,
-		"imgFileName" : "155.png",
+		"imgPath" : "img/monsters/155.png",
 		"name" : {
 			"en" : "Draguar",
-			"fr" : "Draguar"
+			"es" : "?Draguar",
+			"fr" : "Draguar",
+			"jp" : "?Draguar"
 		},
 		"type" : "enemy",
 		"hp" : 352,
@@ -5094,7 +5408,7 @@
 		"attack" : 165,
 		"defense" : 110,
 		"speed" : 102,
-		"xp" : 543,
+		"exp" : 543,
 		"gold" : 102,
 		"items" : [
 			"Graine d'agilité"
@@ -5113,10 +5427,12 @@
 	},
 	{
 		"id" : 156,
-		"imgFileName" : "156.png",
+		"imgPath" : "img/monsters/156.png",
 		"name" : {
 			"en" : "Juggular",
-			"fr" : "Saltimbranque"
+			"es" : "?Juggular",
+			"fr" : "Saltimbranque",
+			"jp" : "?Saltimbranque"
 		},
 		"type" : "enemy",
 		"hp" : 375,
@@ -5124,7 +5440,7 @@
 		"attack" : 188,
 		"defense" : 120,
 		"speed" : 105,
-		"xp" : 680,
+		"exp" : 680,
 		"gold" : 142,
 		"items" : [
 			"Brassard de choc"
@@ -5143,10 +5459,12 @@
 	},
 	{
 		"id" : 157,
-		"imgFileName" : "157.png",
+		"imgPath" : "img/monsters/157.png",
 		"name" : {
 			"en" : "Cerberuff",
-			"fr" : "Cerberk"
+			"es" : "?Cerberuff",
+			"fr" : "Cerberk",
+			"jp" : "?Cerberk"
 		},
 		"type" : "enemy",
 		"hp" : 300,
@@ -5154,7 +5472,7 @@
 		"attack" : 175,
 		"defense" : 130,
 		"speed" : 123,
-		"xp" : 435,
+		"exp" : 435,
 		"gold" : 95,
 		"items" : [
 			"Sac de musc"
@@ -5173,10 +5491,12 @@
 	},
 	{
 		"id" : 158,
-		"imgFileName" : "158.png",
+		"imgPath" : "img/monsters/158.png",
 		"name" : {
 			"en" : "Gnucifer",
-			"fr" : "Satanglier"
+			"es" : "?Gnucifer",
+			"fr" : "Satanglier",
+			"jp" : "?Satanglier"
 		},
 		"type" : "enemy",
 		"hp" : 360,
@@ -5184,7 +5504,7 @@
 		"attack" : 180,
 		"defense" : 135,
 		"speed" : 83,
-		"xp" : 685,
+		"exp" : 685,
 		"gold" : 121,
 		"items" : [
 			"Masque d'Hadès"
@@ -5203,10 +5523,12 @@
 	},
 	{
 		"id" : 159,
-		"imgFileName" : "159.png",
+		"imgPath" : "img/monsters/159.png",
 		"name" : {
 			"en" : "Div",
-			"fr" : "Stryge"
+			"es" : "?Div",
+			"fr" : "Stryge",
+			"jp" : "?Stryge"
 		},
 		"type" : "enemy",
 		"hp" : 380,
@@ -5214,7 +5536,7 @@
 		"attack" : 180,
 		"defense" : 160,
 		"speed" : 125,
-		"xp" : 712,
+		"exp" : 712,
 		"gold" : 160,
 		"items" : [
 			"Graine d'agilité"
@@ -5233,10 +5555,12 @@
 	},
 	{
 		"id" : 160,
-		"imgFileName" : "160.png",
+		"imgPath" : "img/monsters/160.png",
 		"name" : {
 			"en" : "Prism peacock",
-			"fr" : "Dark-en-ciel"
+			"es" : "?Prism peacock",
+			"fr" : "Dark-en-ciel",
+			"jp" : "?Dark-en-ciel"
 		},
 		"type" : "enemy",
 		"hp" : 456,
@@ -5244,7 +5568,7 @@
 		"attack" : 200,
 		"defense" : 150,
 		"speed" : 95,
-		"xp" : 885,
+		"exp" : 885,
 		"gold" : 155,
 		"items" : [
 			"Graine de magie"
@@ -5263,10 +5587,12 @@
 	},
 	{
 		"id" : 161,
-		"imgFileName" : "161.png",
+		"imgPath" : "img/monsters/161.png",
 		"name" : {
 			"en" : "Testudogre",
-			"fr" : "Métallogre"
+			"es" : "?Testudogre",
+			"fr" : "Métallogre",
+			"jp" : "?Métallogre"
 		},
 		"type" : "enemy",
 		"hp" : 360,
@@ -5274,7 +5600,7 @@
 		"attack" : 195,
 		"defense" : 135,
 		"speed" : 115,
-		"xp" : 750,
+		"exp" : 750,
 		"gold" : 200,
 		"items" : [
 			"Armure de hela"
@@ -5293,10 +5619,12 @@
 	},
 	{
 		"id" : 162,
-		"imgFileName" : "162.png",
+		"imgPath" : "img/monsters/162.png",
 		"name" : {
 			"en" : "Drakulard",
-			"fr" : "Draculard"
+			"es" : "?Drakulard",
+			"fr" : "Draculard",
+			"jp" : "?Draculard"
 		},
 		"type" : "enemy",
 		"hp" : 520,
@@ -5304,7 +5632,7 @@
 		"attack" : 220,
 		"defense" : 130,
 		"speed" : 82,
-		"xp" : 935,
+		"exp" : 935,
 		"gold" : 130,
 		"items" : [
 			"Graine de vie"
@@ -5323,10 +5651,12 @@
 	},
 	{
 		"id" : 163,
-		"imgFileName" : "163.png",
+		"imgPath" : "img/monsters/163.png",
 		"name" : {
 			"en" : "Togre",
-			"fr" : "Togre"
+			"es" : "?Togre",
+			"fr" : "Togre",
+			"jp" : "?Togre"
 		},
 		"type" : "enemy",
 		"hp" : 440,
@@ -5334,7 +5664,7 @@
 		"attack" : 203,
 		"defense" : 135,
 		"speed" : 102,
-		"xp" : 525,
+		"exp" : 525,
 		"gold" : 142,
 		"items" : [
 			"Armure de piques"
@@ -5353,10 +5683,12 @@
 	},
 	{
 		"id" : 164,
-		"imgFileName" : "164.png",
+		"imgPath" : "img/monsters/164.png",
 		"name" : {
 			"en" : "High djinks",
-			"fr" : "Djinn-fizz"
+			"es" : "?High djinks",
+			"fr" : "Djinn-fizz",
+			"jp" : "?Djinn-fizz"
 		},
 		"type" : "enemy",
 		"hp" : 350,
@@ -5364,7 +5696,7 @@
 		"attack" : 170,
 		"defense" : 105,
 		"speed" : 88,
-		"xp" : 710,
+		"exp" : 710,
 		"gold" : 117,
 		"items" : [
 			"Caleçon"
@@ -5383,10 +5715,12 @@
 	},
 	{
 		"id" : 165,
-		"imgFileName" : "165.png",
+		"imgPath" : "img/monsters/165.png",
 		"name" : {
 			"en" : "Perilwinkle",
-			"fr" : "Bicorneau"
+			"es" : "?Perilwinkle",
+			"fr" : "Bicorneau",
+			"jp" : "?Bicorneau"
 		},
 		"type" : "enemy",
 		"hp" : 190,
@@ -5394,7 +5728,7 @@
 		"attack" : 133,
 		"defense" : 180,
 		"speed" : 62,
-		"xp" : 356,
+		"exp" : 356,
 		"gold" : 83,
 		"items" : [
 			"Graine de sagesse"
@@ -5413,10 +5747,12 @@
 	},
 	{
 		"id" : 166,
-		"imgFileName" : "166.png",
+		"imgPath" : "img/monsters/166.png",
 		"name" : {
 			"en" : "Shelligator",
-			"fr" : "Alligatortue"
+			"es" : "?Shelligator",
+			"fr" : "Alligatortue",
+			"jp" : "?Alligatortue"
 		},
 		"type" : "enemy",
 		"hp" : 170,
@@ -5424,7 +5760,7 @@
 		"attack" : 165,
 		"defense" : 140,
 		"speed" : 106,
-		"xp" : 415,
+		"exp" : 415,
 		"gold" : 77,
 		"items" : [
 			"Lance du démon"
@@ -5443,10 +5779,12 @@
 	},
 	{
 		"id" : 167,
-		"imgFileName" : "167.png",
+		"imgPath" : "img/monsters/167.png",
 		"name" : {
 			"en" : "Croaked king",
-			"fr" : "Roi crôa"
+			"es" : "?Croaked king",
+			"fr" : "Roi crôa",
+			"jp" : "?Roi crôa"
 		},
 		"type" : "enemy",
 		"hp" : 400,
@@ -5454,7 +5792,7 @@
 		"attack" : 190,
 		"defense" : 93,
 		"speed" : 88,
-		"xp" : 740,
+		"exp" : 740,
 		"gold" : 110,
 		"items" : [
 			"Bague de prière"
@@ -5473,10 +5811,12 @@
 	},
 	{
 		"id" : 168,
-		"imgFileName" : "168.png",
+		"imgPath" : "img/monsters/168.png",
 		"name" : {
 			"en" : "Seasaur",
-			"fr" : "Aquasaure"
+			"es" : "?Seasaur",
+			"fr" : "Aquasaure",
+			"jp" : "?Aquasaure"
 		},
 		"type" : "enemy",
 		"hp" : 450,
@@ -5484,7 +5824,7 @@
 		"attack" : 240,
 		"defense" : 92,
 		"speed" : 90,
-		"xp" : 640,
+		"exp" : 640,
 		"gold" : 150,
 		"items" : [
 			"Graine de force"
@@ -5503,10 +5843,12 @@
 	},
 	{
 		"id" : 169,
-		"imgFileName" : "169.png",
+		"imgPath" : "img/monsters/169.png",
 		"name" : {
 			"en" : "Platinum king jewel",
-			"fr" : "Bijou royal en platine"
+			"es" : "?Platinum king jewel",
+			"fr" : "Bijou royal en platine",
+			"jp" : "?Bijou royal en platine"
 		},
 		"type" : "enemy",
 		"hp" : 200,
@@ -5514,7 +5856,7 @@
 		"attack" : 210,
 		"defense" : 800,
 		"speed" : 255,
-		"xp" : 65000,
+		"exp" : 65000,
 		"gold" : 700,
 		"items" : [
 			"Brassard de conjuration"
@@ -5533,10 +5875,12 @@
 	},
 	{
 		"id" : 170,
-		"imgFileName" : "170.png",
+		"imgPath" : "img/monsters/170.png",
 		"name" : {
 			"en" : "Cannibox",
-			"fr" : "Canniboîte"
+			"es" : "?Cannibox",
+			"fr" : "Canniboîte",
+			"jp" : "?Canniboîte"
 		},
 		"type" : "enemy",
 		"hp" : 100,
@@ -5544,7 +5888,7 @@
 		"attack" : 140,
 		"defense" : 55,
 		"speed" : 62,
-		"xp" : 150,
+		"exp" : 150,
 		"gold" : 25,
 		"items" : [
 			"Cottes de mailles"
@@ -5563,10 +5907,12 @@
 	},
 	{
 		"id" : 171,
-		"imgFileName" : "171.png",
+		"imgPath" : "img/monsters/171.png",
 		"name" : {
 			"en" : "Mimic",
-			"fr" : "Imitapeur"
+			"es" : "?Mimic",
+			"fr" : "Imitapeur",
+			"jp" : "?Imitapeur"
 		},
 		"type" : "enemy",
 		"hp" : 190,
@@ -5574,7 +5920,7 @@
 		"attack" : 120,
 		"defense" : 72,
 		"speed" : 70,
-		"xp" : 350,
+		"exp" : 350,
 		"gold" : 48,
 		"items" : [
 			"Costume de danseuse"
@@ -5597,10 +5943,12 @@
 	},
 	{
 		"id" : 172,
-		"imgFileName" : "172.png",
+		"imgPath" : "img/monsters/172.png",
 		"name" : {
 			"en" : "Pandora's box",
-			"fr" : "Boîte de Pandore"
+			"es" : "?Pandora's box",
+			"fr" : "Boîte de Pandore",
+			"jp" : "?Boîte de Pandore"
 		},
 		"type" : "enemy",
 		"hp" : 900,
@@ -5608,7 +5956,7 @@
 		"attack" : 240,
 		"defense" : 200,
 		"speed" : 131,
-		"xp" : 1250,
+		"exp" : 1250,
 		"gold" : 280,
 		"items" : [
 			"Body rose"
@@ -5627,10 +5975,12 @@
 	},
 	{
 		"id" : 173,
-		"imgFileName" : "173.png",
+		"imgPath" : "img/monsters/173.png",
 		"name" : {
 			"en" : "Scarewell",
-			"fr" : "Puisard"
+			"es" : "?Scarewell",
+			"fr" : "Puisard",
+			"jp" : "?Puisard"
 		},
 		"type" : "enemy",
 		"hp" : 120,
@@ -5638,7 +5988,7 @@
 		"attack" : 75,
 		"defense" : 70,
 		"speed" : 65,
-		"xp" : 350,
+		"exp" : 350,
 		"gold" : 100,
 		"items" : [
 			"Rubis de protection"
@@ -5657,10 +6007,12 @@
 	},
 	{
 		"id" : 174,
-		"imgFileName" : "174.png",
+		"imgPath" : "img/monsters/174.png",
 		"name" : {
 			"en" : "Well wisher",
-			"fr" : "Puits-sang"
+			"es" : "?Well wisher",
+			"fr" : "Puits-sang",
+			"jp" : "?Puits-sang"
 		},
 		"type" : "enemy",
 		"hp" : 210,
@@ -5668,7 +6020,7 @@
 		"attack" : 120,
 		"defense" : 75,
 		"speed" : 61,
-		"xp" : 574,
+		"exp" : 574,
 		"gold" : 67,
 		"items" : [
 			"Graine de force"
@@ -5687,10 +6039,12 @@
 	},
 	{
 		"id" : 175,
-		"imgFileName" : "175.png",
+		"imgPath" : "img/monsters/175.png",
 		"name" : {
 			"en" : "Man o' war",
-			"fr" : "Méduse"
+			"es" : "?Man o' war",
+			"fr" : "Méduse",
+			"jp" : "?Méduse"
 		},
 		"type" : "enemy",
 		"hp" : 40,
@@ -5698,7 +6052,7 @@
 		"attack" : 35,
 		"defense" : 15,
 		"speed" : 20,
-		"xp" : 35,
+		"exp" : 35,
 		"gold" : 12,
 		"items" : [
 			"Botryche lunaire"
@@ -5717,10 +6071,12 @@
 	},
 	{
 		"id" : 176,
-		"imgFileName" : "176.png",
+		"imgPath" : "img/monsters/176.png",
 		"name" : {
 			"en" : "Glugworm",
-			"fr" : "Ver mine"
+			"es" : "?Glugworm",
+			"fr" : "Ver mine",
+			"jp" : "?Ver mine"
 		},
 		"type" : "enemy",
 		"hp" : 90,
@@ -5728,7 +6084,7 @@
 		"attack" : 65,
 		"defense" : 30,
 		"speed" : 41,
-		"xp" : 94,
+		"exp" : 94,
 		"gold" : 29,
 		"items" : [
 			"Herbe médicinale"
@@ -5747,10 +6103,12 @@
 	},
 	{
 		"id" : 177,
-		"imgFileName" : "177.png",
+		"imgPath" : "img/monsters/177.png",
 		"name" : {
 			"en" : "Strangler fish",
-			"fr" : "Saumonstrueux"
+			"es" : "?Strangler fish",
+			"fr" : "Saumonstrueux",
+			"jp" : "?Saumonstrueux"
 		},
 		"type" : "enemy",
 		"hp" : 55,
@@ -5758,7 +6116,7 @@
 		"attack" : 58,
 		"defense" : 30,
 		"speed" : 50,
-		"xp" : 80,
+		"exp" : 80,
 		"gold" : 43,
 		"items" : [
 			"Faucille à chaîne"
@@ -5777,10 +6135,12 @@
 	},
 	{
 		"id" : 178,
-		"imgFileName" : "178.png",
+		"imgPath" : "img/monsters/178.png",
 		"name" : {
 			"en" : "Axolotl",
-			"fr" : "Axolotl"
+			"es" : "?Axolotl",
+			"fr" : "Axolotl",
+			"jp" : "?Axolotl"
 		},
 		"type" : "enemy",
 		"hp" : 64,
@@ -5788,7 +6148,7 @@
 		"attack" : 73,
 		"defense" : 40,
 		"speed" : 25,
-		"xp" : 113,
+		"exp" : 113,
 		"gold" : 60,
 		"items" : [
 			"Bâton de cyprès"
@@ -5807,10 +6167,12 @@
 	},
 	{
 		"id" : 179,
-		"imgFileName" : "179.png",
+		"imgPath" : "img/monsters/179.png",
 		"name" : {
 			"en" : "Preying manta",
-			"fr" : "Raie pulsive"
+			"es" : "?Preying manta",
+			"fr" : "Raie pulsive",
+			"jp" : "?Raie pulsive"
 		},
 		"type" : "enemy",
 		"hp" : 40,
@@ -5818,7 +6180,7 @@
 		"attack" : 50,
 		"defense" : 45,
 		"speed" : 23,
-		"xp" : 70,
+		"exp" : 70,
 		"gold" : 24,
 		"items" : [
 			"Graine de vie"
@@ -5837,10 +6199,12 @@
 	},
 	{
 		"id" : 180,
-		"imgFileName" : "180.png",
+		"imgPath" : "img/monsters/180.png",
 		"name" : {
 			"en" : "Barracuda",
-			"fr" : "Barracuda"
+			"es" : "?Barracuda",
+			"fr" : "Barracuda",
+			"jp" : "?Barracuda"
 		},
 		"type" : "enemy",
 		"hp" : 47,
@@ -5848,7 +6212,7 @@
 		"attack" : 6,
 		"defense" : 20,
 		"speed" : 10,
-		"xp" : 75,
+		"exp" : 75,
 		"gold" : 33,
 		"items" : [
 			"Heaume de fer"
@@ -5867,10 +6231,12 @@
 	},
 	{
 		"id" : 181,
-		"imgFileName" : "181.png",
+		"imgPath" : "img/monsters/181.png",
 		"name" : {
 			"en" : "Pterygotus",
-			"fr" : "Pterygotus"
+			"es" : "?Pterygotus",
+			"fr" : "Pterygotus",
+			"jp" : "?Pterygotus"
 		},
 		"type" : "enemy",
 		"hp" : 44,
@@ -5878,7 +6244,7 @@
 		"attack" : 52,
 		"defense" : 115,
 		"speed" : 40,
-		"xp" : 95,
+		"exp" : 95,
 		"gold" : 25,
 		"items" : [
 			"Masque de fer"
@@ -5897,10 +6263,12 @@
 	},
 	{
 		"id" : 182,
-		"imgFileName" : "182.png",
+		"imgPath" : "img/monsters/182.png",
 		"name" : {
 			"en" : "Devilfish",
-			"fr" : "Poulpotrompe"
+			"es" : "?Devilfish",
+			"fr" : "Poulpotrompe",
+			"jp" : "?Poulpotrompe"
 		},
 		"type" : "enemy",
 		"hp" : 120,
@@ -5908,7 +6276,7 @@
 		"attack" : 53,
 		"defense" : 12,
 		"speed" : 29,
-		"xp" : 120,
+		"exp" : 120,
 		"gold" : 72,
 		"items" : [
 			"Arc de chasseur"
@@ -5927,10 +6295,12 @@
 	},
 	{
 		"id" : 183,
-		"imgFileName" : "183.png",
+		"imgPath" : "img/monsters/183.png",
 		"name" : {
 			"en" : "Mangler fish",
-			"fr" : "Rascrasse"
+			"es" : "?Mangler fish",
+			"fr" : "Rascrasse",
+			"jp" : "?Rascrasse"
 		},
 		"type" : "enemy",
 		"hp" : 90,
@@ -5938,7 +6308,7 @@
 		"attack" : 81,
 		"defense" : 42,
 		"speed" : 51,
-		"xp" : 155,
+		"exp" : 155,
 		"gold" : 72,
 		"items" : [
 			"Botryche lunaire"
@@ -5957,10 +6327,12 @@
 	},
 	{
 		"id" : 184,
-		"imgFileName" : "184.png",
+		"imgPath" : "img/monsters/184.png",
 		"name" : {
 			"en" : "Maulrus",
-			"fr" : "Matamorse"
+			"es" : "?Maulrus",
+			"fr" : "Matamorse",
+			"jp" : "?Matamorse"
 		},
 		"type" : "enemy",
 		"hp" : 150,
@@ -5968,7 +6340,7 @@
 		"attack" : 98,
 		"defense" : 50,
 		"speed" : 30,
-		"xp" : 140,
+		"exp" : 140,
 		"gold" : 80,
 		"items" : [
 			"Dague de glace"
@@ -5987,10 +6359,12 @@
 	},
 	{
 		"id" : 185,
-		"imgFileName" : "185.png",
+		"imgPath" : "img/monsters/185.png",
 		"name" : {
 			"en" : "Woolungasaurus",
-			"fr" : "Elasmosaure"
+			"es" : "?Woolungasaurus",
+			"fr" : "Elasmosaure",
+			"jp" : "?Elasmosaure"
 		},
 		"type" : "enemy",
 		"hp" : 48,
@@ -5998,7 +6372,7 @@
 		"attack" : 42,
 		"defense" : 33,
 		"speed" : 26,
-		"xp" : 65,
+		"exp" : 65,
 		"gold" : 38,
 		"items" : [
 			"Dagues d'oreilles"
@@ -6017,10 +6391,12 @@
 	},
 	{
 		"id" : 186,
-		"imgFileName" : "186.png",
+		"imgPath" : "img/monsters/186.png",
 		"name" : {
 			"en" : "Sand viper",
-			"fr" : "Vipère des sables"
+			"es" : "?Sand viper",
+			"fr" : "Vipère des sables",
+			"jp" : "?Vipère des sables"
 		},
 		"type" : "enemy",
 		"hp" : 130,
@@ -6028,7 +6404,7 @@
 		"attack" : 85,
 		"defense" : 63,
 		"speed" : 38,
-		"xp" : 170,
+		"exp" : 170,
 		"gold" : 124,
 		"items" : [
 			"Tiare d'or"
@@ -6048,10 +6424,12 @@
 	},
 	{
 		"id" : 187,
-		"imgFileName" : "187.png",
+		"imgPath" : "img/monsters/187.png",
 		"name" : {
 			"en" : "Ultraviolent ray",
-			"fr" : "Massacraie"
+			"es" : "?Ultraviolent ray",
+			"fr" : "Massacraie",
+			"jp" : "?Massacraie"
 		},
 		"type" : "enemy",
 		"hp" : 72,
@@ -6059,7 +6437,7 @@
 		"attack" : 72,
 		"defense" : 35,
 		"speed" : 39,
-		"xp" : 103,
+		"exp" : 103,
 		"gold" : 48,
 		"items" : [
 			"Graine d'agilité"
@@ -6078,10 +6456,12 @@
 	},
 	{
 		"id" : 188,
-		"imgFileName" : "188.png",
+		"imgPath" : "img/monsters/188.png",
 		"name" : {
 			"en" : "Terrornodon",
-			"fr" : "Pterroridactyle"
+			"es" : "?Terrornodon",
+			"fr" : "Pterroridactyle",
+			"jp" : "?Pterroridactyle"
 		},
 		"type" : "enemy",
 		"hp" : 105,
@@ -6089,7 +6469,7 @@
 		"attack" : 115,
 		"defense" : 105,
 		"speed" : 60,
-		"xp" : 187,
+		"exp" : 187,
 		"gold" : 70,
 		"items" : [
 			"Graine de magie"
@@ -6108,10 +6488,12 @@
 	},
 	{
 		"id" : 189,
-		"imgFileName" : "189.png",
+		"imgPath" : "img/monsters/189.png",
 		"name" : {
 			"en" : "Spinchilla",
-			"fr" : "Glacyclone"
+			"es" : "?Spinchilla",
+			"fr" : "Glacyclone",
+			"jp" : "?Glacyclone"
 		},
 		"type" : "enemy",
 		"hp" : 100,
@@ -6119,7 +6501,7 @@
 		"attack" : 74,
 		"defense" : 120,
 		"speed" : 42,
-		"xp" : 180,
+		"exp" : 180,
 		"gold" : 84,
 		"items" : [
 			"Manteau d'esquive"
@@ -6140,10 +6522,12 @@
 	},
 	{
 		"id" : 190,
-		"imgFileName" : "190.png",
+		"imgPath" : "img/monsters/190.png",
 		"name" : {
 			"en" : "Picuda",
-			"fr" : "Mégacuda"
+			"es" : "?Picuda",
+			"fr" : "Mégacuda",
+			"jp" : "?Mégacuda"
 		},
 		"type" : "enemy",
 		"hp" : 120,
@@ -6151,7 +6535,7 @@
 		"attack" : 88,
 		"defense" : 77,
 		"speed" : 47,
-		"xp" : 165,
+		"exp" : 165,
 		"gold" : 69,
 		"items" : [
 			"Éventail de fer"
@@ -6172,10 +6556,12 @@
 	},
 	{
 		"id" : 191,
-		"imgFileName" : "191.png",
+		"imgPath" : "img/monsters/191.png",
 		"name" : {
 			"en" : "Dangler fish",
-			"fr" : "Charpiranha"
+			"es" : "?Dangler fish",
+			"fr" : "Charpiranha",
+			"jp" : "?Charpiranha"
 		},
 		"type" : "enemy",
 		"hp" : 35,
@@ -6183,7 +6569,7 @@
 		"attack" : 39,
 		"defense" : 30,
 		"speed" : 25,
-		"xp" : 48,
+		"exp" : 48,
 		"gold" : 30,
 		"items" : [
 			"Fiole d'eau magique"
@@ -6202,10 +6588,12 @@
 	},
 	{
 		"id" : 192,
-		"imgFileName" : "192.png",
+		"imgPath" : "img/monsters/192.png",
 		"name" : {
 			"en" : "Octophant",
-			"fr" : "Calaphant"
+			"es" : "?Octophant",
+			"fr" : "Calaphant",
+			"jp" : "?Calaphant"
 		},
 		"type" : "enemy",
 		"hp" : 300,
@@ -6213,7 +6601,7 @@
 		"attack" : 75,
 		"defense" : 30,
 		"speed" : 30,
-		"xp" : 208,
+		"exp" : 208,
 		"gold" : 98,
 		"items" : [
 			"Graine de vie"
@@ -6234,10 +6622,12 @@
 	},
 	{
 		"id" : 193,
-		"imgFileName" : "193.png",
+		"imgPath" : "img/monsters/193.png",
 		"name" : {
 			"en" : "Incineraytor",
-			"fr" : "Incinéraiteur"
+			"es" : "?Incineraytor",
+			"fr" : "Incinéraiteur",
+			"jp" : "?Incinéraiteur"
 		},
 		"type" : "enemy",
 		"hp" : 98,
@@ -6245,7 +6635,7 @@
 		"attack" : 110,
 		"defense" : 70,
 		"speed" : 62,
-		"xp" : 221,
+		"exp" : 221,
 		"gold" : 100,
 		"items" : [
 			"Bouclier de fer"
@@ -6266,10 +6656,12 @@
 	},
 	{
 		"id" : 194,
-		"imgFileName" : "194.png",
+		"imgPath" : "img/monsters/194.png",
 		"name" : {
 			"en" : "Tuskateer",
-			"fr" : "Misamorse"
+			"es" : "?Tuskateer",
+			"fr" : "Misamorse",
+			"jp" : "?Misamorse"
 		},
 		"type" : "enemy",
 		"hp" : 150,
@@ -6277,7 +6669,7 @@
 		"attack" : 55,
 		"defense" : 25,
 		"speed" : 25,
-		"xp" : 98,
+		"exp" : 98,
 		"gold" : 55,
 		"items" : [
 			"Aile de chimère"
@@ -6297,10 +6689,12 @@
 	},
 	{
 		"id" : 195,
-		"imgFileName" : "195.png",
+		"imgPath" : "img/monsters/195.png",
 		"name" : {
 			"en" : "Psaro's Pawn",
-			"fr" : "Sbire de Psaro"
+			"es" : "?Psaro's Pawn",
+			"fr" : "Sbire de Psaro",
+			"jp" : "?Sbire de Psaro"
 		},
 		"type" : "boss",
 		"hp" : 250,
@@ -6308,7 +6702,7 @@
 		"attack" : 52,
 		"defense" : 36,
 		"speed" : 16,
-		"xp" : 73,
+		"exp" : 73,
 		"gold" : 60,
 		"items" : [],
 		"zone" : [
@@ -6325,10 +6719,12 @@
 	},
 	{
 		"id" : 196,
-		"imgFileName" : "196.png",
+		"imgPath" : "img/monsters/196.png",
 		"name" : {
 			"en" : "Master Kung",
-			"fr" : "Maître Kung"
+			"es" : "?Master Kung",
+			"fr" : "Maître Kung",
+			"jp" : "?Maître Kung"
 		},
 		"type" : "boss",
 		"hp" : 40,
@@ -6336,7 +6732,7 @@
 		"attack" : 28,
 		"defense" : 28,
 		"speed" : 50,
-		"xp" : 136,
+		"exp" : 136,
 		"gold" : 60,
 		"items" : [
 			"Graine de vie"
@@ -6355,10 +6751,12 @@
 	},
 	{
 		"id" : 197,
-		"imgFileName" : "197.png",
+		"imgPath" : "img/monsters/197.png",
 		"name" : {
 			"en" : "Abominable showman",
-			"fr" : "Abominhomme des neiges"
+			"es" : "?Abominable showman",
+			"fr" : "Abominhomme des neiges",
+			"jp" : "?Abominhomme des neiges"
 		},
 		"type" : "boss",
 		"hp" : 55,
@@ -6366,7 +6764,7 @@
 		"attack" : 40,
 		"defense" : 60,
 		"speed" : 75,
-		"xp" : 0,
+		"exp" : 0,
 		"gold" : 0,
 		"items" : [],
 		"zone" : [
@@ -6383,10 +6781,12 @@
 	},
 	{
 		"id" : 198,
-		"imgFileName" : "198.png",
+		"imgPath" : "img/monsters/198.png",
 		"name" : {
 			"en" : "Balzack",
-			"fr" : "Dickenz"
+			"es" : "?Balzack",
+			"fr" : "Dickenz",
+			"jp" : "?Dickenz"
 		},
 		"type" : "boss",
 		"hp" : 300,
@@ -6394,7 +6794,7 @@
 		"attack" : 72,
 		"defense" : 36,
 		"speed" : 22,
-		"xp" : 500,
+		"exp" : 500,
 		"gold" : 0,
 		"items" : [],
 		"zone" : [
@@ -6411,10 +6811,12 @@
 	},
 	{
 		"id" : 199,
-		"imgFileName" : "199.png",
+		"imgPath" : "img/monsters/199.png",
 		"name" : {
 			"en" : "Tricksy",
-			"fr" : "Angélus"
+			"es" : "?Tricksy",
+			"fr" : "Angélus",
+			"jp" : "?Angélus"
 		},
 		"type" : "boss",
 		"hp" : 35,
@@ -6422,7 +6824,7 @@
 		"attack" : 37,
 		"defense" : 30,
 		"speed" : 3,
-		"xp" : 450,
+		"exp" : 450,
 		"gold" : 20,
 		"items" : [],
 		"zone" : [
@@ -6439,10 +6841,12 @@
 	},
 	{
 		"id" : 200,
-		"imgFileName" : "200.png",
+		"imgPath" : "img/monsters/200.png",
 		"name" : {
 			"en" : "Tigergram",
-			"fr" : "Tigroar"
+			"es" : "?Tigergram",
+			"fr" : "Tigroar",
+			"jp" : "?Tigroar"
 		},
 		"type" : "boss",
 		"hp" : 230,
@@ -6450,7 +6854,7 @@
 		"attack" : 78,
 		"defense" : 73,
 		"speed" : 20,
-		"xp" : 2000,
+		"exp" : 2000,
 		"gold" : 350,
 		"items" : [],
 		"zone" : [
@@ -6467,10 +6871,12 @@
 	},
 	{
 		"id" : 201,
-		"imgFileName" : "201.png",
+		"imgPath" : "img/monsters/201.png",
 		"name" : {
 			"en" : "Marquis de Léon",
-			"fr" : "Lord Lionel"
+			"es" : "?Marquis de Léon",
+			"fr" : "Lord Lionel",
+			"jp" : "?Lord Lionel"
 		},
 		"type" : "boss",
 		"hp" : 950,
@@ -6478,7 +6884,7 @@
 		"attack" : 123,
 		"defense" : 80,
 		"speed" : 18,
-		"xp" : 5100,
+		"exp" : 5100,
 		"gold" : 0,
 		"items" : [
 			"Armure de plates"
@@ -6497,10 +6903,12 @@
 	},
 	{
 		"id" : 202,
-		"imgFileName" : "202.png",
+		"imgPath" : "img/monsters/202.png",
 		"name" : {
 			"en" : "Baalzack",
-			"fr" : "Déickenz"
+			"es" : "?Baalzack",
+			"fr" : "Déickenz",
+			"jp" : "?Déickenz"
 		},
 		"type" : "boss",
 		"hp" : 500,
@@ -6508,7 +6916,7 @@
 		"attack" : 150,
 		"defense" : 100,
 		"speed" : 28,
-		"xp" : 6500,
+		"exp" : 6500,
 		"gold" : 0,
 		"items" : [],
 		"zone" : [
@@ -6525,10 +6933,12 @@
 	},
 	{
 		"id" : 203,
-		"imgFileName" : "203.png",
+		"imgPath" : "img/monsters/203.png",
 		"name" : {
 			"en" : "Sir Roseguardin",
-			"fr" : "Sire Rosegarde"
+			"es" : "?Sir Roseguardin",
+			"fr" : "Sire Rosegarde",
+			"jp" : "?Sire Rosegarde"
 		},
 		"type" : "boss",
 		"hp" : 1200,
@@ -6536,7 +6946,7 @@
 		"attack" : 175,
 		"defense" : 155,
 		"speed" : 77,
-		"xp" : 6800,
+		"exp" : 6800,
 		"gold" : 0,
 		"items" : [
 			"Sphère du silence"
@@ -6555,10 +6965,12 @@
 	},
 	{
 		"id" : 204,
-		"imgFileName" : "204.png",
+		"imgPath" : "img/monsters/204.png",
 		"name" : {
 			"en" : "Rashaverak",
-			"fr" : "Rashaverak"
+			"es" : "?Rashaverak",
+			"fr" : "Rashaverak",
+			"jp" : "?Rashaverak"
 		},
 		"type" : "boss",
 		"hp" : 450,
@@ -6566,7 +6978,7 @@
 		"attack" : 193,
 		"defense" : 150,
 		"speed" : 60,
-		"xp" : 1020,
+		"exp" : 1020,
 		"gold" : 300,
 		"items" : [
 			"Bouclier du dragon"
@@ -6585,10 +6997,12 @@
 	},
 	{
 		"id" : 205,
-		"imgFileName" : "205.png",
+		"imgPath" : "img/monsters/205.png",
 		"name" : {
 			"en" : "Pruslas",
-			"fr" : "Pruslas"
+			"es" : "?Pruslas",
+			"fr" : "Pruslas",
+			"jp" : "?Pruslas"
 		},
 		"type" : "boss",
 		"hp" : 2300,
@@ -6596,7 +7010,7 @@
 		"attack" : 230,
 		"defense" : 40,
 		"speed" : 5,
-		"xp" : 4100,
+		"exp" : 4100,
 		"gold" : 250,
 		"items" : [
 			"Massue de chêne"
@@ -6615,10 +7029,12 @@
 	},
 	{
 		"id" : 206,
-		"imgFileName" : "206.png",
+		"imgPath" : "img/monsters/206.png",
 		"name" : {
 			"en" : "Barbatos",
-			"fr" : "Barbatos"
+			"es" : "?Barbatos",
+			"fr" : "Barbatos",
+			"jp" : "?Barbatos"
 		},
 		"type" : "boss",
 		"hp" : 3300,
@@ -6626,7 +7042,7 @@
 		"attack" : 190,
 		"defense" : 180,
 		"speed" : 72,
-		"xp" : 5500,
+		"exp" : 5500,
 		"gold" : 0,
 		"items" : [
 			"Épée miraculeuse"
@@ -6645,10 +7061,12 @@
 	},
 	{
 		"id" : 207,
-		"imgFileName" : "207.png",
+		"imgPath" : "img/monsters/207.png",
 		"name" : {
 			"en" : "Aamon",
-			"fr" : "Aamon"
+			"es" : "?Aamon",
+			"fr" : "Aamon",
+			"jp" : "?Aamon"
 		},
 		"type" : "boss",
 		"hp" : 1600,
@@ -6656,7 +7074,7 @@
 		"attack" : 165,
 		"defense" : 190,
 		"speed" : 99,
-		"xp" : 6300,
+		"exp" : 6300,
 		"gold" : 0,
 		"items" : [],
 		"zone" : [
@@ -6673,10 +7091,12 @@
 	},
 	{
 		"id" : 208,
-		"imgFileName" : "208.png",
+		"imgPath" : "img/monsters/208.png",
 		"name" : {
 			"en" : "Estark",
-			"fr" : "Estark"
+			"es" : "?Estark",
+			"fr" : "Estark",
+			"jp" : "?Estark"
 		},
 		"type" : "boss",
 		"hp" : 2700,
@@ -6684,7 +7104,7 @@
 		"attack" : 210,
 		"defense" : 140,
 		"speed" : 63,
-		"xp" : 15000,
+		"exp" : 15000,
 		"gold" : 0,
 		"items" : [],
 		"zone" : [
@@ -6701,10 +7121,12 @@
 	},
 	{
 		"id" : 209,
-		"imgFileName" : "209.png",
+		"imgPath" : "img/monsters/209.png",
 		"name" : {
 			"en" : "Foo Yung",
-			"fr" : "Cent-ans"
+			"es" : "?Foo Yung",
+			"fr" : "Cent-ans",
+			"jp" : "?Cent-ans"
 		},
 		"type" : "boss",
 		"hp" : 2800,
@@ -6712,7 +7134,7 @@
 		"attack" : 240,
 		"defense" : 250,
 		"speed" : 95,
-		"xp" : 12000,
+		"exp" : 12000,
 		"gold" : 850,
 		"items" : [
 			"Graine de magie"
@@ -6731,10 +7153,12 @@
 	},
 	{
 		"id" : 210,
-		"imgFileName" : "210.png",
+		"imgPath" : "img/monsters/210.png",
 		"name" : {
 			"en" : "Chow Mein",
-			"fr" : "Cinq-épices"
+			"es" : "?Chow Mein",
+			"fr" : "Cinq-épices",
+			"jp" : "?Cinq-épices"
 		},
 		"type" : "boss",
 		"hp" : 2800,
@@ -6742,7 +7166,7 @@
 		"attack" : 240,
 		"defense" : 250,
 		"speed" : 95,
-		"xp" : 12000,
+		"exp" : 12000,
 		"gold" : 850,
 		"items" : [
 			"Graine de vie"
@@ -6761,10 +7185,12 @@
 	},
 	{
 		"id" : 211,
-		"imgFileName" : "211.png",
+		"imgPath" : "img/monsters/211.png",
 		"name" : {
 			"en" : "Psaro",
-			"fr" : "Psaro"
+			"es" : "?Psaro",
+			"fr" : "Psaro",
+			"jp" : "?Psaro"
 		},
 		"type" : "boss",
 		"hp" : {
@@ -6813,7 +7239,7 @@
 			"phase6" : 80,
 			"phase7" : 80
 		},
-		"xp" : 0,
+		"exp" : 0,
 		"gold" : 0,
 		"items" : [],
 		"zone" : [
@@ -6830,10 +7256,12 @@
 	},
 	{
 		"id" : 212,
-		"imgFileName" : "212.png",
+		"imgPath" : "img/monsters/212.png",
 		"name" : {
 			"en" : "Aamon",
-			"fr" : "Aamon"
+			"es" : "?Aamon",
+			"fr" : "Aamon",
+			"jp" : "?Aamon"
 		},
 		"type" : "boss",
 		"hp" : {
@@ -6867,7 +7295,7 @@
 			"phase3" : 116,
 			"phase4" : 110
 		},
-		"xp" : 0,
+		"exp" : 0,
 		"gold" : 0,
 		"items" : [],
 		"zone" : [

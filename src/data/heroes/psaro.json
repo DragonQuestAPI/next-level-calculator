@@ -1,5 +1,6 @@
 {
 	"id": 9,
+	"imgPath" : "img/heroes/psaro.png",
 	"name": {
 		"en": "Psaro",
 		"es": "Psaro",

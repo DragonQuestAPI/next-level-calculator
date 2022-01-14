@@ -1,0 +1,90 @@
+body {
+	background-color: #fefefe;
+}
+
+main {
+	min-height: calc(100vh - var(--navbar-height));
+}
+
+form {
+	display: flex;
+	justify-content: center;
+	padding: .8rem;
+}
+form input {
+	padding: .8rem;
+	margin: .8rem;
+}
+
+form select {
+	padding: .8rem;
+	margin: .8rem;
+}
+
+/* ----------------------------------- */
+
+#monsters-container {
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+}
+
+.monster-card {
+	display: flex;
+	flex-flow: column nowrap;
+	margin: .8rem;
+	padding: .8rem;
+	max-width: 86rem;
+	/* border-radius: .2rem; */
+	background-color: var(--white);
+	box-shadow: #29292933 2px 2px 8px;
+}
+
+.monster-card hr {
+	margin: .8rem 0;
+}
+
+.monster-card .monster-box {
+	display: flex;
+	flex-flow: row nowrap;
+}
+
+.monster-box .img-container {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	margin: 2.4rem;
+	min-width: 6.4rem;
+}
+
+.monster-box .tableau{
+	display: flex;
+	flex-grow: 1;
+	flex-flow: column nowrap;
+	background-color: var(--tertiary-color);
+}
+
+.monster-box .stats-box {
+	display: flex;
+}
+.monster-box .stats-box div {
+	display: flex;
+	flex-grow: 1;
+	flex-flow: column nowrap;
+	border: solid .5px var(--white);
+}
+.monster-box .stats-box div div:first-child {
+	background-color: var(--main-color);
+}
+
+.monster-box .stats-box div div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: .8rem;
+}
+
+.tableau .itemszone-box div{
+	padding: .8rem;
+	border: solid .5px var(--white);
+}

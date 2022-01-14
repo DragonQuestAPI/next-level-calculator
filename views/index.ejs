@@ -1,17 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Dragon Quest IV API | Monsters</title>
+	<link rel="icon" href="/img/monsters/1.png">
+	<link rel="stylesheet" href="/css/styles.css">
+	<link rel="stylesheet" href="/css/navbar.css">
+	<link rel="stylesheet" href="/css/index.css">
+	<link rel="stylesheet" href="/css/footer.css">
 </head>
 <body>
-    <header>
-        <%- include("_navbar") -%>
-    </header>
-    <main>
-    </main>
-    <%- include("_footer") -%>
+	<header>
+		<%- include("_navbar") -%>
+	</header>
+	<main>
+		<form method="POST">
+			<select name="lang">
+				<option class="en" value="en">EN</option>
+				<option class="fr" value="fr">FR</option>
+			</select>
+			<input type="text" name="name">
+			<input type="submit">
+		</form>
+		<section id="monsters-container">
+			<!-- CONTENT FILLED BY JS -->
+		</section>
+	</main>
+	<%- include("_footer") -%>
 </body>
+<script>
+	const lang = <%- JSON.stringify(lang) %>;
+	const monsters = <%- JSON.stringify(monsters) %>;
+	const vocabulary = <%- JSON.stringify(vocabulary) %>;
+
+	document.querySelector(`.${lang}`).setAttribute("selected", true);
+	document.querySelector(`input[type="submit"]`).setAttribute("value", vocabulary.send);
+	document.querySelector(`input[type="text"]`).setAttribute("placeholder", vocabulary.name);
+	const monstersContainer = document.querySelector("#monsters-container");
+	monstersContainer.innerHTML = '';
+
+	monsters.forEach(monster => {
+		// console.log(monster.name.fr);
+		console.log(monster.zone[0]["chapter5"]);
+
+		const tmp = `
+			<div class="monster-card">
+				<div>
+					<h3>${monster.name[lang]}</h3>
+				</div>
+				<hr>
+				<div class="monster-box">
+					<div class="img-container">
+						<img src="${monster.imgPath}" alt="${monster.imgPath}">
+					</div>
+					<div class="tableau">
+						<div class="stats-box">
+							<div class="monster-id">
+								<div>${vocabulary.number}</div>
+								<div>${monster.id}</div>
+							</div>
+							<div class="monster-hp">
+								<div>${vocabulary.hp}</div>
+								<div>${monster.hp}</div>
+							</div>
+							<div class="monster-mp">
+								<div>${vocabulary.mp}</div>
+								<div>${monster.mp}</div>
+							</div>
+							<div class="monster-attack">
+								<div>${vocabulary.attack}</div>
+								<div>${monster.attack}</div>
+							</div>
+							<div class="monster-defense">
+								<div>${vocabulary.defense}</div>
+								<div>${monster.defense}</div>
+							</div>
+							<div class="monster-speed">
+								<div>${vocabulary.speed}</div>
+								<div>${monster.speed}</div>
+							</div>
+							<div class="monster-exp">
+								<div>${vocabulary.exp}</div>
+								<div>${monster.exp}</div>
+							</div>
+							<div class="monster-gold">
+								<div>${vocabulary.gold}</div>
+								<div>${monster.gold}</div>
+							</div>
+						</div>
+						<div class="itemszone-box">
+							<div><h4>${vocabulary.items}</h4>${monster.items[0] ? monster.items[0] : "Aucun"}</div>
+							<div><h4>${vocabulary.zone}</h4>${[1, 2, 3, 4, 5].forEach(i => {
+								monster.zone[0][`chapter${i}`].forEach(area => {
+									return `<p>${area}</p>`;
+								});
+							})}</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		`;
+		monstersContainer.innerHTML += tmp;
+	});
+</script>
 </html>

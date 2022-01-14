@@ -1,5 +1,6 @@
 {
 	"id" : 2,
+	"imgPath" : "img/heroes/ragnar.png",
 	"name" : {
 		"en" : "Ragnar McRyan",
 		"es" : "Ragnar McRyan",
