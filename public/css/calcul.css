@@ -1,3 +1,17 @@
+:root{
+	--dark : #1E1E1E;
+    --dark2 : #333;
+
+    --light : #858585;
+    --light2 : #c4c4c4;
+
+    --white : #FEFEFE;
+
+    --red : #CE9178;
+    --green : #16825D;
+    --blue : #007ACC;
+}
+
 html{
     min-height: 100%;
     padding: 8rem 0;
@@ -8,7 +22,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100%;
-    background-color: #1E1E1E;
+    background-color: var(--dark);
 }
 
 form{
@@ -16,23 +30,23 @@ form{
     flex-flow: column nowrap;
     padding: 2.4rem;
     box-shadow: #1E1E1E33 1px 1px 8px;
-    background-color: #333333;
+    background-color: var(--dark2);
 }
 
 .box {
     display: flex;
     flex-flow: column nowrap;
-    margin: .8rem 0;
+    margin: .8rem .4rem;
     padding: .4rem;
-    background-color: #858585;
+    background-color: var(--light);
     border-radius: .4rem;
 }
 
 input{
     padding: .8rem;
     margin: .4rem;
-    background-color: #1E1E1E;
-    color: #fefefe;
+    background-color: var(--dark);
+    color: var(--white);
     border: none;
     border-radius: .4rem;
 }
@@ -47,7 +61,7 @@ input[type=number] {
 }
 
 input[type="submit"]{
-    color: #fefefe;
+    color: var(--white);
     font-weight: bold;
     border: none;
     border-radius: .4rem;
@@ -58,18 +72,18 @@ input[type="submit"]:hover{
     opacity: 1;
 }
 #empty{
-    background-color: #CE9178;
+    background-color: var(--red);
 }
 #send{
-    background-color: #007ACC;
+    background-color: var(--blue);
 }
 
 #error-msg{
     visibility: hidden;
     opacity: 0;
-    background-color: #CE9178;
+    background-color: var(--red);
     padding: .8rem;
-    color: #fefefe;
+    color: var(--white);
     transition: all .3s ease-in-out;
 }
 
@@ -79,8 +93,8 @@ input[type="submit"]:hover{
     margin: .4rem;
     border: none;
     border-radius: .4rem;
-    background-color : #16825D;
-    color: #fefefe;
+    background-color : var(--green);
+    color: var(--white);
     font-weight: bold;
 }
 
@@ -91,8 +105,8 @@ input[type="submit"]:hover{
     width: 2.4rem;
     height: 2.4rem;
     margin: .4rem;
-    background-color: #c4c4c4;
-    color: #fefefe;
+    background-color: var(--light2);
+    color: var(--white);
     border: none;
     border-radius: .4rem;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Breezeicons-places-16-user-trash.svg/800px-Breezeicons-places-16-user-trash.svg.png");
