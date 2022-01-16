@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/calcul.css">
+</head>
+<body>
+	<form onSubmit="return false;">
+		<p id="error-msg">msg</p>
+
+		<input class="current-exp" type="number" placeholder="Exp actuel">
+
+		<div class="box">
+			<input class="chara-name" type="text" placeholder="Nom du personnage" value="Alina">
+			<input class="required-exp" type="number" placeholder="Exp requis">
+			<span class="result"></span>
+		</div>
+		<div class="box">
+			<input class="chara-name" type="text" placeholder="Nom du personnage" value="Kiryl">
+			<input class="required-exp" type="number" placeholder="Exp requis">
+			<span class="result"></span>
+		</div>
+		<div class="box">
+			<input class="chara-name" type="text" placeholder="Nom du personnage" value="Borya">
+			<input class="required-exp" type="number" placeholder="Exp requis">
+			<span class="result"></span>
+		</div>
+		<div class="box">
+			<input class="chara-name" type="text" placeholder="Nom du personnage" value="Torneko">
+			<input class="required-exp" type="number" placeholder="Exp requis">
+			<span class="result"></span>
+		</div>
+		<div class="box">
+			<input class="chara-name" type="text" placeholder="Nom du personnage" value="Mina">
+			<input class="required-exp" type="number" placeholder="Exp requis">
+			<span class="result"></span>
+		</div>
+		<div class="box">
+			<input class="chara-name" type="text" placeholder="Nom du personnage" value="Maya">
+			<input class="required-exp" type="number" placeholder="Exp requis">
+			<span class="result"></span>
+		</div>
+		<div class="box">
+			<input class="chara-name" type="text" placeholder="Nom du personnage" value="Psaro">
+			<input class="required-exp" type="number" placeholder="Exp requis">
+			<span class="result"></span>
+		</div>
+		<div class="btn-box">
+			<input id="empty" type="submit" value="Vider">
+			<input id="send" type="submit" value="Calculer">
+		</div>
+	</form>
+</body>
+<script>
+	const currentExp = document.querySelector(".current-exp");
+	const errorMsg = document.querySelector("#error-msg");
+	document.querySelectorAll(".box").forEach(box => {
+		const btn = document.createElement("button");
+		btn.classList.add("delete-btn");
+		btn.addEventListener("click", ()=> {
+			box.style.display = "none";
+		})
+		box.appendChild(btn);
+	})
+
+	const updateResults = () => {
+		document.querySelectorAll(".required-exp").forEach((requiredExp, i) => {
+			if (!currentExp.value && !Number.isInteger(parseInt(currentExp.value))){
+				errorMsg.style.visibility = "visible";
+				errorMsg.style.opacity = "1";
+				errorMsg.innerText = "Entrez l'exp actuel !";
+				currentExp.style.backgroundColor = "#ed4956";
+				setTimeout(() => {
+					errorMsg.style.visibility = "hidden";
+					errorMsg.style.opacity = "0";
+					currentExp.style.backgroundColor = "#fefefe";
+				}, 2000);
+				return false;
+			};
+			const value = parseInt(requiredExp.value);
+			if (requiredExp.value && Number.isInteger(value)){
+				console.log(`${i} : ${document.querySelectorAll(".chara-name")[i].value} : ${value}`);
+				const result = document.querySelectorAll(".result")[i];
+				result.style.display = "block";
+				result.innerText = `${parseInt(currentExp.value) + value}`;
+			};
+		});
+	};
+
+	const emptyPage = () => {
+		currentExp.value = '';
+		// document.querySelectorAll(".chara-name").forEach(e => e.value = '');
+		document.querySelectorAll(".required-exp").forEach(e => e.value = '');
+		document.querySelectorAll(".result").forEach(e => {
+			e.style.display = "none";
+			e.innerText = '';
+		});
+	}
+
+	document.querySelector("#send").addEventListener("click", updateResults);
+	document.querySelector("#empty").addEventListener("click", emptyPage);
+</script>
+</html>

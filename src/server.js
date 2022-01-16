@@ -8,8 +8,8 @@ require("dotenv").config();
 const pathMonstersJSON = path.join(__dirname, "/data/monsters.json");
 const monsters = JSON.parse(fs.readFileSync(pathMonstersJSON).toString());
 
-const pathHeroesJSON = path.join(__dirname, "/data/heroes.json");
-const heroes = JSON.parse(fs.readFileSync(pathHeroesJSON).toString());
+// const pathHeroesJSON = path.join(__dirname, "/data/heroes.json");
+// const heroes = JSON.parse(fs.readFileSync(pathHeroesJSON).toString());
 
 app.set("view engine", "ejs");
 app.use(express.urlencoded({ extended: true }));
@@ -62,6 +62,9 @@ app.post("/", (req, res) => {
 	console.log(filteredMonsters);
 	const lang = req.body.lang;
 	res.status(200).render("index", {monsters : filteredMonsters, lang, vocabulary : getVocabulary(lang)});
+})
+app.get("/calcul", (req, res) => {
+	res.render("calcul");
 })
 // app.get("/heroes", (req, res) => {
 //     res.render("heroes", {heroes});
