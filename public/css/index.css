@@ -9,6 +9,7 @@ main {
 form {
 	display: flex;
 	justify-content: center;
+	align-items: center;
 	padding: .8rem;
 }
 form input {
@@ -54,7 +55,7 @@ form select {
 	justify-content: center;
 	align-items: flex-start;
 	margin: 2.4rem;
-	min-width: 6.4rem;
+	width: 12rem;
 }
 
 .monster-box .tableau{

@@ -9,6 +9,7 @@
 			"jp" : "?Gluant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 8,
 		"mp" : 0,
 		"attack" : 9,
@@ -49,6 +50,7 @@
 			"jp" : "?Londuleux"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 11,
 		"mp" : 0,
 		"attack" : 10,
@@ -93,6 +95,7 @@
 			"jp" : "?Rat volant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 14,
 		"mp" : 0,
 		"attack" : 11,
@@ -131,6 +134,7 @@
 			"jp" : "?Scarapince"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 9,
 		"mp" : 0,
 		"attack" : 9,
@@ -169,6 +173,7 @@
 			"jp" : "?Gluanbulle"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 12,
 		"mp" : 0,
 		"attack" : 11,
@@ -207,6 +212,7 @@
 			"jp" : "?Pataupe"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 10,
 		"mp" : 0,
 		"attack" : 10,
@@ -243,6 +249,7 @@
 			"jp" : "?Souche louche"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 21,
 		"mp" : 0,
 		"attack" : 18,
@@ -282,6 +289,7 @@
 			"jp" : "?Médigluant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 16,
 		"mp" : 0,
 		"attack" : 13,
@@ -324,6 +332,7 @@
 			"jp" : "?Taupelle"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 16,
 		"mp" : 0,
 		"attack" : 19,
@@ -362,6 +371,7 @@
 			"jp" : "?Fée tide"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 17,
 		"mp" : 2,
 		"attack" : 16,
@@ -401,6 +411,7 @@
 			"jp" : "?Archer vert"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 21,
 		"mp" : 3,
 		"attack" : 26,
@@ -437,6 +448,7 @@
 			"jp" : "?Ornitro"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 22,
 		"mp" : 3,
 		"attack" : 25,
@@ -474,6 +486,7 @@
 			"jp" : "?Fée brile"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 33,
 		"mp" : 2,
 		"attack" : 17,
@@ -508,6 +521,7 @@
 			"jp" : "?Chérubus"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 29,
 		"mp" : 3,
 		"attack" : 26,
@@ -542,6 +556,7 @@
 			"jp" : "?Poids-coq"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 31,
 		"mp" : 0,
 		"attack" : 28,
@@ -579,6 +594,7 @@
 			"jp" : "?Clindœil"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 42,
 		"mp" : 0,
 		"attack" : 29,
@@ -613,6 +629,7 @@
 			"jp" : "?Fourmiasme"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 8,
 		"mp" : 0,
 		"attack" : 8,
@@ -649,6 +666,7 @@
 			"jp" : "?Gluante"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 10,
 		"mp" : 0,
 		"attack" : 9,
@@ -684,6 +702,7 @@
 			"jp" : "?Glair de lune"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 13,
 		"mp" : 0,
 		"attack" : 13,
@@ -724,6 +743,7 @@
 			"jp" : "?Chauve-sourat"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 11,
 		"mp" : 0,
 		"attack" : 11,
@@ -759,6 +779,7 @@
 			"jp" : "?Chienfernal"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 23,
 		"mp" : 0,
 		"attack" : 19,
@@ -800,6 +821,7 @@
 			"jp" : "?Sacaver"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 16,
 		"mp" : 0,
 		"attack" : 8,
@@ -834,6 +856,7 @@
 			"jp" : "?Champigoule"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 19,
 		"mp" : 0,
 		"attack" : 19,
@@ -869,6 +892,7 @@
 			"jp" : "?Taurapace"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 20,
 		"mp" : 0,
 		"attack" : 22,
@@ -905,6 +929,7 @@
 			"jp" : "?Morchidée"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 17,
 		"mp" : 0,
 		"attack" : 21,
@@ -942,6 +967,7 @@
 			"jp" : "?Feu follet"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 12,
 		"mp" : 2,
 		"attack" : 11,
@@ -982,6 +1008,7 @@
 			"jp" : "?Démon piquant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 25,
 		"mp" : 0,
 		"attack" : 21,
@@ -1017,6 +1044,7 @@
 			"jp" : "?Tortilleux"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 30,
 		"mp" : 0,
 		"attack" : 30,
@@ -1053,6 +1081,7 @@
 			"jp" : "?Scarasomniaque"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 23,
 		"mp" : 6,
 		"attack" : 22,
@@ -1090,6 +1119,7 @@
 			"jp" : "?Komodor"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 32,
 		"mp" : 0,
 		"attack" : 30,
@@ -1123,6 +1153,7 @@
 			"jp" : "?Démonius"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 25,
 		"mp" : 3,
 		"attack" : 26,
@@ -1159,6 +1190,7 @@
 			"jp" : "?Vipère à crête"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 31,
 		"mp" : 4,
 		"attack" : 31,
@@ -1195,6 +1227,7 @@
 			"jp" : "?Scorpion blindé"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 33,
@@ -1230,6 +1263,7 @@
 			"jp" : "?Vampierre"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 25,
 		"mp" : 3,
 		"attack" : 25,
@@ -1267,6 +1301,7 @@
 			"jp" : "?Cyclown"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 41,
 		"mp" : 4,
 		"attack" : 29,
@@ -1303,6 +1338,7 @@
 			"jp" : "?Batratueur"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 34,
 		"mp" : 0,
 		"attack" : 32,
@@ -1339,6 +1375,7 @@
 			"jp" : "?Mouchomme"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 34,
 		"mp" : 3,
 		"attack" : 31,
@@ -1376,6 +1413,7 @@
 			"jp" : "?Cimetueur"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 29,
 		"mp" : 0,
 		"attack" : 35,
@@ -1410,6 +1448,7 @@
 			"jp" : "?Ptéranodon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 41,
 		"mp" : 8,
 		"attack" : 28,
@@ -1448,6 +1487,7 @@
 			"jp" : "?Dragonlule"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 47,
 		"mp" : 3,
 		"attack" : 36,
@@ -1482,6 +1522,7 @@
 			"jp" : "?Matœil"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 35,
 		"mp" : 6,
 		"attack" : 30,
@@ -1516,6 +1557,7 @@
 			"jp" : "?Squelépéiste"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 52,
 		"mp" : 8,
 		"attack" : 49,
@@ -1552,6 +1594,7 @@
 			"jp" : "?Armure errante"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 54,
 		"mp" : 0,
 		"attack" : 45,
@@ -1588,6 +1631,7 @@
 			"jp" : "?Gluant de métal"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 4,
 		"mp" : 12,
 		"attack" : 20,
@@ -1626,6 +1670,7 @@
 			"jp" : "?Elépieuvre"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 28,
 		"mp" : 0,
 		"attack" : 22,
@@ -1660,6 +1705,7 @@
 			"jp" : "?Ornithox"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 10,
 		"mp" : 0,
 		"attack" : 10,
@@ -1698,6 +1744,7 @@
 			"jp" : "?Démon cornu"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 14,
 		"mp" : 0,
 		"attack" : 13,
@@ -1731,6 +1778,7 @@
 			"jp" : "?Démon cornu"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 14,
 		"mp" : 0,
 		"attack" : 13,
@@ -1764,6 +1812,7 @@
 			"jp" : "?Gris-gris"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 15,
 		"mp" : 3,
 		"attack" : 17,
@@ -1797,6 +1846,7 @@
 			"jp" : "?Diablutin"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 20,
 		"mp" : 3,
 		"attack" : 20,
@@ -1832,6 +1882,7 @@
 			"jp" : "?Ornicryo"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 25,
 		"mp" : 3,
 		"attack" : 30,
@@ -1867,6 +1918,7 @@
 			"jp" : "?Pyroblatte"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 20,
 		"mp" : 0,
 		"attack" : 27,
@@ -1900,6 +1952,7 @@
 			"jp" : "?Gluantification"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 0,
@@ -1936,6 +1989,7 @@
 			"jp" : "?Roi gluant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 150,
 		"mp" : 2,
 		"attack" : 40,
@@ -1972,6 +2026,7 @@
 			"jp" : "?Ratatattaque"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 35,
 		"mp" : 0,
 		"attack" : 38,
@@ -2007,6 +2062,7 @@
 			"jp" : "?Salivard"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 43,
 		"mp" : 4,
 		"attack" : 32,
@@ -2045,6 +2101,7 @@
 			"jp" : "?Cyclotronc"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 28,
 		"mp" : 5,
 		"attack" : 28,
@@ -2077,6 +2134,7 @@
 			"jp" : "?Tigriff"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 50,
 		"mp" : 0,
 		"attack" : 54,
@@ -2114,6 +2172,7 @@
 			"jp" : "?Fée lée"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 36,
 		"mp" : 3,
 		"attack" : 31,
@@ -2150,6 +2209,7 @@
 			"jp" : "?Paralysabre"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 30,
 		"mp" : 0,
 		"attack" : 40,
@@ -2187,6 +2247,7 @@
 			"jp" : "?Flammerolle"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 20,
@@ -2221,6 +2282,7 @@
 			"jp" : "?Vampaul"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 38,
 		"mp" : 6,
 		"attack" : 40,
@@ -2258,6 +2320,7 @@
 			"jp" : "?Scorpion d'assaut"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 42,
 		"mp" : 0,
 		"attack" : 50,
@@ -2292,6 +2355,7 @@
 			"jp" : "?Poids-plume"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 52,
 		"mp" : 0,
 		"attack" : 47,
@@ -2332,6 +2396,7 @@
 			"jp" : "?Geckorrosif"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 42,
@@ -2368,6 +2433,7 @@
 			"jp" : "?Dionéneuse"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 37,
 		"mp" : 3,
 		"attack" : 39,
@@ -2403,6 +2469,7 @@
 			"jp" : "?Dardeur"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 17,
 		"mp" : 0,
 		"attack" : 21,
@@ -2437,6 +2504,7 @@
 			"jp" : "?Mandragore"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 30,
 		"mp" : 0,
 		"attack" : 44,
@@ -2469,6 +2537,7 @@
 			"jp" : "?Tire-flèches"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 27,
 		"mp" : 0,
 		"attack" : 46,
@@ -2503,6 +2572,7 @@
 			"jp" : "?Yeti des sables"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 55,
 		"mp" : 0,
 		"attack" : 45,
@@ -2535,6 +2605,7 @@
 			"jp" : "?Yeti des sables"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 55,
 		"mp" : 0,
 		"attack" : 45,
@@ -2567,6 +2638,7 @@
 			"jp" : "?Tizon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 75,
 		"mp" : 8,
 		"attack" : 65,
@@ -2602,6 +2674,7 @@
 			"jp" : "?Champimage"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 43,
 		"mp" : 10,
 		"attack" : 40,
@@ -2637,6 +2710,7 @@
 			"jp" : "?Bovipare"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 52,
 		"mp" : 6,
 		"attack" : 43,
@@ -2670,6 +2744,7 @@
 			"jp" : "?Diablotin"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 55,
@@ -2703,6 +2778,7 @@
 			"jp" : "?Marcagicien"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 38,
 		"mp" : 8,
 		"attack" : 40,
@@ -2735,6 +2811,7 @@
 			"jp" : "?Armure infernale"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 58,
 		"mp" : 0,
 		"attack" : 63,
@@ -2772,6 +2849,7 @@
 			"jp" : "?Yéti yétu"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 75,
 		"mp" : 0,
 		"attack" : 65,
@@ -2804,6 +2882,7 @@
 			"jp" : "?Soldat squelette"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 80,
 		"mp" : 10,
 		"attack" : 82,
@@ -2840,6 +2919,7 @@
 			"jp" : "?Talismaboule"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 42,
@@ -2873,6 +2953,7 @@
 			"jp" : "?Bête sauvage"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 80,
 		"mp" : 0,
 		"attack" : 60,
@@ -2906,6 +2987,7 @@
 			"jp" : "?Dragonnet"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 67,
 		"mp" : 0,
 		"attack" : 64,
@@ -2938,6 +3020,7 @@
 			"jp" : "?Gourou coucou"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 100,
 		"mp" : 10,
 		"attack" : 54,
@@ -2971,6 +3054,7 @@
 			"jp" : "?Asticocon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 25,
 		"mp" : 5,
 		"attack" : 60,
@@ -3005,6 +3089,7 @@
 			"jp" : "?Guérigluant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 60,
 		"mp" : 0,
 		"attack" : 60,
@@ -3038,6 +3123,7 @@
 			"jp" : "?Abracadabraque"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 80,
 		"mp" : 8,
 		"attack" : 80,
@@ -3071,6 +3157,7 @@
 			"jp" : "?Tigrrr"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 100,
 		"mp" : 4,
 		"attack" : 73,
@@ -3105,6 +3192,7 @@
 			"jp" : "?Rhinocérosse"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 70,
 		"mp" : 0,
 		"attack" : 88,
@@ -3138,6 +3226,7 @@
 			"jp" : "?Mini démon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 95,
 		"mp" : 24,
 		"attack" : 103,
@@ -3175,6 +3264,7 @@
 			"jp" : "?Glacianodon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 85,
 		"mp" : 0,
 		"attack" : 66,
@@ -3210,6 +3300,7 @@
 			"jp" : "?Armure fatale"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 64,
 		"mp" : 5,
 		"attack" : 80,
@@ -3243,6 +3334,7 @@
 			"jp" : "?Rochexplosif"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 300,
 		"mp" : 1,
 		"attack" : 0,
@@ -3275,6 +3367,7 @@
 			"jp" : "?Radiaptor"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 90,
 		"mp" : 10,
 		"attack" : 85,
@@ -3309,6 +3402,7 @@
 			"jp" : "?Byleth"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 125,
 		"mp" : 20,
 		"attack" : 90,
@@ -3342,6 +3436,7 @@
 			"jp" : "?Cavalier fantôme"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 180,
 		"mp" : 8,
 		"attack" : 110,
@@ -3376,6 +3471,7 @@
 			"jp" : "?Ronflicorne"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 90,
 		"mp" : 0,
 		"attack" : 95,
@@ -3410,6 +3506,7 @@
 			"jp" : "?Coq-toc"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 85,
 		"mp" : 0,
 		"attack" : 81,
@@ -3443,6 +3540,7 @@
 			"jp" : "?Toréamorse"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 120,
 		"mp" : 0,
 		"attack" : 112,
@@ -3476,6 +3574,7 @@
 			"jp" : "?Gluant de mercure"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 5,
 		"mp" : 0,
 		"attack" : 65,
@@ -3510,6 +3609,7 @@
 			"jp" : "?Humbaba"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 90,
 		"mp" : 0,
 		"attack" : 109,
@@ -3544,6 +3644,7 @@
 			"jp" : "?Libellugon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 105,
 		"mp" : 0,
 		"attack" : 84,
@@ -3578,6 +3679,7 @@
 			"jp" : "?Terminataure"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 380,
 		"mp" : 0,
 		"attack" : 125,
@@ -3612,6 +3714,7 @@
 			"jp" : "?Berserkerlette"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 130,
 		"mp" : 0,
 		"attack" : 140,
@@ -3648,6 +3751,7 @@
 			"jp" : "?Grimasque"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 91,
 		"mp" : 14,
 		"attack" : 84,
@@ -3682,6 +3786,7 @@
 			"jp" : "?Pokérosaure"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 114,
 		"mp" : 36,
 		"attack" : 98,
@@ -3715,6 +3820,7 @@
 			"jp" : "?Dragonnier"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 141,
 		"mp" : 0,
 		"attack" : 115,
@@ -3750,6 +3856,7 @@
 			"jp" : "?Mouche des neiges"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 90,
 		"mp" : 12,
 		"attack" : 70,
@@ -3784,6 +3891,7 @@
 			"jp" : "?Phacomage"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 110,
 		"mp" : 36,
 		"attack" : 83,
@@ -3818,6 +3926,7 @@
 			"jp" : "?Rejeton de l'enfer"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 130,
 		"mp" : 0,
 		"attack" : 108,
@@ -3851,6 +3960,7 @@
 			"jp" : "?Lame sanglante"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 114,
 		"mp" : 3,
 		"attack" : 89,
@@ -3885,6 +3995,7 @@
 			"jp" : "?Apprentiran"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 98,
 		"mp" : 0,
 		"attack" : 115,
@@ -3917,6 +4028,7 @@
 			"jp" : "?Gourou vaudou"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 100,
 		"mp" : 6,
 		"attack" : 120,
@@ -3951,6 +4063,7 @@
 			"jp" : "?Coagluant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 140,
 		"mp" : 30,
 		"attack" : 90,
@@ -3983,6 +4096,7 @@
 			"jp" : "?Rhinocérache"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 142,
 		"mp" : 17,
 		"attack" : 120,
@@ -4018,6 +4132,7 @@
 			"jp" : "?Hippovol"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 113,
 		"mp" : 3,
 		"attack" : 92,
@@ -4051,6 +4166,7 @@
 			"jp" : "?Hippovol"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 113,
 		"mp" : 3,
 		"attack" : 92,
@@ -4084,6 +4200,7 @@
 			"jp" : "?Glazon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 85,
 		"mp" : 11,
 		"attack" : 50,
@@ -4116,6 +4233,7 @@
 			"jp" : "?Wyverne"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 120,
 		"mp" : 0,
 		"attack" : 134,
@@ -4149,6 +4267,7 @@
 			"jp" : "?Fourmicmac"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 90,
 		"mp" : 10,
 		"attack" : 109,
@@ -4183,6 +4302,7 @@
 			"jp" : "?Belzébik"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 250,
 		"mp" : 12,
 		"attack" : 123,
@@ -4216,6 +4336,7 @@
 			"jp" : "?Roi guérigluant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 150,
 		"mp" : 0,
 		"attack" : 90,
@@ -4249,6 +4370,7 @@
 			"jp" : "?Rhinofurax"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 220,
 		"mp" : 7,
 		"attack" : 200,
@@ -4282,6 +4404,7 @@
 			"jp" : "?Gourou jajou"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 130,
 		"mp" : 48,
 		"attack" : 132,
@@ -4314,6 +4437,7 @@
 			"jp" : "?Grand faucheur"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 250,
 		"mp" : 26,
 		"attack" : 130,
@@ -4347,6 +4471,7 @@
 			"jp" : "?Bouledogre"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 210,
 		"mp" : 0,
 		"attack" : 143,
@@ -4380,6 +4505,7 @@
 			"jp" : "?Mygalion"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 110,
@@ -4413,6 +4539,7 @@
 			"jp" : "?Empereur nocturne"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 220,
 		"mp" : 24,
 		"attack" : 143,
@@ -4445,6 +4572,7 @@
 			"jp" : "?Roi gluant de métal"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 7,
 		"mp" : 0,
 		"attack" : 140,
@@ -4479,6 +4607,7 @@
 			"jp" : "?Dragon vert"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 143,
 		"mp" : 0,
 		"attack" : 136,
@@ -4511,6 +4640,7 @@
 			"jp" : "?Typhonphonphon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 80,
 		"mp" : 30,
 		"attack" : 152,
@@ -4543,6 +4673,7 @@
 			"jp" : "?Baron d'os"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 146,
 		"mp" : 14,
 		"attack" : 127,
@@ -4575,6 +4706,7 @@
 			"jp" : "?Sméagoule"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 134,
 		"mp" : 0,
 		"attack" : 155,
@@ -4611,6 +4743,7 @@
 			"jp" : "?Maskoteck"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 150,
 		"mp" : 0,
 		"attack" : 142,
@@ -4645,6 +4778,7 @@
 			"jp" : "?Vicius"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 140,
 		"mp" : 0,
 		"attack" : 162,
@@ -4680,6 +4814,7 @@
 			"jp" : "?Crotale"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 200,
 		"mp" : 0,
 		"attack" : 147,
@@ -4712,6 +4847,7 @@
 			"jp" : "?Damoisel"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 123,
 		"mp" : 5,
 		"attack" : 127,
@@ -4745,6 +4881,7 @@
 			"jp" : "?Belzébouc"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 250,
 		"mp" : 24,
 		"attack" : 178,
@@ -4779,6 +4916,7 @@
 			"jp" : "?Pitbrûle"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 165,
 		"mp" : 0,
 		"attack" : 170,
@@ -4811,6 +4949,7 @@
 			"jp" : "?Globulœil"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 250,
 		"mp" : 23,
 		"attack" : 8,
@@ -4844,6 +4983,7 @@
 			"jp" : "?Feutocopieur"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 153,
 		"mp" : 105,
 		"attack" : 104,
@@ -4879,6 +5019,7 @@
 			"jp" : "?Guerracotta"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 400,
 		"mp" : 0,
 		"attack" : 142,
@@ -4911,6 +5052,7 @@
 			"jp" : "?Fléogre"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 380,
 		"mp" : 0,
 		"attack" : 220,
@@ -4944,6 +5086,7 @@
 			"jp" : "?Dragon rouge"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 167,
 		"mp" : 28,
 		"attack" : 183,
@@ -4976,6 +5119,7 @@
 			"jp" : "?Primatraque"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 250,
 		"mp" : 8,
 		"attack" : 135,
@@ -5009,6 +5153,7 @@
 			"jp" : "?Bebête sauvage"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 178,
 		"mp" : 0,
 		"attack" : 125,
@@ -5041,6 +5186,7 @@
 			"jp" : "?Maximage"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 900,
 		"mp" : 0,
 		"attack" : 162,
@@ -5076,6 +5222,7 @@
 			"jp" : "?Prince des ténèbres"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 200,
 		"mp" : 38,
 		"attack" : 172,
@@ -5109,6 +5256,7 @@
 			"jp" : "?Cavalier des enfers"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 300,
 		"mp" : 35,
 		"attack" : 175,
@@ -5143,6 +5291,7 @@
 			"jp" : "?Wyvereine"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 400,
 		"mp" : 0,
 		"attack" : 195,
@@ -5177,6 +5326,7 @@
 			"jp" : "?Rejeton du démon"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 180,
 		"mp" : 28,
 		"attack" : 135,
@@ -5210,6 +5360,7 @@
 			"jp" : "?Cavalier nocturne"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 300,
 		"mp" : 0,
 		"attack" : 200,
@@ -5243,6 +5394,7 @@
 			"jp" : "?Bastonnier"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 330,
 		"mp" : 0,
 		"attack" : 19,
@@ -5275,6 +5427,7 @@
 			"jp" : "?Chevalier nébuleux"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 200,
 		"mp" : 20,
 		"attack" : 132,
@@ -5307,6 +5460,7 @@
 			"jp" : "?Légionellos"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 350,
 		"mp" : 20,
 		"attack" : 125,
@@ -5339,6 +5493,7 @@
 			"jp" : "?Main sanglante"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 185,
 		"mp" : 50,
 		"attack" : 125,
@@ -5371,6 +5526,7 @@
 			"jp" : "?Démon orageux"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 259,
 		"mp" : 0,
 		"attack" : 142,
@@ -5403,6 +5559,7 @@
 			"jp" : "?Draguar"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 352,
 		"mp" : 27,
 		"attack" : 165,
@@ -5435,6 +5592,7 @@
 			"jp" : "?Saltimbranque"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 375,
 		"mp" : 70,
 		"attack" : 188,
@@ -5467,6 +5625,7 @@
 			"jp" : "?Cerberk"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 300,
 		"mp" : 0,
 		"attack" : 175,
@@ -5499,6 +5658,7 @@
 			"jp" : "?Satanglier"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 360,
 		"mp" : 50,
 		"attack" : 180,
@@ -5531,6 +5691,7 @@
 			"jp" : "?Stryge"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 380,
 		"mp" : 20,
 		"attack" : 180,
@@ -5563,6 +5724,7 @@
 			"jp" : "?Dark-en-ciel"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 456,
 		"mp" : 120,
 		"attack" : 200,
@@ -5595,6 +5757,7 @@
 			"jp" : "?Métallogre"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 360,
 		"mp" : 0,
 		"attack" : 195,
@@ -5627,6 +5790,7 @@
 			"jp" : "?Draculard"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 520,
 		"mp" : 50,
 		"attack" : 220,
@@ -5659,6 +5823,7 @@
 			"jp" : "?Togre"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 440,
 		"mp" : 65,
 		"attack" : 203,
@@ -5691,6 +5856,7 @@
 			"jp" : "?Djinn-fizz"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 350,
 		"mp" : 0,
 		"attack" : 170,
@@ -5723,6 +5889,7 @@
 			"jp" : "?Bicorneau"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 190,
 		"mp" : 8,
 		"attack" : 133,
@@ -5755,6 +5922,7 @@
 			"jp" : "?Alligatortue"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 170,
 		"mp" : 0,
 		"attack" : 165,
@@ -5787,6 +5955,7 @@
 			"jp" : "?Roi crôa"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 400,
 		"mp" : 38,
 		"attack" : 190,
@@ -5819,6 +5988,7 @@
 			"jp" : "?Aquasaure"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 450,
 		"mp" : 0,
 		"attack" : 240,
@@ -5851,6 +6021,7 @@
 			"jp" : "?Bijou royal en platine"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 200,
 		"mp" : 100,
 		"attack" : 210,
@@ -5883,6 +6054,7 @@
 			"jp" : "?Canniboîte"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 100,
 		"mp" : 0,
 		"attack" : 140,
@@ -5915,6 +6087,7 @@
 			"jp" : "?Imitapeur"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 190,
 		"mp" : 7,
 		"attack" : 120,
@@ -5951,6 +6124,7 @@
 			"jp" : "?Boîte de Pandore"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 900,
 		"mp" : 10,
 		"attack" : 240,
@@ -5983,6 +6157,7 @@
 			"jp" : "?Puisard"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 120,
 		"mp" : 0,
 		"attack" : 75,
@@ -6015,6 +6190,7 @@
 			"jp" : "?Puits-sang"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 210,
 		"mp" : 20,
 		"attack" : 120,
@@ -6047,6 +6223,7 @@
 			"jp" : "?Méduse"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 35,
@@ -6079,6 +6256,7 @@
 			"jp" : "?Ver mine"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 90,
 		"mp" : 0,
 		"attack" : 65,
@@ -6111,6 +6289,7 @@
 			"jp" : "?Saumonstrueux"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 55,
 		"mp" : 3,
 		"attack" : 58,
@@ -6143,6 +6322,7 @@
 			"jp" : "?Axolotl"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 64,
 		"mp" : 6,
 		"attack" : 73,
@@ -6175,6 +6355,7 @@
 			"jp" : "?Raie pulsive"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 0,
 		"attack" : 50,
@@ -6207,6 +6388,7 @@
 			"jp" : "?Barracuda"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 47,
 		"mp" : 0,
 		"attack" : 6,
@@ -6239,6 +6421,7 @@
 			"jp" : "?Pterygotus"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 44,
 		"mp" : 6,
 		"attack" : 52,
@@ -6271,6 +6454,7 @@
 			"jp" : "?Poulpotrompe"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 120,
 		"mp" : 0,
 		"attack" : 53,
@@ -6303,6 +6487,7 @@
 			"jp" : "?Rascrasse"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 90,
 		"mp" : 6,
 		"attack" : 81,
@@ -6335,6 +6520,7 @@
 			"jp" : "?Matamorse"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 150,
 		"mp" : 0,
 		"attack" : 98,
@@ -6367,6 +6553,7 @@
 			"jp" : "?Elasmosaure"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 48,
 		"mp" : 0,
 		"attack" : 42,
@@ -6399,6 +6586,7 @@
 			"jp" : "?Vipère des sables"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 130,
 		"mp" : 3,
 		"attack" : 85,
@@ -6432,6 +6620,7 @@
 			"jp" : "?Massacraie"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 72,
 		"mp" : 0,
 		"attack" : 72,
@@ -6464,6 +6653,7 @@
 			"jp" : "?Pterroridactyle"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 105,
 		"mp" : 7,
 		"attack" : 115,
@@ -6496,6 +6686,7 @@
 			"jp" : "?Glacyclone"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 100,
 		"mp" : 6,
 		"attack" : 74,
@@ -6530,6 +6721,7 @@
 			"jp" : "?Mégacuda"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 120,
 		"mp" : 10,
 		"attack" : 88,
@@ -6564,6 +6756,7 @@
 			"jp" : "?Charpiranha"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 35,
 		"mp" : 7,
 		"attack" : 39,
@@ -6596,6 +6789,7 @@
 			"jp" : "?Calaphant"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 300,
 		"mp" : 0,
 		"attack" : 75,
@@ -6630,6 +6824,7 @@
 			"jp" : "?Incinéraiteur"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 98,
 		"mp" : 0,
 		"attack" : 110,
@@ -6664,6 +6859,7 @@
 			"jp" : "?Misamorse"
 		},
 		"type" : "enemy",
+		"phases" : 1,
 		"hp" : 150,
 		"mp" : 0,
 		"attack" : 55,
@@ -6697,6 +6893,7 @@
 			"jp" : "?Sbire de Psaro"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 250,
 		"mp" : 0,
 		"attack" : 52,
@@ -6727,6 +6924,7 @@
 			"jp" : "?Maître Kung"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 40,
 		"mp" : 6,
 		"attack" : 28,
@@ -6759,6 +6957,7 @@
 			"jp" : "?Abominhomme des neiges"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 55,
 		"mp" : 0,
 		"attack" : 40,
@@ -6789,6 +6988,7 @@
 			"jp" : "?Dickenz"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 300,
 		"mp" : 0,
 		"attack" : 72,
@@ -6819,6 +7019,7 @@
 			"jp" : "?Angélus"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 35,
 		"mp" : 0,
 		"attack" : 37,
@@ -6849,6 +7050,7 @@
 			"jp" : "?Tigroar"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 230,
 		"mp" : 9,
 		"attack" : 78,
@@ -6879,6 +7081,7 @@
 			"jp" : "?Lord Lionel"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 950,
 		"mp" : 0,
 		"attack" : 123,
@@ -6911,6 +7114,7 @@
 			"jp" : "?Déickenz"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 500,
 		"mp" : 0,
 		"attack" : 150,
@@ -6941,6 +7145,7 @@
 			"jp" : "?Sire Rosegarde"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 1200,
 		"mp" : 0,
 		"attack" : 175,
@@ -6973,6 +7178,7 @@
 			"jp" : "?Rashaverak"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 450,
 		"mp" : 0,
 		"attack" : 193,
@@ -7005,6 +7211,7 @@
 			"jp" : "?Pruslas"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 2300,
 		"mp" : 0,
 		"attack" : 230,
@@ -7037,6 +7244,7 @@
 			"jp" : "?Barbatos"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 3300,
 		"mp" : 0,
 		"attack" : 190,
@@ -7069,6 +7277,7 @@
 			"jp" : "?Aamon"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 1600,
 		"mp" : 0,
 		"attack" : 165,
@@ -7099,6 +7308,7 @@
 			"jp" : "?Estark"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 2700,
 		"mp" : 0,
 		"attack" : 210,
@@ -7129,6 +7339,7 @@
 			"jp" : "?Cent-ans"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 2800,
 		"mp" : 254,
 		"attack" : 240,
@@ -7161,6 +7372,7 @@
 			"jp" : "?Cinq-épices"
 		},
 		"type" : "boss",
+		"phases" : 1,
 		"hp" : 2800,
 		"mp" : 254,
 		"attack" : 240,
@@ -7185,7 +7397,15 @@
 	},
 	{
 		"id" : 211,
-		"imgPath" : "img/monsters/211.png",
+		"imgPath" : {
+			"phase1" : "img/monsters/211.png",
+			"phase2" : "img/monsters/211.png",
+			"phase3" : "img/monsters/211.png",
+			"phase4" : "img/monsters/211.png",
+			"phase5" : "img/monsters/211.png",
+			"phase6" : "img/monsters/211.png",
+			"phase7" : "img/monsters/211.png"
+		},
 		"name" : {
 			"en" : "Psaro",
 			"es" : "?Psaro",
@@ -7193,6 +7413,7 @@
 			"jp" : "?Psaro"
 		},
 		"type" : "boss",
+		"phases" : 7,
 		"hp" : {
 			"phase1" : 2000,
 			"phase2" : 1600,
@@ -7256,7 +7477,12 @@
 	},
 	{
 		"id" : 212,
-		"imgPath" : "img/monsters/212.png",
+		"imgPath" : {
+			"phase1" : "img/monsters/212.png",
+			"phase2" : "img/monsters/212.png",
+			"phase3" : "img/monsters/212.png",
+			"phase4" : "img/monsters/212.png"
+		},
 		"name" : {
 			"en" : "Aamon",
 			"es" : "?Aamon",
@@ -7264,6 +7490,7 @@
 			"jp" : "?Aamon"
 		},
 		"type" : "boss",
+		"phases" : 4,
 		"hp" : {
 			"phase1" : 1800,
 			"phase2" : 2000,
@@ -7275,7 +7502,6 @@
 			"phase2" : 255,
 			"phase3" : 2000,
 			"phase4" : 254
-			
 		},
 		"attack" : {
 			"phase1" : 320,

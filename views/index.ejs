@@ -17,12 +17,28 @@
 	</header>
 	<main>
 		<form method="POST">
+			<label for="order">Trier par</label>
+			<select name="prop">
+				<option value="id">Numéro</option>
+				<option value="name">Nom</option>
+				<option value="hp">PV</option>
+				<option value="mp">PM</option>
+				<option value="attack">Attaque</option>
+				<option value="defense">Défense</option>
+				<option value="speed">Agilité</option>
+				<option value="exp">Expérience donné</option>
+				<option value="gold">Or lâché</option>
+			</select>
+			<select name="order">
+				<option value="ascending">Ordre croissant</option>
+				<option value="descending">Ordre décroissant</option>
+			</select>
 			<select name="lang">
 				<option class="en" value="en">EN</option>
 				<option class="fr" value="fr">FR</option>
 			</select>
 			<input type="text" name="name">
-			<input type="submit">
+			<input type="submit" onclick="(e) => {e.preventDefault()}">
 		</form>
 		<section id="monsters-container">
 			<!-- CONTENT FILLED BY JS -->
@@ -32,10 +48,14 @@
 </body>
 <script>
 	const lang = <%- JSON.stringify(lang) %>;
+	const prop = <%- JSON.stringify(prop) %>;
+	const order = <%- JSON.stringify(order) %>;
 	const monsters = <%- JSON.stringify(monsters) %>;
 	const vocabulary = <%- JSON.stringify(vocabulary) %>;
 
 	document.querySelector(`.${lang}`).setAttribute("selected", true);
+	document.querySelector(`[value=${prop}]`).setAttribute("selected", true);
+	document.querySelector(`[value=${order}]`).setAttribute("selected", true);
 	document.querySelector(`input[type="submit"]`).setAttribute("value", vocabulary.send);
 	document.querySelector(`input[type="text"]`).setAttribute("placeholder", vocabulary.name);
 	const monstersContainer = document.querySelector("#monsters-container");
@@ -43,7 +63,16 @@
 
 	monsters.forEach(monster => {
 		// console.log(monster.name.fr);
-		console.log(monster.zone[0]["chapter5"]);
+		// console.log(monster.zone[0]["chapter5"]);
+
+		if (monster.phases > 1) {
+			monster.imgPath = monster.imgPath.phase1;
+			monster.hp = monster.hp.phase1;
+			monster.mp = monster.mp.phase1;
+			monster.attack = monster.attack.phase1;
+			monster.defense = monster.defense.phase1;
+			monster.speed = monster.speed.phase1;
+		};
 
 		const tmp = `
 			<div class="monster-card">
@@ -53,7 +82,7 @@
 				<hr>
 				<div class="monster-box">
 					<div class="img-container">
-						<img src="${monster.imgPath}" alt="${monster.imgPath}">
+						<img src="${monster.imgPath}" alt="${monster.name} img">
 					</div>
 					<div class="tableau">
 						<div class="stats-box">
@@ -91,7 +120,8 @@
 							</div>
 						</div>
 						<div class="itemszone-box">
-							<div><h4>${vocabulary.items}</h4>${monster.items[0] ? monster.items[0] : "Aucun"}</div>
+							<div><h4>${vocabulary.items}</h4>${monster.items[0] ? monster.items[0] :
+								vocabulary.none}</div>
 							<div><h4>${vocabulary.zone}</h4>${[1, 2, 3, 4, 5].forEach(i => {
 								monster.zone[0][`chapter${i}`].forEach(area => {
 									return `<p>${area}</p>`;

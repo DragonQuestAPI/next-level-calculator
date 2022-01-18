@@ -29,6 +29,7 @@ const getVocabulary = (lang) => {
 				exp : "Experience",
 				gold : "Gold",
 				items : "Item",
+				none : "None",
 				zone : "Localization",
 				name : "Name",
 				send : "Send"
@@ -44,6 +45,7 @@ const getVocabulary = (lang) => {
 				exp : "Exp",
 				gold : "Or",
 				items : "Objet",
+				none : "Aucun",
 				zone : "Localisation",
 				name : "Nom",
 				send : "Envoyer"
@@ -52,20 +54,49 @@ const getVocabulary = (lang) => {
 }
 
 app.get("/", (req, res) => {
-	const lang = "en";
-	res.status(200).render("index", {monsters, lang, vocabulary : getVocabulary(lang)});
+	res.status(200).render("index", {
+		monsters,
+		lang : "en",
+		prop : "id",
+		order : "descending",
+		vocabulary : getVocabulary("en")
+	});
 });
 app.post("/", (req, res) => {
-	filteredMonsters = monsters.filter(monster => {
-		return (monster.name[req.body.lang].toLowerCase()).includes((req.body.name).toLowerCase());
+	const {lang, name, prop, order} = req.body;
+	let filteredMonsters = monsters.filter(monster => (monster.name[lang].toLowerCase()).includes((name).toLowerCase()));
+
+	const sortMonsters = (_prop, _order) => {
+		if (_order === "descending") {
+			filteredMonsters.sort((a, b) => (a[_prop] > b[_prop] ? -1 : 1));
+		} else {
+			filteredMonsters.sort((a, b) => (a[_prop] > b[_prop] ? 1 : -1));
+		};
+	};
+
+	switch (prop) {
+		case "name":
+			if (order === "descending") {
+				filteredMonsters.sort((a, b) => (a.name[lang] > b.name[lang] ? -1 : 1));
+			} else {
+				filteredMonsters.sort((a, b) => (a.name[lang] > b.name[lang] ? 1 : -1));
+			}
+			break;
+		default:
+			sortMonsters(prop, order);
+	};
+
+	res.status(200).render("index", {
+		monsters : filteredMonsters,
+		lang,
+		prop,
+		order,
+		vocabulary : getVocabulary(lang)
 	});
-	console.log(filteredMonsters);
-	const lang = req.body.lang;
-	res.status(200).render("index", {monsters : filteredMonsters, lang, vocabulary : getVocabulary(lang)});
-})
+});
 app.get("/calcul", (req, res) => {
 	res.render("calcul");
-})
+});
 // app.get("/heroes", (req, res) => {
 //     res.render("heroes", {heroes});
 // });
