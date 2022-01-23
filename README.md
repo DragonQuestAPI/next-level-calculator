@@ -1,8 +1,8 @@
-# Dragon Quest IV API
+# Dragon Quest IV Data
 
 ## /!\ WORK IN PROGRESS /!\
 
-An API featuring all the data about the fourth episode of the Dragon Quest game developed by Square Enix.
+An API project featuring all the datas about the fourth episode of the Dragon Quest game developed by Square Enix.
 
 ## What does it includes ?
 
