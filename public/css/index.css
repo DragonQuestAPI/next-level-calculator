@@ -17,6 +17,12 @@ form input {
 	margin: .8rem;
 }
 
+form select,
+form select option,
+form input[type="submit"] {
+	cursor: pointer;
+}
+
 form select {
 	padding: .8rem;
 	margin: .8rem;

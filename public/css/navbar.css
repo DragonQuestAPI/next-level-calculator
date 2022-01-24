@@ -1,4 +1,8 @@
-#navbar{
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,22 +10,50 @@
     background-color: var(--main-color);
 }
 
-#navbar > div {
-    display: flex;
-    flex-basis: 33.333333%;
+#navbar .logo {
+    position: absolute;
+    top: 0;
+    left: 1.2rem;
+    height: 100%;
+    animation: moveInFromLeft 1s ease-in-out;
+    background-color: purple;
+}
+#navbar .logo img {
+    height: 175%;
+    object-fit: contain;
+}
+@keyframes moveInFromLeft {
+    0%{
+        left: translateX(-100%);
+    }
+    100%{
+        left: translateX(1.2rem);
+    }
 }
 
-#navbar > div > a {
-    margin: 0 1.6rem;
-}
-
-#navbar ul{
+#navbar ul {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
+    align-items: center;
     width: 100%;
     height: 100%;
     color: var(--white);
 }
-#navbar ul a:hover{
-    text-decoration: underline;
+#navbar ul li{
+    height: 100%;
+}
+#navbar ul li:hover{
+    background-color: var(--secondary-color);
+    transition: all .3s ease-in-out;
+}
+#navbar ul a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 0 1.6rem;
+    transition: all .1s ease-in-out;
+}
+#navbar ul a:hover {
+    transform: scale(1.12);
 }
