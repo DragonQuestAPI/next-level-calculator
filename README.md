@@ -4,7 +4,7 @@
 
 An API project featuring all the datas about the fourth episode of the Dragon Quest game developed by Square Enix.
 
-## What does it includes ?
+## What does it include ?
 
 ### The characters
 
