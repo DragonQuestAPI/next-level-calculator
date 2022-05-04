@@ -4,7 +4,7 @@
 		"imgPath" : "img/monsters/1.png",
 		"name" : {
 			"en" : "Slime",
-			"es" : "?Slime",
+			"es" : "Limo",
 			"fr" : "Gluant",
 			"jp" : "?Gluant"
 		},
@@ -45,7 +45,7 @@
 		"imgPath" : "img/monsters/2.png",
 		"name" : {
 			"en" : "Wiggly",
-			"es" : "?Wiggly",
+			"es" : "Gusano Loco",
 			"fr" : "Londuleux",
 			"jp" : "?Londuleux"
 		},
@@ -90,7 +90,7 @@
 		"imgPath" : "img/monsters/3.png",
 		"name" : {
 			"en" : "Air rat",
-			"es" : "?Air rat",
+			"es" : "Rata Aérea",
 			"fr" : "Rat volant",
 			"jp" : "?Rat volant"
 		},
@@ -129,7 +129,7 @@
 		"imgPath" : "img/monsters/4.png",
 		"name" : {
 			"en" : "Scissor beatle",
-			"es" : "?Scissor beatle",
+			"es" : "Tijereta",
 			"fr" : "Scarapince",
 			"jp" : "?Scarapince"
 		},
@@ -168,7 +168,7 @@
 		"imgPath" : "img/monsters/5.png",
 		"name" : {
 			"en" : "Bubble Slime",
-			"es" : "?Bubble Slime",
+			"es" : "Burbujilimo",
 			"fr" : "Gluanbulle",
 			"jp" : "?Gluanbulle"
 		},
@@ -207,7 +207,7 @@
 		"imgPath" : "img/monsters/6.png",
 		"name" : {
 			"en" : "Mischievous mole",
-			"es" : "?Mischievous mole",
+			"es" : "Malitopo",
 			"fr" : "Pataupe",
 			"jp" : "?Pataupe"
 		},
@@ -244,7 +244,7 @@
 		"imgPath" : "img/monsters/7.png",
 		"name" : {
 			"en" : "Stump chump",
-			"es" : "?Stump chump",
+			"es" : "Tocón Tontorrón",
 			"fr" : "Souche louche",
 			"jp" : "?Souche louche"
 		},
@@ -284,7 +284,7 @@
 		"imgPath" : "img/monsters/8.png",
 		"name" : {
 			"en" : "Healslime",
-			"es" : "?Healslime",
+			"es" : "Medulimo Cicatrizante",
 			"fr" : "Médigluant",
 			"jp" : "?Médigluant"
 		},
@@ -327,7 +327,7 @@
 		"imgPath" : "img/monsters/9.png",
 		"name" : {
 			"en" : "Mad mole",
-			"es" : "?Mad mole",
+			"es" : "Furitopo",
 			"fr" : "Taupelle",
 			"jp" : "?Taupelle"
 		},
@@ -366,7 +366,7 @@
 		"imgPath" : "img/monsters/10.png",
 		"name" : {
 			"en" : "Winkster",
-			"es" : "?Winkster",
+			"es" : "Truhán",
 			"fr" : "Fée tide",
 			"jp" : "?Fée tide"
 		},
