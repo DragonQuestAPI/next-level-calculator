@@ -1,20 +1,22 @@
 {
-  "name": "dqiv_library",
+  "name": "next-level-calculator",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "A simple web app where you can easily calculate the required experience for multiple characters at once.",
+  "main": "src/server.js",
   "scripts": {
-    "start": "nodemon src/server.js",
-    "dev": "node src/server.js"
+    "start": "node .",
+    "dev": "nodemon ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Dragon Quest", "Exp", "Calculator", "Next level"],
+  "author": "NaorimSenchai, offered to the Dragon Quest API Team",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^0.24.0",
-    "dotenv": "^11.0.0",
-    "ejs": "^3.1.6",
-    "express": "^4.17.2",
-    "nodemon": "^2.0.15"
+    "axios": "^1.2.3",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }

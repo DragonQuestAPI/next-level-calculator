@@ -1,97 +1,150 @@
-body {
-	background-color: #fefefe;
+@import url("./styles.css");
+
+:root {
+	--dark : #1E1E1E;
+	--dark2 : #333;
+
+	--light : #858585;
+	--light2 : #c4c4c4;
+
+	--white : #FEFEFE;
+
+	--red : #d15625;
+	--red-hover : #cd7d5d;
+	--green : #058357;
+	--green-hover : #149f6e;
+	--blue : #08419e;
+	--blue-hover : #1d5abc;
 }
 
-main {
-	min-height: calc(100vh - var(--navbar-height));
+html {
+	min-height: 100%;
+	padding: 8rem 0;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	background-color: var(--dark);
 }
 
 form {
 	display: flex;
-	justify-content: center;
-	align-items: center;
-	padding: .8rem;
-}
-form input {
-	padding: .8rem;
-	margin: .8rem;
-}
-
-form select,
-form select option,
-form input[type="submit"] {
-	cursor: pointer;
-}
-
-form select {
-	padding: .8rem;
-	margin: .8rem;
-}
-
-/* ----------------------------------- */
-
-#monsters-container {
-	display: flex;
 	flex-flow: column nowrap;
-	align-items: center;
+	padding: 2.4rem;
+	box-shadow: #1E1E1E33 1px 1px 8px;
+	background-color: var(--dark2);
 }
+	form h1{
+		color: var(--white);
+		text-align: center;
+	}
+	#error-msg {
+		visibility: hidden;
+		opacity: 0;
+		background-color: var(--red);
+		padding: .8rem;
+		color: var(--white);
+		transition: all .3s ease-in-out;
+	}
 
-.monster-card {
-	display: flex;
-	flex-flow: column nowrap;
-	margin: .8rem;
-	padding: .8rem;
-	max-width: 86rem;
-	/* border-radius: .2rem; */
-	background-color: var(--white);
-	box-shadow: #29292933 2px 2px 8px;
-}
+	.box {
+		display: flex;
+		flex-flow: column nowrap;
+		align-items: flex-end;
+		margin: .8rem .4rem;
+		padding: .4rem;
+		background-color: var(--light);
+		border-radius: .4rem;
+	}
 
-.monster-card hr {
-	margin: .8rem 0;
-}
+		input {
+			padding: .8rem;
+			margin: .4rem;
+			background-color: var(--dark);
+			color: var(--white);
+			border: none;
+			border-radius: .4rem;
+		}
+		input[type="number"] {
+			-webkit-appearance: textfield !important;
+			-moz-appearance: textfield !important;
+		}
+		.result {
+			display: none;
+			padding: .8rem;
+			margin: .4rem;
+			border: none;
+			border-radius: .4rem;
+			background-color : var(--green);
+			color: var(--white);
+			font-weight: bold;
+		}
+		.delete-btn {
+			display: flex;
+			width: 1.8rem;
+			height: 1.8rem;
+			margin: .4rem;
+			background-color: var(--red);
+			color: var(--white);
+			border: none;
+			border-radius: 50%;
+			background-image: url("/img/delete.svg");
+			background-size: 50%;
+			background-position: center;
+			background-repeat: no-repeat;
+			backdrop-filter: brightness(2);
+			cursor: pointer;
+		}
+		.delete-btn:hover{
+			background-color: var(--red-hover);
+		}
+	
+	form hr {
+		margin: .8rem .4rem;
+		border: solid .5px var(--light);
+		background-color: var(--light);
+	}
 
-.monster-card .monster-box {
-	display: flex;
-	flex-flow: row nowrap;
-}
+	#add-box-btn {
+		padding: .2rem;
+		margin: .8rem .4rem;
+		background-color: inherit;
+		color: var(--light2);
+		font-weight: bold;
+		border: solid .2rem var(--light2);
+		border-radius: .4rem;
+		cursor: pointer;
+		transition: all .1s ease-in-out;
+	}
+	#add-box-btn:hover{
+		background-color: #fefefe33;
+	}
 
-.monster-box .img-container {
-	display: flex;
-	justify-content: center;
-	align-items: flex-start;
-	margin: 2.4rem;
-	width: 12rem;
-}
-
-.monster-box .tableau{
-	display: flex;
-	flex-grow: 1;
-	flex-flow: column nowrap;
-	background-color: var(--tertiary-color);
-}
-
-.monster-box .stats-box {
-	display: flex;
-}
-.monster-box .stats-box div {
-	display: flex;
-	flex-grow: 1;
-	flex-flow: column nowrap;
-	border: solid .5px var(--white);
-}
-.monster-box .stats-box div div:first-child {
-	background-color: var(--main-color);
-}
-
-.monster-box .stats-box div div {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	padding: .8rem;
-}
-
-.tableau .itemszone-box div{
-	padding: .8rem;
-	border: solid .5px var(--white);
-}
+	.buttons-box {
+		display: flex;
+		margin: .8rem .4rem;
+		justify-content: space-around;
+	}
+		.buttons-box input[type="submit"] {
+			color: var(--white);
+			font-weight: bold;
+			border: none;
+			border-radius: .4rem;
+			cursor: pointer;
+			flex-basis: 50%;
+		}
+		#empty {
+			background-color: var(--red);
+		}
+		#empty:hover{
+			background-color: var(--red-hover);
+		}
+		#send {
+			background-color: var(--blue);
+		}
+		#send:hover{
+			background-color: var(--blue-hover);
+		}
